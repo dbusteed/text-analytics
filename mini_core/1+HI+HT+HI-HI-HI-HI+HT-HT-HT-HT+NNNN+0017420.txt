@@ -1,0 +1,19 @@
+<0017420>
+<http://multimedia.journalism.berkeley.edu/tutorials/imovie/splitting/>
+<Rater 1: HI_HT *  * N * ID: A1IM92Q6UK32DV>
+<Rater 2: HI_HT *  * N * ID: A3I546VTF7B6YX>
+<Rater 3: HI_HT *  * N * ID: A3L60SOWLYEDN2>
+<Rater 4: HI_IS *  * N * ID: A3KEC9CE406TM0>
+
+<h> imovie
+<h> Splitting and Deleting Part of a Clip
+<p> You can split a clip into two separate segments, and then delete one of the segments.
+<p> Select the clip in the Viewer to display it in the Monitor.
+<p> Click on the point where you want to divide the clip. The Playhead triangle will move to that point in your timeline.
+<p> Now in the menu at the top of the screen select Edit...Split Video Clip at Playhead.
+<p> The clip splits into two clips in the Timeline. If it's Clip. No. 1, it will split into Clip No. 1 and Clip No. 1/1.
+<p> Now in the Timeline select the clip you want to delete, and either press the delete key on your keyboard or in the menu at the top of the screen select Edit...Cut.
+<p> Note: You can also use this method of splitting a clip to insert a transition in the middle of a clip or add a title to only a portion of a clip. Or you can use this method to split a clip in two so you can move one segment to another section of your movie.
+<h> about this tutorial
+<p> This tutorial is based on lectures Ellen Seidler gave in multimedia skills classes at the UC Berkeley Graduate School of Journalism. It was written by Paul Grabowicz and edited and illustrated by Pamela Reynolds .
+

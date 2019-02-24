@@ -1,0 +1,33 @@
+<0619592>
+<http://download.chip.eu/en/how_to/How-to-Create-a-Rule-in-Microsoft-Outlook_9881354.html>
+<Rater 1: HI_HT * RC * N * ID: A31NM1MBTECA53>
+<Rater 2: HI_HT * RC * N * ID: A37SNFHBHBPZQE>
+<Rater 3: HI_HT *  * N * ID: A2IVUW3VOHJL8J>
+<Rater 4: HI_IS * RC * N * ID: A1DTQSIIYIZL62>
+
+<h> Member Login
+<h> Book Marks
+<h> How to Create a Rule in Microsoft Outlook
+<p> If you're one of those popular, busy people who receives dozens of emails an hour (either at home or in the workplace), then you might also find yourself wasting precious time opening emails of low importance and wondering how to make more efficient use of your time.
+<p> Modern office applications such as Outlook provide an array of features that help you to do this, and one of the most popular methods of improving time management is to get the application to sift your emails for you by use of the Rules feature.
+<p> Creating Rules will enable you to perform certain actions automatically based on specific criteria of your choosing, freeing you to focus on critical new email. Read on for the lowdown.
+<h> Step-by-Step Instructions
+<p> 1
+<p> Launch Outlook by locating the Microsoft Office folder within the Start Menu and clicking the Microsoft Outlook entry. The program can take several seconds to initiate, especially if you have many folders containing a high volume of entries (such as email, contacts, appointments and tasks).
+<p> 2
+<p> Click Tools on the main toolbar and choose Rules and Alerts. The Rules and Alerts dialog is displayed. If any current Rules have been set up, they are summarised here and can be either edited or deleted.
+<p> 3
+<p> Click New Rule to launch the Rules Wizard. Select Move Messages from someone to a folder and click Next.
+<p> There are many different types of Rules that can be set up. We will run through how to divert emails from a specific person to a specific folder. Once this has been mastered, the concept of Rules within Microsoft Outlook will be much more easily understood, and you can experiment until you find the right configuration for your needs.
+<p> 4
+<p> In the next step of the Wizard, from people or distribution list is automatically checked. Leave this as is and click people or distribution list within the Step 2 box at the bottom of the Wizard. Locate the contact you wish to create the rule for, and click their entry to select them. Click OK to confirm.
+<p> 5
+<p> Click specified within the Step 2 box at the bottom of the Wizard.
+<p> 6
+<p> Select a folder within the folder tree, if it exists. If you wish to create a new folder, click New and enter a Name, then click the parent folder where it will be created. Click OK.
+<p> 7
+<p> Click Finish to add the rule. Any emails that arrive from the contact you specified will automatically be transferred to the folder you specified.
+<h> Tips & Advice
+<p> Experiment with the assortment of different rule types provided by Microsoft Outlook. You can automatically delete emails from a specific person, move messages based on specific keywords in the subject (useful if emails on a particular topic are being sent to you and you wish to logically group them together) or even Flag messages from a specific person (such as your boss).
+<p> Be careful with Rules. It can be easy to go crazy with them and create far too many, which often results in confusion -- especially if Rules are conflicting with one another.
+

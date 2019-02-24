@@ -1,0 +1,20 @@
+<0285095>
+<http://www.stuffintheair.com/how-to-make-a-barometer.html>
+<Rater 1: HI_HT * RC * N * ID: A29WHPBW1R07CT>
+<Rater 2: HI_HT * RC * N * ID: A2Y0ZGI29KQBTB>
+<Rater 3: HI_HT * RC * N * ID: A3209D1227UCYP>
+<Rater 4: HI_HT * RC * N * ID: A9K0CV70JWG1W>
+
+<p> How to make a barometer work: to calibrate, compare the movements in millimetres with the changes in reported barometric pressure. Determine how many observed pressure units, either kiloPascals or hundredths of an inch of mercury each millimeter on the ruler represents.
+<p> For best results, use your barometer indoors where the temperature remains almost constant.
+<h> How does a barometer work?
+<p> The mass of air above the water inside the straw does not change, but the increased pressure causes it to occupy a smaller space, provided the temperature does not change. The whole system seems to know how to make a barometer respond.
+<p> One of Galileo's students, Evangelista Torricelli, wrote We live submerged at the bottom of an ocean of elementary air, which is known by incontestable experiments to have weight . This has become a famous quotation in meteorology.
+<p> Barometers have been developed to help us determine that weight. Traditional barometers come in two types:
+<p> Liquid barometers - someone figured out how to make a barometer with a vertical tube containing either water or mercury. If it has mercury, which is far more common, its height changes from around two to nearly three feet at ground level when the atmospheric pressure changes.
+<p> How often does that happen? Every day, but not by a lot, usually. When people, usually American citizens and pilots, say that the pressure is 29 inches or some number close to that, they are talking about mercury.
+<p> Most often, this is the height the mercury column would be if "corrected to sea level". Mathematically adjusted to give the correct pressure if the elevation were equal to zero.
+<p> What does elevation have to do with it? The air pressure drops off quickly as you climb uphill and this effect cannot be ignored when interpreting data.
+<p> Aneroid barometers - a sealed container cannot let air escape. When you have one of these with flexible walls, the walls move when the air pressure outside changes. And we can measure how much they move.
+<p> How to make a barometer improve aviation safety? Airplanes use an aneroid barometer to help pilots figure out how high they are above the ground. They call this device an altimeter. See more on the Weather Equipment web page.
+

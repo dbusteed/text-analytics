@@ -1,0 +1,18 @@
+<0642378>
+<http://www.tmhrconsulting.com/blog/web-application-development/web-site-security/how-to-find-cookies-on-website/>
+<Rater 1: HI_HT *  * N * ID: A1J9Z6EM4ZIWVE>
+<Rater 2: HI_HT *  * N * ID: A3I546VTF7B6YX>
+<Rater 3: HI_HT *  * N * ID: AQ4LZOO47NLS4>
+<Rater 4: HI_IS *  * N * ID: A2YEXXMJ5EDJFI>
+
+<h> How to find out what Cookies are Running on Web page or Website
+<p> by tmhr consulting admin on October 26, 2012
+<p> It is still not very clear as to how and when the cookies rules are to be enforced in the UK and other parts of Europe. These rules have been created to help protect users from unwanted advertising but so far there is still quite a bit of confusion.
+<p> To protect your company from any possible problems it is important for you to be able to report what Cookies are being used on your websites.
+<p> There are a number of ways to do this but one of the easiest ways of doing this is using the Chrome browser to display them. To do this you need to open your web site in Google Chrome and click on the Options icon.
+<p> Once you have the Options menu open you need to select Tools and then Developer Tools .
+<p> When you select the Developer Tools a web page will open with a menu on the left hand side. You need to scroll down and under the Cookies selection will be your website domain . Next, you need to click on it.
+<p> This will display the cookies that are active on your website and that are collecting user information . In this case we have a user Cookie for the Typo3 CMs and the four Google Analytics Cookies.
+<p> A simple way of reporting those Cookies can be done as follows:
+<p> Has your organization been affected by the Cookies regulations in Europe ? What have you done to respond to the requirements? Please share your experience in the comments below, or on our Facebook page.
+

@@ -1,0 +1,17 @@
+<0442600>
+<http://cambridgepersonality.com/index.php/preferences-tool-link/how-to-use-preference-tool-to-a-type-of-customer-insurance>
+<Rater 1: HI_HT *  * N * ID: A1LX3YP9PCKI72>
+<Rater 2: HI_HT *  * N * ID: A37QW51L039KKQ>
+<Rater 3: HI_HT *  * N * ID: A3MZ9RQJX9T656>
+<Rater 4: HI_HT *  * N * ID: AHTOJLCHOYDDC>
+
+<h> How to use Preference Tool to sell a service to a specific type of customer (Insurance)
+<p> With financial products, like insurance or a loan, the most important issue is the type of customer. If an advertiser simply shows an ad to everyone aged 18+, the most impulsive (and risky) consumers will be most likely to sign up. But by refining your targeting groups by personality, using Preference Tool, you can segment your audience by personality type - in this case, the personality who is most likely to be a good insurance risk.
+<p> Tip: These generic services are likely to be potentially interesting to everyone, and so they are the most difficult to target on Facebook using conventional methods. Where it is possible, like in search marketing (just targeting people searching for "insurance" - duh), it's usually very expensive due to massive competition.
+<p> In this insurance example, after logging in at PreferenceTool.com , instead of searching for a keyword, go straight to the Profiles tab. Drag the slider for the Conscientiousness personality trait to 100%. Conscientiousness distinguishes people who are impulsive and cognitively flexible from those who prefer to plan things in advance and are organized. Research has showed that those high in Conscientiousness are more likely to consider that repaying a loan is a high priority, so they are perfect targets.
+<p> At the time of writing, the most Conscientious keywords are Yolanda Adams, Speaker Education Project and Talbots:
+<p> You'll notice that all of these keywords are relatively unpopular (see their popularity ranks: 9406, 20865 and 21111). This is because choosing 100% conscientiousness picks the most extreme keywords, so as they are so extreme they are less likely to be popular (by definition popular things are likely to be interesting to the average person). The unpopularity of the keywords could be problematic for a campaign manager if you have a target number of advertisements to show over a certain time period. There are two ways around this:
+<p> It doesn't matter, because you can export all of the 100 suggested keywords automatically, so if you have an ad management tool it should be able to import all keywords anyway. 100 unpopular keywords will still lead to lots of ad impressions.
+<p> You can set the Conscientiousness level to be slightly lower (e.g. 90%) - in which case you will be given keywords that are more popular (at the time of writing the highest keyword for 90% Conscientiousness is "Fox News", followed by "Small Business Saturday" and then "Sade").
+<p> Tip: By default the items are ranked in Closeness to your target, followed by Popularity where there is a tie. If you are targeting multiple traits (e.g. 90% Conscientiousness and 90% Agreeableness) then you may find it helpful to re-order the results by Popularity. As with all ad targeting, there is a trade-off between targeting extremely specifically vs. targeting to a wide enough audience - but remember that the 100 best matches from Preference Tool are 100 keywords out of more than 150,000 keywords in our database, so they will all be close matches.
+

@@ -1,0 +1,32 @@
+<0522561>
+<http://perltraining.com.au/tips/2012-04-27.html>
+<Rater 1: HI_HT *  * N * ID: A1FL1M3MOHLDRF>
+<Rater 2: HI_HT *  * N * ID: A34JG5YYW98V22>
+<Rater 3: HI_IS *  * N * ID: A27PJPWGD1QVJP>
+<Rater 4: HI_IS *  * N * ID: A3CTEVJQM763P8>
+
+<p> Building web-sites used to be lots of work. To begin with, you'd need to install a web server. Then you needed to figure out sessions, and cookies, and parsing URLs. If you were lucky, you had a framework to handle all those things for you.
+<p> But one of the best things about Perl is that you can often sit down and start writing code straight away. Wouldn't it be great if we could do the same with websites?
+<p> Well, with Dancer , you can.
+<h> Hello World
+<p> Writing a basic web-server in Dancer is pretty darn easy:
+<p> use Dancer; get '/' =&gt; sub { return 'Hello World!'; }; start;
+<p> Dancer comes with its own web-server for rapid development, so running this code is as simple as saving it to a file and running it:
+<p> The set keyword allows us to set parameters in Dancer. In this case, we're saying that we're going to be using Template::Toolkit as our templating engine.
+<p> The template keyword has Dancer look inside the views/ directory for the specified file - in our case, that's trills.tt . The hash reference passed to template provides parameters to our template; in this case, we're passing the results from get_trills() (which we'll see later), and a title of 'Trillr'.
+<p> This provides a simple Trill me input if we're on a user's page. Since this is a bare-bones example, we're not going to do any authentication; if you post to this page, then you'll post as the user in question. But how do we post?
+<h> Trilling
+<p> In the same way that we can use Dancer's get keyword to process GET requests, we can use the post keyword to interpret POST requests.
+<p> Here we're getting our username from the path, and our trill from the post operation. We're doing some basic error checking, then using insert_trill (discussed later) to insert that into our database. The send_error function is provided by Dancer. We can define a custom error page if we like, but in this example we'll stick to the default.
+<p> The particularly cool part of this is the return forward section at the end. This internally re-writes the user's request as if they've done a GET request for /$name , passing control back to the get '/:name' subroutine we defined above. The trilled = 1&gt; hashref allows us to define an extra param, which we could use to flash a message, change behaviour, or otherwise say "Thanks for trilling".
+<h> Layouts
+<p> When building a website, we'd like to provide common elements on each page. Headers, style sheets, navigation, a copyright notice. Dancer allows us to supply a layout setting, which will wrap any template we use. Setting a layout is easy:
+<p> set layout =&gt; 'default';
+<p> In this case, we're calling our layout default . Our application may have different layouts for different users, sections, or states.
+<p> If we've set a layout, then Dancer goes looking in the views/layouts/ directory, and automatically appends the appropriate template extension to our layout name; in our case, it would open views/layouts/default.tt .
+<p> The big thing to note here is the &lt;% content %&gt; section. This is where our actual content gets inserted. It's also worth noting this is where our &lt;% title %&gt; gets used, which we've seen passed into the templating engine in our previous examples.
+<h> Get the source
+<p> We haven't shown the get_trills() and insert_trill() functions here, because they're not core to using Dancer, but you can find them (and more) by browsing the source code above.
+<h> Find out more
+<p> Dancer can do a lot more than what we've shown in this example. Sessions, rich database access, integration with Plack, debugging and logging facilities, and dozens of plug-ins. Best of all, Dancer is free and open source.
+

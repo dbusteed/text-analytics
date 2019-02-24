@@ -1,0 +1,32 @@
+<0622515>
+<http://www.mpaviation.com/lesson1.htm>
+<Rater 1: HI_HT *  * N * ID: A37I58C4258IPX>
+<Rater 2: HI_IS *  * N * ID: A13JQIAK0MAF3B>
+<Rater 3: HI_IS *  * N * ID: A1P7QDWY4U2H6O>
+<Rater 4: HI_IS *  * N * ID: AZJEGHE4605S5>
+
+<h> Learning to fly.
+<h> Lesson One, Controlling the Aeroplane
+<p> A Cessna 152
+<p> This and subsequent articles will lead through the training process using the Cessna 152 as your trainer. These articles will be necessarily simple and so they won?t have intensive information, they will however give you the flavour of learning to fly and lead you to a better understanding through practical exercises.
+<p> In this lesson we will look at how the aeroplane is controlled on the ground and in the air.
+<p> First of all we will look at the controls and I?ll explain their function.
+<p> The Throttle, it is like the gas pedal in your car and controls the engine's Power output. The Engine RPM/Tachometer gauge is used to determine the power output by displaying engine RPM (Revolutions Per Minute). Pushing the throttle forward (in) increases RPM, and pulling it backwards (out) reduces the RPM. A Mixture Control is used to ensure the engine is fed the right amount of fuel and air at high altitudes, we'll learn more about this later. Left of the throttle there is a Carburettor Heat control. In certain circumstances ice can build up inside the carburettor and choke the engine, we use the carburettor heat to remove this ice, and to prevent it. At power settings below 1900 rpm we apply carburettor heat to prevent icing.
+<p> The Control Column is used to control the aeroplane in flight. It can be rotated to the right and to the left, and moved forward and backwards.
+<p> The Rudder Pedals are on the floor and can be moved forward and backwards by using your feet. If you press the top of these pedals with your toes you will activate the brakes.  The rudder pedals are used to steer the aeroplane on the ground, and to balance it in the air. Both brakes can be applied to stop or slow the aeroplane on the ground, or applied independently to assist the aeroplane in turning.
+<p> The Trim Wheel is used to reduce the control loads as the aeroplanes speed is varied in flight.
+<p> Cessna 152 Taxying
+<p> To begin this lesson your instructor will start the engine, by completing the required items on a checklist. Once started, the throttle is set to give 1,000RPM, and the engine is warmed up.
+<p> We are now ready to taxi, so we throttle back by pulling the throttle backwards and release the brakes.  Sufficient Power is then applied by moving the Throttle slowly forward to move the aeroplane forward and both brakes are applied once again to check their function.
+<p> Now comes the first confusion; rotating the control column, unlike the steering wheel in the car, will not turn the aeroplane on the ground! We have to use the Rudder Pedals to steer the aeroplane on the ground; pushing the right pedal forward will cause the aeroplane to turn right, left pedal to turn left, and applying the respective brake will cause the aeroplane to turn tighter.
+<p> Rotating the control column will not turn the aeroplane on the ground!
+<p> Following the pre-takeoff checks, we are now ready to fly so we taxi onto the runway after ensuring that we are clear to do so!
+<p> The Throttle is pushed in for maximum Power and the aeroplane will accelerate down the runway.  The Rudder Pedals are used to keep straight as we follow the centerline.
+<p> To fly, we have to raise the nose so that the wings can develop lift and take us off the ground, this nose up Attitude is achieved by pulling the Control Column gently backwards. Once the aeroplane has left the ground the control loads are removed by rotating the Trim Wheel in whatever direction the control column force dictates.  So for takeoff we have: Power, Attitude, and Trim !
+<p> The nose is raised to leave the ground
+<p> When we reach the altitude (height) at which we want to fly we will need to level off. In level flight the aeroplane is at a similar Attitude to that when it is on the ground, so we need to move the Control Column forward to return to this attitude. The engine Power required for level flight is less than that for the climb; think of your car going up a hill, and on a level road, you need less pressure on the gas pedal on the level road? When level the aeroplane will accelerate to a higher speed and so the pressure you feel in the Control Column will change, so we use the Trim Wheel , rotating it to Trim this load out. So to level off we have: Attitude, Power, Trim .
+<p> The nose is lowered to the Cruise Attitude for level flight
+<p> To turn in the air we rotate the Control Column in the direction we wish to turn and use the Rudder Pedals to balance the turn; this will be explored in greater detail in the next lesson.
+<p> The Control Column is rotated and the aeroplane will Roll into a Bank to turn.
+<p> In the next lesson we will look at the aeroplanes controls and how we use them to maneouvre in the air.
+

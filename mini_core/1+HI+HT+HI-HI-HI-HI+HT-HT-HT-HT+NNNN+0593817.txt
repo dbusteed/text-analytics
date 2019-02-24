@@ -1,0 +1,19 @@
+<0593817>
+<http://www.openmicroscopy.org/site/support/omero4/developers/Server/HowToCreateAService.html>
+<Rater 1: HI_HT *  * N * ID: A193YDFH1CD4JX>
+<Rater 2: HI_HT *  * N * ID: A1JRV4XD6CG12W>
+<Rater 3: HI_HT *  * N * ID: A2X00L77LYHXM3>
+<Rater 4: HI_HT *  * N * ID: AD0EHH6TG0KF0>
+
+<h> Previous topic
+<h> Next topic
+<h> This Page
+<h> Quick search
+<p> These instructions are for core developers only and may be slightly out of date. They will eventually be revised, but if you are looking for general instructions on extending OMERO with a service, see Extending OMERO . If you would indeed like to create a core service, please contact the ome-devel mailing list
+<p> the interface which will be made available to client and server alike (which is why all interfaces must be located in the /common component). Only serializable and client-available types should enter or exit the API. Must subclass ``ome.api.ServiceInterface`` .
+<p> the implementation which will usually subclass AbstractLevel{1,2}Service or AbstractBean (See more below on super-classes ) This is class obviously requires the most work, both to fulfill the interface's contract and to provide all the metadata (annotations) necessary to properly deploy the service.
+<p> a Spring configuration file, which can "inject" any value available in the server (Omero)context into the implementation. Two short definitions are the minimum. (Currently not definable with annotations.) As explained in the file, the name of the file is not required and in fact the two definitions can be added to any of the files which fall within the lookup definition in the server's beanRefContext.xml file (see below).
+<p> the central session in a blitz. Should always be edited parallel to ServiceFactory.java . Also optional in that MyServicePrxHelper.uncheckedCast( serviceFactoryI.getByName(String) ) can be used instead.
+<p> Singleton definitions which allow for the static location of the active context. These do not need to be edited, but in the case of the server beanRefContext.xml , it does define which files will be used to create the new context (of importance is the line classpath*:ome/services/service-*.xml ). blitz's beanRefContext.xml defines the pattern classpath*:ome/services/blitz-*.xml to allow for blitz-specific configuration.
+<p> Several services implement a server-side subclass of the ome.api interface rather than the interface itself. These interfaces are typically in ome.api.local . Such local interfaces can provide methods that should not be made available to clients, but which are needed within the server. Though not currently used, the @Local() annotation on the implementation can list the local interface for future use. See UpdateImpl for an example.
+

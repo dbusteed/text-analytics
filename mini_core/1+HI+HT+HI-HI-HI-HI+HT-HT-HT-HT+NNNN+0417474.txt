@@ -1,0 +1,20 @@
+<0417474>
+<http://www.knowyourmobile.com/smartphones/htc/onex/onexuserguides/1411517/how_to_factory_reset_your_htc_one_x.html>
+<Rater 1: HI_HT *  * N * ID: A1L14NAWSCAO2F>
+<Rater 2: HI_HT *  * N * ID: A233ONYNWKDIYF>
+<Rater 3: HI_HT *  * N * ID: A3BYE6AJS15HLT>
+<Rater 4: HI_HT *  * N * ID: AWV62CB8YD9D>
+
+<h> How to factory reset your HTC One X
+<h> We walk you through the simple steps required to factory reset your HTC One X
+<p> The One X from HTC is a fantastic smartphone which gives users the perfect package of powerful hardware and open, capable software. It delivers unbeatable performance and will serve you well for as long as you care to let it.
+<p> That aside, there may come a time when you need to start from scratch or you may even wish to sell it on to allow you to upgrade - when that time comes you'll need to know how to roll the device back to square one, in order to protect your personal data and rectify many common problems which occur with modern smartphones.
+<p> Note - As you would assume, resetting your device will remove all data, apps and media. Please make sure you back-up your data before continuing.
+<p> To reset your HTC One X:
+<p> Open 'Settings'
+<p> Tap 'Storage'
+<p> Tap 'Factory data reset'
+<p> Select 'Reset Phone'
+<p> Then choose 'Erase Everything'
+<p> Your phone will now perform a little housekeeping and in a few short minutes you'll be back to the drawing board!
+

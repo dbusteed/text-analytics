@@ -1,0 +1,15 @@
+<0555215>
+<http://rules.ssw.com.au/DesignandPresentation/RulesToBetterVideoRecording/Pages/Do-you-know-how-to-start-recording-with-Camtasia.aspx>
+<Rater 1: HI_HT *  * N * ID: AVX3SWFMBEPMZ>
+<Rater 2: HI_IS *  * N * ID: A3209D1227UCYP>
+<Rater 3: HI_IS *  * N * ID: A3CQZVJVN8AVQ8>
+<Rater 4: HI_IS *  * N * ID: AQ36OBO2GRA00>
+
+<p> Set your screen resolution to as high as possible but do not exceed 1920 x 1080 for a 16:9 display, or 1920 x 1200 for a 16:10 display. If your screen resolution is too low then you will either have to expand the footage in post-production (which will result in a loss of quality) or release a low resolution video (which will become poor quality when watched in full screen).
+<p> In the Recorder window, select 'Full Screen', then turn on the mic. Choosing which mic input to use depends on the type of recording you are doing. If you are filming the session, you should select the internal mic since you will be using this for syncing purposes. If however you are just recording your screen with audio, then select an external mic since this will be higher quality. Figure: Select the options you need
+<p> Select Tools | Options
+<p> In the 'General' tab, uncheck the 'Show tooltips' box and check the 'Disable screensaver during capture'.
+<p> Next step is to select the 'Inputs' tab at the top of the dialog. Set the frame rate to 15. Set the microphone level using the slider. Note: Set the frame rate to 30 if the presentation will contain motion such as video or moving graphics.
+<p> Figure: Check the audio levels
+<p> After you have done all these things, click on 'OK', and then hit the big red 'Rec' button to start recording!
+

@@ -1,0 +1,26 @@
+<0198406>
+<http://www.mobileread.com/forums/showthread.php?p=2300746>
+<Rater 1: ID_DF *  * N * ID: A1P7QDWY4U2H6O>
+<Rater 2: ID_DF *  * N * ID: A2XC6HDW19I1QF>
+<Rater 3: ID_DF *  * N * ID: AQAR1D3D3SA2N>
+<Rater 4: ID_DF *  * N * ID: AZJEGHE4605S5>
+
+<p> I just recently purchased a N2A (CM10 Jellybean) card for a Nook Tablet and I have run into a couple of issues I'm hoping somebody can help me with.
+<p> 1) When booting up, it books into the Nook system software. I read that if you are having problems you should trying powering while the Nook is under power - plugged in. This does work, but the next time I boot after turning off (Nook unplugged), it boots back into the Nook system software again. So my question is:
+<p> Is this a persistent problem (only being able to boot while the Nook is plugged in) - or does this problem eventually go away?
+<p> 2) When I try to reboot into the Nook system from Android using the reboot tool from N2A I get a message stating due to, not having superuser privileges, it's not possible to reboot into the Barnes & Noble system. How is this corrected? I see a permissions setting on the settingins menu for Android but I don't see anything that refers to "superuser or root" permission?
+<p> There are a small percentage of Nook Tablets which require the power cable to be attached to boot from any SD card. There has been much discussion about what it is about the particular hardware in those tablets that causes that. It appears that those tablets need just a small power boost to boot the card.
+<p> N2A has found a very nice portable battery to handle booting "on the go" Since you only need the battery for a moment, until the Tablet starts to boot into Android at which point it can be removed, the battery should last a very long time on a single charge.
+<p> My tablet does the same thing. Just don't completely power off. Once in a while, after turning my tablet off (sleep mode or whatever you want to call it), it wouldn't turn back on again. I had to hold the power switch and the thing would eventually reboot and start back up in the B&N software. This always happened when I wasn't home near my power cord.
+<p> So, I tried just replacing the ROM instead of using it from an SD card. I had the same problem of the tablet not turning back on sometimes, but at least it would reboot to CM7 and I could eventually get back to what I was doing.
+<p> I got sick of it not coming back on. It happened often enough to annoy me. So, I went back to the original B&N ROM and am learning to be happy with that.
+<p> Actually I also have the same problem you describe only it's not a once in a while problem with me. When I put mine to sleep I normally find that I have to do a complete start-up in order to turn it back on and likewise it reboots to the Nook interface.
+<p> There's a few different tutorials on the XDA Developers web site. I don't remember which one I followed.
+<p> Actually both problems have now gone from consistent to infrequent, although I have no idea why. I did not make any changes but my Nook will now normally boot to Android with a few exceptions and problem with the sleep mode has pretty much disappeared as well.
+<p> Anyone who experienced Sleep-of-Death (SoD) problems with recent CM10 should try the CM10 version cm-10-20121114-UNOFFICIAL-acclaim.zip posted here ; it can be flashed into internal emmc, or installed to run off SD using the procedure posted here .
+<p> I've tried it (on SD) and the SoD problem appeared to have been cured.
+<p> ... There are a small percentage of Nook Tablets which require the power cable to be attached to boot from any SD card. There has been much discussion about what it is about the particular hardware in those tablets that causes that. It appears that those tablets need just a small power boost to boot the card. ...
+<p> For some version of CM7 there is a trick posted here to get the NT to boot off SD un-tethered. Sadly I have not been able to get it to work on CM9 or CM10.
+<p> Anyone who experienced Sleep-of-Death (SoD) problems with recent CM10 should try the CM10 version cm-10-20121114-UNOFFICIAL-acclaim.zip posted here ; it can be flashed into internal emmc, or installed to run off SD using the procedure posted here .
+<p> I've tried it (on SD) and the SoD problem appeared to have been cured.
+

@@ -1,0 +1,24 @@
+<0388052>
+<http://libroediting.com/2012/04/11/alphabetical-order-in-word/>
+<Rater 1: HI_HT * RC * N * ID: A3209D1227UCYP>
+<Rater 2: HI_HT * RC * N * ID: A3RFELKHWTBCB4>
+<Rater 3: HI_HT * RC * N * ID: AD0F6ADE4GL00>
+<Rater 4: HI_HT * RC * N * ID: AJFM54LLRKT47>
+
+<h> How to put text in alphabetical order in Word
+<p> 11 Apr
+<p> I was inspired to write this post after having to put yet another student's bibliography into alphabetical order. I know the quick and easy way to do this -- but I don't think a lot of people know that you can do this!
+<p> So, you've got your bibliography, and you've been very good and followed the rules for setting it out (I've used Harvard method here) but it's not in alphabetical order by author surname, and, except in certain cases,* it really should be.
+<p> *A very few referencing systems ask for the bibliography to be in the order in which the references appear in the text. I've hardly ever had to deal with them. But I like completeness!
+<p> So, a lovely list of books but not in order by the authors' surnames. How can we resolve this without swapping all the lines around?
+<p> First, highlight all the text you want to alphabetise. Then, make sure you've got the Home tab at the front. See that little button you've never even seen before, next to the paragraph mark?
+<p> Press the A-Z button and up pops a dialogue box.
+<p> There are all sorts of ways in which you can order the text , which are very similar to the ways you can order text and numbers in Excel. You can even specify whether what you're sorting has a header row (I'm not sure why you'd want to do that, as you can just exclude the header row when you're doing the highlighting, but I suppose it would be useful if you realise you've accidentally highlighted the headers too). I've sorted by Paragraph, Text, and in Ascending Order here, and to be honest, that's what I always do. Click on OK , and look what you get:
+<p> Here's our bibliography in order by author surname with just a highlight of the text and a few clicks -- much quicker and with far less risk of human error than doing it manually.
+<p> Note: if your results come out a bit odd and have split your entries up into two halves, reverse your alphabetising by either hitting Control-Z or the Undo button, and check there aren't any pesky hard returns hiding out in the middle of paragraphs (the best way to do this is to click the Paragraph button , to the right of the A-Z button and look out for bent arrows signifying carriage returns). Get rid of those and alphabetise again to your heart's content!
+<p> This is part of my series on how to avoid time-consuming "short cuts" and use Word in the right way to maximise your time and improve the look of your documents.
+<p> If you have enjoyed this post and found it useful, please click on the "share" buttons below or tell your friends and colleagues about it! Thank you!
+<p> Please note, these hints work with versions of Microsoft Word currently in use -- Word 2003, Word 2007 and Word 2010 , all for PC. Mac compatible versions of Word should have similar options. Always save a copy of your document before manipulating it. I bear no responsibility for any pickles you might get yourself into!
+<h> 6 Responses to How to put text in alphabetical order in Word
+<p> Just one thing to add, Liz -- is it worth making sure first that there are no hard paragraph returns after the first line (where the entry runs over several lines) before you do this? Sometimes inexperienced Word users throw in all sorts of "interesting" (though potentially disruptive) stuff!
+

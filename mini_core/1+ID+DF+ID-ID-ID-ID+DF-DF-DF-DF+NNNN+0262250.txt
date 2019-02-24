@@ -1,0 +1,13 @@
+<0262250>
+<http://www.angekdesign.com.au/forum/ical-calendar-subscription-pro/bugs/the-file-index-is-not-a-valid-calendar-file>
+<Rater 1: ID_DF *  * N * ID: A15EZJS1DROADE>
+<Rater 2: ID_DF *  * N * ID: A1OQIXAU1SEJ4P>
+<Rater 3: ID_DF *  * N * ID: A1QKX5CZJQONP>
+<Rater 4: ID_DF *  * N * ID: A3LNPBZXHKKAA7>
+
+<h> Reply By Email extension for Projectfork 3.0.x.
+<p> Reply By Email is a Joomla 1.7, 2.5 plugin that will enable users to reply to comments and discussions directly from their inbox! No longer will you need to log into Projectfork to reply to a posted comment!
+<p> The Reply By Email extension requires that your hosting account is configured with php-imap and iconv . To ensure that you meet the criteria we have prepared a simple script which you can download from here , unzip and upload to your hosting account's root folder. Once uploaded navigate to http://your-domain/checkcompat.php . If you receive a success message you are right to go!
+<p> I believe that you should probably be offering a different file for Outlook 2003 and Outlook 2007. Alternatively I believe that offering updating calendars only for Outlook 2007/2010 would be acceptable, I've noticed that other sites do this.
+<p> Downloading the Calendar does work, but for project management based stuff I'd say it's useful if the calendar does an automatic update.
+

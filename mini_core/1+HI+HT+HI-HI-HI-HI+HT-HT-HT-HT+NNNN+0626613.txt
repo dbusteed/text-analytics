@@ -1,0 +1,13 @@
+<0626613>
+<http://mathcentral.uregina.ca/QQ/database/QQ.09.09/h/kristen1.html>
+<Rater 1: HI_HT *  * N * ID: A15J7T1DGP7KND>
+<Rater 2: HI_HT *  * N * ID: A1U8SG1ZKX48GG>
+<Rater 3: HI_IS *  * N * ID: APWXTMJO1I1ST>
+<Rater 4: HI_IS *  * N * ID: ARX9SG537BXXL>
+
+<p> If you wanted to know how many ways you could pick 3 donuts without replacement out of 6, and where order doesn't matter (i.e.  picking donuts 1, 2, and 3 is the same as picking donuts 2, 1, and 3) you would get:
+<p> Division by the factorials removes "equivalent" choices.
+<p> Tyler
+<p> * Registered trade mark of Imperial Oil Limited. Used under license.
+<p> Math Central is supported by the University of Regina and the Imperial Oil Foundation.
+

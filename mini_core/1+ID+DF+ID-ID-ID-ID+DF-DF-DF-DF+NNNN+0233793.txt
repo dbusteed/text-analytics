@@ -1,0 +1,17 @@
+<0233793>
+<http://www.lemonamiga.com/forum/viewtopic.php?t=10181&amp;sid=752d37698d83d281daa5fb8d057c717c>
+<Rater 1: ID_DF *  * N * ID: A1ZM09IY4FG9O4>
+<Rater 2: ID_DF *  * N * ID: A2RFWIPVXZ5ON1>
+<Rater 3: ID_DF *  * N * ID: A3UOK7WMVFVHHE>
+<Rater 4: ID_DF *  * N * ID: AZJEGHE4605S5>
+
+<p> Is this any different to a Blizzard card? Can't see any fans on it so assume it just goes in the trapdoor slot and won't have to worry about ventalation? _________________ Owned: Amiga 1200 2mb + 8mb fast, 4gb HD, WHD Load Playstation 2, Nintendo DS, Nintendo Wii
+<p> Yes, fans and ventilation are a new thing in technology. When everything ran sub 25 mhz there was no need for fans. In this case we are talking about a two chip memory card; so there is ZERO need for cooling. Just plugs straight in - just as all good Amiga products should.
+<p> On the down side this is just a ram board, if you want power go for a CPU board, like the Blizzard 1230 IV!
+<p> The big difference, as has been mentioned is that it's not an accelerator card. Just a RAM card. Now, just having FAST RAM speeds up your Amiga, so it's does make things faster, but it's not a faster CPU.
+<p> That said, I had a RAM card for quite a while and it worked great.
+<p> 1 thing (and it's mentioned in the post) is that it's not PCMCIA friendly with 8M.
+<p> That means, you can't use this card with an 8M SIMM (which it looks like it comes with) and use the PCMCIA slot on Kickstart 3.1.
+<p> You cannot post new topics in this forum You cannot reply to topics in this forum You cannot edit your posts in this forum You cannot delete your posts in this forum You cannot vote in polls in this forum
+<p> Tip: Get Amiga Forever for super-comfy Amiga emulation with pre-installed Workbench, games and other goodies!
+

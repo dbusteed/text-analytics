@@ -1,0 +1,30 @@
+<0714648>
+<http://www.ehow.co.uk/how_5946384_create-can-filled-out-online.html>
+<Rater 1: HI_HT *  * N * ID: A1FZJ3S9CN8Z7T>
+<Rater 2: HI_HT *  * N * ID: A1YG4ZN78HHICE>
+<Rater 3: HI_HT *  * N * ID: A2QLSHXNCHBRN4>
+<Rater 4: HI_HT *  * N * ID: A37TQGMOVZWIQ9>
+
+<h> How to Create a PDF Form That Can Be Filled Out Online
+<p> Written by jacob stover | Translated by ehow contributor
+<p> PDF files are proprietary document files for use with the Adobe Acrobat suite of programs. PDF forms offer rich content creation and arrangement options, and can be used for a number of different purposes. In order to create a form which can be filled out online, you'll need a copy of Adobe Acrobat Standard or Pro. Creating a form using these programs is very simple, and should take only a few moments
+<p> Skill level:
+<p> Moderately Easy
+<h> Instructions
+<h> Things you need
+<p> Adobe Acrobat Standard or Pro
+<p> 1
+<p> Open Adobe Acrobat, and select the "Forms" task button.
+<p> 2
+<p> Select an appropriate template from the list, or select "start from scratch".
+<p> 3
+<p> Select all valid fields using the "Form Editting Mode" wizard which will automatically open a prompt when a new project is started. This will help Acrobat determine which fields will receive text entry and which ones will remain static.
+<p> 4
+<p> Right-click any field in your template or blank document to bring up a context menu for that field. Select "Properties" from the context menu to enter or change text, or to add additional settings to your text fields.
+<p> 5
+<p> Enter your form text as you wish it to appear. If you wish to add additional fields for text entry at any time, you may do so by selecting the type of field desired from the "Tools" menu.
+<p> 6
+<p> Save your form by selecting "Save File" from the "File" menu. When you have completed your form select "Preview" from the "Form Edit" menu to see how the form will appear to users.
+<h> Tips and warnings
+<p> To make the form as easy to understand as possible for your users, make sure the fields are identifiable. You can do this by right-clicking any field and selecting "Properties". Fields can be named in the "Tooltip" text box.
+

@@ -1,0 +1,25 @@
+<0146095>
+<http://www.epa.gov/dfe/pubs/projects/formulat/about.htm>
+<Rater 1: HI_HT *  * N * ID: A1FL1M3MOHLDRF>
+<Rater 2: HI_HT *  * N * ID: A1QKX5CZJQONP>
+<Rater 3: HI_HT *  * N * ID: A1U89AVJKEXTVN>
+<Rater 4: HI_HT *  * N * ID: A2X00L77LYHXM3>
+
+<h> STEP 2. Profiling of All Formulation Ingredients.
+<p> Applicants for the DfE label must fully disclose all ingredients in the product under consideration to DfE and a qualified third party profiler. The third party profiler compiles all hazard information available on each chemical and includes detailed structure, physical-chemical properties, human health and environmental toxicology, and regulatory/ administrative status. This compilation of data is known as a profile.
+<p> Cleaning product formulators are encouraged to choose ingredients that are listed on CleanGredientsr and have met the appropriate DfE Standards for Safer Ingredients. These ingredients have already been reviewed by a third-party profiler and do not add additional costs to third-party review.
+<h> STEP 3. Assessing Ingredients and Identifying Safer Alternatives.
+<p> Following third-party profiling, DfE:
+<p> assesses each ingredient in your formulation in the context of its functional class;
+<p> communicates with the applicant any recommendations for improvement, formulation changes necessary to qualify for recognition, and the elements of a partnership agreement.
+<h> STEP 4. Discussing the DfE Assessment.
+<p> After the product manufacturer has satisfied DfE's requirements for the use of safer ingredients, DfE and the manufacturer sign a partnership agreement. The purpose of the Partnership Agreement is to set forth the basis, terms, and goals of the DfE's voluntary partnership between the partner and EPA. The Partnership Agreement includes provisions covering the following:
+<p> how the partner formulates the qualifying products;
+<p> their environmental and human health benefits;
+<p> and how the partner and EPA/DfE will work together to continually improve the health and environmental profile of the qualifying products and educate consumers on the importance of safer products and the role of the DfE Program .
+<h> STEP 5. Entering into Partnership.
+<p> DfE and your company decide how to announce the partnership and plan near-term activities. DfE welcomes additional products for review, as well as your ideas on how to improve and strengthen the partnership program. Your company should also carefully review the "DfE Labeling Guide" provided to you at the start of partnership.
+<p> Please Note: Submission of data under this program is voluntary.
+<h> How to Start a Partnership for a New Category of Products
+<p> To open a new sector for a product type that DfE has not previously labeled, DfE asks that you contact us directly at dfe@epa.gov .  Before you write, please review the list of product categories to determine if your product represents a new category or might fit within a current category. The DfE Program reviews and recognizes best-in-class chemical-based formulations and products that meet its stringent criteria.  Because the program's expertise is chemistry, DfE limits its partnership activities to manufacturers of chemical-based products.
+

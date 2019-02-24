@@ -1,0 +1,36 @@
+<0726997>
+<http://pcsupport.about.com/od/driverssupport/qt/techsupprob.htm>
+<Rater 1: HI_HT *  * N * ID: A1ZFLC209CRCWR>
+<Rater 2: HI_HT *  * N * ID: A6IVYRP8FAIS>
+<Rater 3: HI_HT *  * N * ID: A9JO8MT5HOH3D>
+<Rater 4: HI_IS *  * N * ID: A2ENG8DDHL2BGU>
+
+<p> Did anything else happen at the same time the problem started? (e.g. a blue screen of death, smoke coming from the computer, virus warning, etc.)
+<p> What have you already done to troubleshoot the problem?
+<p> Has the problem changed since it first started happening (e.g. computer shuts off more frequently, error message appears at a different time now, etc.)
+<p> I recommend writing all of this down before requesting any tech support.
+<h> Communicate Clearly
+<p> Working with technical support is all about communication. The entire reason for your call is to communicate to the support person what the problem is and for them to communicate back to you what you need to do (or they need to do) to fix your problem.
+<p> The person on the other end of the phone might be 10 miles away or 10,000 miles away. He or she might be from the same part of your country or from a part of a country you didn't even know existed. That said, you'll prevent a lot of needless confusion and frustration if you talk slowly and enunciate properly.
+<p> Also, make sure you're calling from a quiet area. A barking dog or screaming child is unlikely to improve upon any communication problem you may be having already.
+<h> Be Thorough and Specific
+<p> I touched on this a little in the Be Prepared Before Calling tip above, but the need to be thorough and specific demands its own section! You may be well aware of the trouble your computer has been having but the tech support person is not. You have to tell the whole story in as much detail as possible.
+<p> For example, saying "My computer just quit working" doesn't say anything at all. There are millions of ways a computer might not "be working" and the ways to fix those problems vary tremendously. I always recommend stepping through, in great detail, the process that produces the problem.
+<p> If your computer won't turn on, for example, you might describe the problem to tech support like this:
+<p> "I hit the power button on my computer and a green light comes on the front of my computer and on my monitor. Some text shows up on the screen for just a second and then the whole thing shuts off. The monitor stays on but all the lights on the front of my computer case turn off. If I power it on again, the same thing happens over and over."
+<h> Repeat the Details
+<p> Another way to avoid confusion when communicating is by repeating what the person you're talking to is saying.
+<p> For example, let's say tech support advises you to "Click on x, then click on y, then select z." You should repeat back "Okay, I clicked on x, then I clicked on y, then I selected z." This way, tech support is confident that you completed the steps as asked and you're confident that you fully understood what was asked of you.
+<p> Answering "Okay, I did that" doesn't confirm that you understood each other. Repeating the details will help avoid a lot of confusion, especially if there's a language barrier.
+<h> Don't Get Emotional
+<p> No one likes computer problems. They even frustrate me. Getting emotional, however, solves absolutely nothing. All getting emotional does is lengthen the amount of time you have to talk to tech support which will frustrate you even more.
+<p> Try to keep in mind that the person you're talking to on the phone didn't design the hardware or program the software that's giving you problems. He or she has been hired to help solve your problem based on the information given to them by the company and from you.
+<p> You're only in control of the information you're providing so your best bet is to take another look at some of the tips above and try to communicate as clearly as you possibly can.
+<h> Get a "Ticket Number"
+<p> It might be called an issue number, reference number, incident number, etc., but every modern day tech support group, whether across the hall or across the world, uses some kind of ticket management system to track the issues that they receive from their customers and clients.
+<p> The tech support representative should log the details of your call in the ticket so the next person you talk to can pick up right where you left off on this call, assuming you need to call again.
+<h> The Only Thing Worse Than Calling Tech Support...
+<p> ... is calling tech support twice.
+<p> A sure fire way to need tech support for a second time is if the problem didn't get fixed on your first call. In other words, read the above tips again before you pick up the phone!
+<p> If you're armed with this information before you make that first call to support, the chances of what the industry calls "first call resolution" go way up. That's good for the company's bottom line and really good for your sanity!
+

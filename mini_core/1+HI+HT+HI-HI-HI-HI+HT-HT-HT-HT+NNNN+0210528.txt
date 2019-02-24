@@ -1,0 +1,42 @@
+<0210528>
+<http://dev.c24.biz/gsg/4.1/getting_started/create_data_model/Creating_a_Data_Model_from_a_Set_of_XML_Documents.htm>
+<Rater 1: HI_HT *  * N * ID: A21YQXPL0SNNR2>
+<Rater 2: HI_HT *  * N * ID: AFB9N61OMZXCX>
+<Rater 3: HI_IS *  * N * ID: A13WSYKUN4EAHW>
+<Rater 4: HI_IS *  * N * ID: A28OR0DDYOT4XB>
+
+<p> This section demonstrates how to create an AccountsXML data model by importing an AccountsXML.xml file. In the XML Instance(s) Import Wizard, you can set properties for the fields associated with a model instead of doing so in the Properties window outside the wizard. After creating the model, you can test its accuracy by parsing a valid XML file through it.
+<p> Note:
+<p> This sample data model is based on the AccountsXML.xml file that is supplied within the Getting Started/Samples/B - Creating Data Models/3 - From Other Sources folder of your C24 Integration Objects Getting Started material.
+<p> Steps
+<p> Complete the following steps to create your data model:
+<p> 1. In the Project window of the workbench, ensure that MyProject.iop is opened. If you need to open it, select File &gt; Open Project from the menu bar.
+<p> i. Accept the default folder From Other Sources as the location where you want the data model to be stored.
+<p> ii. Notice the Advanced button in the Steps section on the left-hand side of the panel. Alternately clicking the Advanced button displays and hides optional steps in the list of steps.
+<p> iii. Click Advanced to hide the optional steps. They are not relevant in this demonstration.
+<p> iv. Click Finish .
+<p> An AccountsXML.dod file is created and displayed in the Project and Explorer windows of the workbench. A AccountsXML.dod tab is opened in the main window of the workbench.
+<p> In the Messages window, an Importing XML... tab is opened to indicate that the import has been successful.
+<p> 5. Select File &gt; Save All from the menu bar, or click the icon on the toolbar, to save the data model.
+<p> Comparing your model with the file you imported
+<p> To compare the data model with the AccountsXML.xml file that you imported, complete the following steps:
+<p> 1. In the Explorer window, under the AccountsXML.dod file, expand the AccountsFile node.
+<p> 2. Double-click the AccountsFile complex type (marked with a symbol).
+<p> 3. In the AccountsFile tab, which opens within the AccountsXML.dod tab in the main window of the workbench, expand the Account element to view the contents.
+<p> 4. Compare the details displayed with those in the AccountsXML.xml file that you imported.
+<p> Testing the accuracy of your data model
+<p> To ensure that your data model is accurate, try parsing some real-world data. You can do this using a feature of C24 iO Studio called the Run Wizard , which allows you to read data into a model and creates Java class instances of that model. In this case, you can read the supplied AccountsXML.xml file into your AccountsXML data model, as follows:
+<p> 1. Ensure that the AccountsXML.dod file is open in the Explorer window.
+<p> Make sure you right-click the AccountsFile element in this case rather than the AccountsFile complex type. This has repercussions for the code that C24 Integration Objects generates for the model, as described further in "Creating a Simple Java Application " .
+<p> 3. In the Run Wizard dialog, notice that:
+<p> i. The Name field defaults to the name of the selected component; in the case, AccountsFile .
+<p> ii. The Target field defaults to the path location of the selected component.
+<p> iii. The Build Before Running check box is checked by default.
+<p> iv. Accept all of the default values and click Run .
+<p> 4. In the resulting dialog, which prompts you to load the data that you want to parse, click the icon.
+<p> 5. An AccountsFile tab opens within the AccountsXML.dod tab. This tab shows the structure of the deployed object based on your data model. Notice:
+<p> i. That because you have not yet loaded any data into the object, it is displayed in its empty state with a red X.
+<p> ii. In the Messages window, an empty Run AccountsFile tab has been created.
+<p> There are no parsing errors. C24 Integration Objects creates instances of the model, based on your data. A green tick appears beside the AccountsFile node in the AccountsFile tab to indicate that parsing has been successful. Expand the AccountsFile node to view all of the records in the file.
+<p> In addition, the Run AccountsFile tab in the Messages window displays a message indicating that parsing has been successful.
+

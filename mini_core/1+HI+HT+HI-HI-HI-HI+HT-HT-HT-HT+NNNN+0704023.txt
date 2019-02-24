@@ -1,0 +1,20 @@
+<0704023>
+<http://www.sunnipath.com/Academy/Online/Orientation/computer-readiness.aspx>
+<Rater 1: HI_HT *  * N * ID: A1FZJ3S9CN8Z7T>
+<Rater 2: HI_HT *  * N * ID: A1RL8TKX352T7I>
+<Rater 3: HI_IS *  * N * ID: A2QH1BQA6GR48O>
+<Rater 4: HI_IS *  * N * ID: A3EJ44J2ZNRMDA>
+
+<p> Direct Ethernet cable connected to the Internet (i.e. not wireless) is highly recommended. Live session sound quality is greatly improved by not being on a wireless connection. We highly recommend you directly connect to your Internet connection via a wire or cable.
+<h> To participate in office hours with your instructors you will need to do the following:
+<p> Download Skype. Instructor office hours are conducted via the free internet chat and phone service Skype.  You will need to install Skype on your computer and create a Skype ID in order to participate in office hours.  Please refer to the following links to set-up Skype:
+<h> Depending on your course, you may also need the following:
+<p> Arabic Fonts are needed to view Arabic in some recorded lessons and documents. On Windows XP, you can install Arabic by doing the following:
+<p> Start &gt; Settings &gt; Control Panel &gt; Regional and Language Settings In the Languages tab, check the box that says "Install files for complex scripts and right-to-left languages". Windows XP might ask you to insert your Windows XP CD and after the install, you will need to restart the computer.
+<p> On Mac OS X, Arabic is installed by default. However, Microsoft Office on Macs does not support Arabic well.
+<p> USB graphic tablet recommended for whiteboard usage. Some courses use the whiteboard feature in the live session player.  To participate fully with the whiteboard, a USB graphic tablet with a digital pen is recommended. Please note: at this time, no course requires whiteboard usage.
+<p> Participating with audio/video in Live classes If you would like to speak during live classes, you will need:
+<p> A headset/microphone [we recommend Logitech brand headsets].
+<p> A high speed cable/DSL modem is highly recommended
+<p> A microphone is only highly desirable for Arabic courses.  For other courses, you may choose to participate via text chat only.
+

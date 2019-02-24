@@ -1,0 +1,40 @@
+<1471217>
+<http://www.pocket-lint.com/news/44968/how-to-build-succesful-app>
+<Rater 1: HI_HT * RC - QU * N * ID: A5LLSZG8YCAZF>
+<Rater 2: HI_HT *  * N * ID: A1Q8L9UA8SAPIQ>
+<Rater 3: HI_HT *  * N * ID: AE837QZ9XU1UQ>
+<Rater 4: HI_HT *  * N * ID: AVX3SWFMBEPMZ>
+
+<h> How to build a chart-topping app game
+<h> Tips from a pro
+<p> The app store is a peculiar place. Capable of catapulting even the most unlikely application to astronomical download numbers overnight, it is unlike a lot of the rest of the tech sector; a place where anyone has a chance.
+<p> Some simply do strike it lucky. The likes of Temple Run spring to mind. An application put together by a skeleton crew, it has now topped 40 million downloads. Games like Angry Birds and Fruit Ninja stay in the Top 10 longer than a Coldplay single, but it's easier than you think to knock those app versions of Chris Martin and his bare feet from the top spot.
+<p> Pocket-lint recently lent its ears to a rather interesting keynote speech by Bart Decrem. One of the founders of Tapulous, a company that's App Store royalty, he is now heading up Disney's mobile division and was responsible for Where's My Water. He certainly has the magic touch when it comes to application design. So, when he began offering up snippets of what makes an application succeed, we practically burnt a hole in our notepads writing them down. Being generous chaps, we thought we'd share them.
+<h> Quality
+<p> No app is even worth considering if you aren't going to put the effort in. Just because something costs 59p, that doesn't mean it's only worth the equivalent of a Dairy Milk in effort. This is an app that could be downloaded 40 million times, after all. The iPhone is a near-perfect piece of design and an application that looks blocky, simple or buggy just wont cut it.
+<p> "How do you stand out in a world where there are 200,000 apps on the app store?," says Decrem.
+<p> "Apps that stand out tend to be fun and beautiful and perfect. It's really hard to succeed if you don't have a real high quality bar."
+<p> That demand for quality is so high, that even big brands can fall foul of the App Store's ways quite quickly.
+<p> "The other thing that really has a lot of power is brands," says Decrem. "They will get you to number one but you wont stay there. Something that has the name Apple or Google or Disney for that matter, it'll get to the top but if it's no good, it will be gone a week later."
+<p> You need to design something that is put together flawlessly, but what if there is only a small team of you or you are working by yourself? Simple, don't over-stretch. An app doesn't need to be flashy or have cutting-edge graphics to do well. It just needs to be fun. Take Doodle Jump, for example. In its simplicity lies its brilliance.
+<h> Social
+<p> The smartphone is an inherently social thing. Its connection to the internet grants you access to an unparalleled number of people with whom you can share information. Better Twitter and Facebook integration on apps means more and more people are using just their handsets, rather than laptops, to socialise online with friends. This creates two important factors to consider when building an app: speed, which we will look at later, and social connectivity.
+<p> Whatever you do, make sure an app allows users to interact with each other. Be this via Game Centre, Twitter or Facebook. Friends need to be able to compete or share.
+<p> "There is also a real premium on social. The phone is by nature a social device, sometimes you make phone calls and send text messages to friends," says Decrem. "People enjoy using these devices to communicate with friends."
+<h> Consumability
+<p> An app is a disposable thing. Very few last beyond a day or two's play on your smartphone. Cheap and easily ignored, for an app to do well it needs to grab the attention of a phone-user for just long enough to justify its cost.
+<p> We aren't saying cut corners with your application, more to understand that its vitality and sales won't necessarily come from its length or complexity.
+<p> "Apps are consumable. They are more like YouTube videos than a console game. Ninety-nine per cent of apps, you use them once or a day or two and then you get rid of them," says Decrem.
+<p> This relates directly to how an application will spread through the App Store. Unlike most technology, which is promoted via advertising, the app gains sales traction from word of mouth.
+<p> "These things spread increasingly quickly as a result of word of mouth. This is the primary distribution model that is directly tied to quality," Decrem points out.
+<p> "There is still virality, but virality on the App Store, unlike Facebook, is all about word of mouth.
+<p> "The great thing is, though, that you can really reach a lot of people. This is a platform where you can reach about half a billion people instantly."
+<p> Being able to pick up and play an app and, crucially, show it to friends, will ensure it gets plenty of downloads. As we said earlier, once you nail this, then the application download numbers can explode.
+<h> Speed
+<p> Just as an app needs to be disposable, it mud also be playable for 30 seconds or 30 minutes. Once you get your smartphone out, anything can interrupt your play session - getting off the train, receiving a phone call -but that play experience has to remain the same.
+<p> "We live in the era of Twitter where there are constant interruptions. In the case of Tap Tap Revenge for example, we used to have these three-second songs," says Decrem.
+<p> "Increasingly people want to play for 90 seconds. What if they get a phone call or get an idea? You really need to deliver fun in 30-second increments."
+<p> This is why games like Tap Tap and Where's My Water? have done so well, because they fill a gap in time that can be of any length, no matter how short. Never are you in a situation with any of them where you feel that starting play could result in a loss of spare time, or a phone call interruption could ruin the experience.
+<p> The overarching message to take from all this is to be mindful of the environment for which you are designing the app. Unlike any piece of software before it, the app has become a viral snippet that everyone can enjoy.
+<p> Sound like a lot of hardwork? Well it is, but get it right and you can experience download figures even companies like Activision and well, Disney, would be pleased with.
+

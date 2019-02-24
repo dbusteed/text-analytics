@@ -1,0 +1,10 @@
+<0229257>
+<http://email.about.com/cs/yahoomailtips/qt/et090103.htm>
+<Rater 1: HI_FH *  * N * ID: A1ET164AZEK2LI>
+<Rater 2: HI_HT *  * N * ID: A18G2CLYSTENK>
+<Rater 3: HI_HT *  * N * ID: A3AWC4P8QUK1XB>
+<Rater 4: HI_IS *  * N * ID: AGTT8VLD53WNV>
+
+<p> There's a smart thing you can do, too, to prevent the Yahoo! Mail spam filters from becoming a problem themselves. The filters are good, but not perfect, and they can catch a message (newsletters in particular) you do want to receive now and then.
+<p> To make sure you don't have to go reading your favorite newsletters in the Bulk folder in Yahoo! Mail, you can set up simple filters that keep it in your Inbox , no matter what. I have created such a filter for the About newsletters , for example.
+

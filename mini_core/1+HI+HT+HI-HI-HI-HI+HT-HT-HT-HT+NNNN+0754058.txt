@@ -1,0 +1,24 @@
+<0754058>
+<http://www.ephotozine.com/article/how-to-create-a-blurred-background-with-a-compact-20026>
+<Rater 1: HI_HT * RC * N * ID: A3CQZVJVN8AVQ8>
+<Rater 2: HI_HT * RC * N * ID: A3I546VTF7B6YX>
+<Rater 3: HI_HT * RC * N * ID: A3OW54MEVDKXJL>
+<Rater 4: HI_IS * RC * N * ID: A2QH1BQA6GR48O>
+
+<p> A blurry background can help to emphasize your subject and get rid of distracting features and blurred backgrounds can be achieved with compacts just as effectively as they can with a DSLR. Here are some top tips on getting a blurry background with a compact.
+<h> Portrait Mode
+<p> The portrait mode on your camera is ideal for creating a blurry background, because it knows that the main focus of the picture will be on the face and not the surrounding area. It also knows that you will want to use a wider aperture (smaller f number) to create a very shallow depth of field.
+<h> Macro mode
+<p> Macro mode knows that you are shooting small objects, and therefore won't want lots of background objects cluttering up the frame. It is ideal if you are taking photos of your subject close up. Macro mode is great for photographing flowers, insects and other small objects that will benefit from having a blurry background behind them.
+<h> Aperture Priority
+<p> Some mid-range compacts allow you to change the aperture your camera uses by switching to Aperture Priority Mode. This mode controls the depth of field in your image and the larger the aperture you pick (smaller f number) the shallower your depth of field will be. So, if you want those blurry backgrounds try and use a larger aperture.
+<h> Move Your Subject
+<p> If you're not getting the desired blurred effect by using the methods above, it may be because your subject is too close to the background objects, and thus the camera is struggling to distinguish what you want to be blurred and what you don't. Try moving your object further away from the background if this is possible. This should enable the camera to distinguish between your subject and the background better and hopefully produce the blurred background you are after.
+<h> Play With A PEN
+<p> The Olympus PEN cameras aren't compacts, however the new Olympus E-PM2 PEN is designed to be beginner friendly with its new built-in Live Guide. The Smart Settings do all the hard work for you. For example, at the touch of a button you can adjust the blur of a background to increase / decrease the depth of field of your shot. For more information and to play with the Smart Settings, visit the Olympus website .
+<h> Post Production
+<p> If you've already taken a photo that you love, but the background hasn't come out as blurred as you'd like it, you can always try and alter this in Photoshop or a similar software. Take a look at our How To Blur Backgrounds In Photoshop tutorial to learn how to do this.
+<p> Find out more about Olympus and their products by clicking these links:
+<h> Comments
+<p> Well written but I would like to add to it one caution. When shooting in the portrait mode your camera MAY try to produce a SOFT IMAGE and/or change the color balance to produce better skin tones. Some cameras will tell you upfront that this is what they are doing while others may comment about smoothing out wrinkles. You need to know what if anything your camera does when you set it to PORTRAIT. This may also occur if your camera automatically detects you are shooting a portrait such as when you are in one of the AUTO modes.
+

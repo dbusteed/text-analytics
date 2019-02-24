@@ -1,0 +1,19 @@
+<0246601>
+<http://www.macosxtips.co.uk/index_files/extract-code-from-safari-extensions.php>
+<Rater 1: HI_HT * RC * N * ID: A3BDSG50MR6TCK>
+<Rater 2: HI_IS * RC * N * ID: A1F4DR4QMF3DB4>
+<Rater 3: HI_IS * RC * N * ID: A27PJPWGD1QVJP>
+<Rater 4: HI_IS * RC * N * ID: A2RGVOJDMIKL4W>
+
+<h> Get tips by email
+<h> Extract the code from any Safari Extension
+<p> If you have been using any of the new Safari Extensions you might want to peek inside them to see how they work. Fortunately this is really easy because .safariextz files are just xar archives that can be extracted using the Terminal. Here's how you do it.
+<p> Start by downloading the Safari extension. It should come in the form of a file with a .safariextz extension. If you wanted to install the extension to use it in Safari you would just double-click it, but don't do that now as the file will disappear from your Downloads folder.
+<p> Instead open Terminal, located in the Utilities folder inside the Applications folder. In the window that appears, type the following line and then press return.
+<p> cd ~/Downloads/
+<p> This should be the path to the folder where the .safariextz file is located. You will need to change this if you have saved the extension somewhere else. For example you might use cd ~/Desktop/Extensions or /Users/matt/Documents/safariextensions/ If you are new to using the Terminal, note that starting with ~/ is a shortcut to inside your user folder, and starting with / is for inside your hard drive. The cd command is for changing directory, i.e. 'moving' to a folder.
+<p> Next paste in the following line and press return.
+<p> xar -xf 'TheExtensionName.safariextz'
+<p> You need to replace TheExtensionName with the filename of the extension. The quotes around the filename are only really important if it contains spaces. If you want to avoid typing in the name, you can just drag the file into the Terminal window from the Finder and it will be entered for you.
+<p> After you press return, a new folder will appear with the same name as the extension. This folder contains all the javascript, plist and HTML files that make up the extension. You can then go to the Extension Builder in Safari and click the plus (+) button to add the extension and edit it.
+

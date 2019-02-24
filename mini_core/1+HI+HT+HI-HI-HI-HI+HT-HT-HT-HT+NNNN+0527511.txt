@@ -1,0 +1,24 @@
+<0527511>
+<http://www.cra-arc.gc.ca/tx/ndvdls/tpcs/ncm-tx/chngrtrn-eng.html>
+<Rater 1: HI_HT *  * N * ID: A12SMSQ6D5227J>
+<Rater 2: HI_HT *  * N * ID: A2RFWIPVXZ5ON1>
+<Rater 3: HI_IS *  * N * ID: A1DTQSIIYIZL62>
+<Rater 4: HI_IS *  * N * ID: A6IVYRP8FAIS>
+
+<h> Go to
+<h> Information for
+<h> Search CRA
+<p> If you need to make a change to any return you have sent us, do not file another return for that year . You should wait until you receive your notice of assessment before requesting any change to a return that has not been processed.
+<p> You can only request a change to a return for a tax year ending in any of the 10 previous calendar years. For example, a request made in 2012 must relate to the 2002 or a later tax year to be considered.
+<h> By Internet
+<p> You can make changes yourself to your return online. To access our electronic service, log on to My Account and select the Change my return option. You can then enter and submit any changes to your most recent return, or to your returns of the previous two years, and they will be sent directly to our processing systems. For example, you may want to increase a deduction you claimed or add information from a slip you received after you sent us your income tax return.
+<h> By mail
+<p> Send both of the following to your tax centre separately from your return:
+<p> a completed Form T1-ADJ, T1 Adjustment Request , or a signed letter providing the details of your request (including the years of the returns you want us to change), your social insurance number, your address, and a telephone number where we can reach you during the day; and
+<p> supporting documents for the changes you want to make and, if you have not sent them to us before, supporting documents for your original claim.
+<p> The Canada Revenue Agency processes most adjustment requests received electronically within two weeks, and most of those received by mail within eight weeks. However, it may take longer if any of the following situations apply:
+<p> Your request is submitted during those times of the year when we receive a higher volume of adjustment requests (late summer and fall).
+<p> Your request is for a particular situation requiring further analysis or additional review.
+<p> We need to contact you or your authorized representative for further information or documentation.
+<p> When we complete our review of your adjustment request, we will send you a notice of reassessment showing any changes to your return and a letter of explanation if we did not accept the changes you requested or the changes were not required.
+

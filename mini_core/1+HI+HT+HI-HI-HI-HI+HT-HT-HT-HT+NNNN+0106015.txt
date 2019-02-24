@@ -1,0 +1,24 @@
+<0106015>
+<http://www.archicadwiki.com/CreateCustomDoorWindowPanel>
+<Rater 1: HI_HT *  * N * ID: A3MZUMSFO3WCJT>
+<Rater 2: HI_HT *  * N * ID: A9JO8MT5HOH3D>
+<Rater 3: HI_HT *  * N * ID: AVX3SWFMBEPMZ>
+<Rater 4: HI_IS *  * N * ID: A3DYARPST6A0VK>
+
+<p> In this Tech Tip we will show how to create a custom object component, in this case a custom door panel for a kitchen base cabinet. We placed the Cab Base 2D 10.gsm file onto the Floor Plan. Here is how it looks in 3D:
+<h> Step 1: Creating the Geometry
+<p> Create an Elevation or Interior Elevation line on the Floor Plan in front of the Cabinet. The line should be parallel to the face of the Cabinet because we want to get an orthogonal elevation view of it.
+<h> Step 2: Go into the (Interior) Elevation View
+<h> Step 3: Measure the Panel size
+<p> Measure the size of one door panel. (Use the Measure Tool, the Tracker or the Coordinate Box.) This size will be your custom panel size. In our example, this is 599mm wide by 629 mm high.
+<h> Step 4: Draw the Panel on Floor Plan
+<p> Go back to the Floor Plan, and using Slabs, draw the geometry of one Door Panel. In our case, we will create a sort of a Prairie Style panel. Assign them the pens and materials you wish to see in 2D/3D.
+<p> Notes: When creating a panel which is to be mirrored (as in this case) you need to model and save the left panel. This is important when the geometry of the panel is non-symmetrical. Model the panel, the mullions and the glass. When creating the panel, remember that the panel should have enough width on its right side for the Door knob.
+<h> Step 5: Save Custom Component
+<p> In the appearing Choose Component Type Dialog, select Custom Object Component from the drop-down list and click the Choose button.
+<p> In the appearing File Dialog, specify the name and location for the Library Part file to be saved.
+<h> Step 7: Applying the new panel
+<p> Select the Cabinet Object on the Floor Plan, and go to its Settings Dialog.
+<p> In the parameter list, select Custom Panel for the Door parameter.
+<p> Click the right-pointing arrow to the left of the Door parameter name, and from the appearing list of parameters, find the Custom Panel Name parameter. Click the right-pointing arrow in its value field, and select the value Cab Door Prairie Style (unless the value is automatically selected by ArchiCAD).
+

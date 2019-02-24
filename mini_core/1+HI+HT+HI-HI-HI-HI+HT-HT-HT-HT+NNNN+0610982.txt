@@ -1,0 +1,19 @@
+<0610982>
+<http://www.damtp.cam.ac.uk/internal/computing/faq-win/shortcut/desktop.html>
+<Rater 1: HI_HT *  * N * ID: A2XC6HDW19I1QF>
+<Rater 2: HI_HT *  * N * ID: A63759KWVJ94F>
+<Rater 3: HI_IS *  * N * ID: A1RL8TKX352T7I>
+<Rater 4: HI_IS *  * N * ID: A1ZFLC209CRCWR>
+
+<h> How To Create A Shortcut On The Desktop From A Start Menu Program
+<p> To create a shortcut on the desktop, you can use a number of different methods but the one explained here is the quickest but you need to make sure you press/release mouse buttons carefully. For this example, we'll make a shortcut to Word 2003.
+<p> Press the Start button and navigate to the program you want to make a shortcut to.
+<p> Press the left mouse button down and hold it down.
+<p> Now move the mouse pointer over to a clear space on the desktop.
+<p> With the mouse button still pressed, press down and hold down the CTRL key.
+<p> You should see something like below.
+<p> What you're looking for is a small cross in a white box next to the mouse pointer.
+<p> When you do see this cross and you're over a clear space on the desktop, release the left hand mouse button.
+<p> You should now see a new icon on the desktop with the small 'shortcut' arrow on the bottom left of the icon. Release the CTRL key
+<p> That completes the shortcut creation. If you are using folder redirection , this shortcut will be stored in your N:\private\Documents_and_Settings\Deskto\\... folder. This means that if you log into another XP pc in the department that is setup with folder redirection (most of them are now), the shortcut that you just created will be available on your desktop. If you are not using folder redirection (all the Windows 2000 pcs), then the shortcut will only be available on the pc you created it on.
+

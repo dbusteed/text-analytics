@@ -1,0 +1,11 @@
+<0319118>
+<http://www.soundonsound.com/forum/showflat.php?Board=MRT&amp;Number=998437>
+<Rater 1: ID_DF *  * N * ID: A23AWSZSAGLY8X>
+<Rater 2: ID_DF *  * N * ID: A27PJPWGD1QVJP>
+<Rater 3: ID_DF *  * N * ID: A3TLMC49DYSAA0>
+<Rater 4: ID_DF *  * N * ID: A9K0CV70JWG1W>
+
+<p> I currently have all of my equipment hooked to my computer for recording in Cubase 6. Now, I want to capture video simultaneously as I record the music. What is the easiest way to do this? What type of camera do I need for my computer (Windows 7, 64 bit)? I can always take the video footage later and edit it in another program, then dump it back in my Daw to line up the audio, right? Or, I can export the audio into another program and dump the video into it to work it together. Basically, I am just recording my album and want to have video footage of the experience as I go. I would love to avoid spending a lot of time converting video files, so I don't mind buying a camera that records in the proper format. Here is an example of another people doing it, but there are tons of videos on youtube of people playing a long to their music and having the video coincide with it. http://www.youtube.com/watch?v=TsPUaqp7g\\...
+<p> Oh yeah...I just want a camera that will record directly to my hard drive on my computer. Is that possible? I would love to avoid using memory cards, plugging my camera into the computer and transferring files and that sort of thing if possible...something similiar to a webcam on laptops, but I will be using a desktop computer.
+<p> Forget it - you can't capture video using a DAW so you'd need to run another application at the same time. Even if this was possible, it's unnecessarily complicated and risks interfering with the recording process. Use a separate standalone camera recording its own copy of the sound along with the video, and overdub with the finished audio recordings if necessary.
+

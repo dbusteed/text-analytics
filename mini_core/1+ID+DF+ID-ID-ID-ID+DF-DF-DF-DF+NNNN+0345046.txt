@@ -1,0 +1,41 @@
+<0345046>
+<http://www.pcreview.co.uk/forums/sharepoint-list-file-error-data-may-have-been-lost-t3456587.html>
+<Rater 1: ID_DF *  * N * ID: A3EJ44J2ZNRMDA>
+<Rater 2: ID_DF *  * N * ID: A3FKXJVH0K2E3E>
+<Rater 3: ID_DF *  * N * ID: A9K0CV70JWG1W>
+<Rater 4: ID_DF *  * N * ID: AJXRUJ4B95J73>
+
+<h> Sharepoint List --&gt; File Error: Data May have been Lost
+<p> Matteo
+<p> Guest
+<p> Posts: n/a
+<p> 's Computer Specifications
+<p> 20th Mar 2008
+<p> Hi, I have a Windows Sharepoint Services 2007 list I export to Excel 2003 (SP3 11.8206.8202). Sharepoint creates an .iqy file and I open it in Excel. This creates a List range in the spreadsheet that is tied to the Sharepoint List (I make batch updates to the list, right-click and synch the list with the server, works fine). I save the workbook to my PC as .xls. When I open it later I get the error "File Error: Data May have been Lost", the list data is still there but the range is not i.e. the list range no longer has a blue border around it and I can no longer right-click and Synchronize List.
+<p> It's like the link to the Sharepoint list was destroyed when I saved the file. I've been doing this process reliably for a while, It started consistently erroring as of Tuesday. Any ideas?
+<p> Thanks, Matt
+<p> craigr
+<p> Guest
+<p> Posts: n/a
+<p> 's Computer Specifications
+<p> 1st Apr 2008
+<p> I am also having the same issue. It seems to be related to the latest service pack. I have also seen that if I open an older version of one of my exel sheets with the SharePoint list it works until I save it and open it again. Any ideas on how this can be corrected would be appreciated.
+<p> "Matteo" wrote: &gt; Hi, I have a Windows Sharepoint Services 2007 list I export to Excel 2003 &gt; (SP3 11.8206.8202). Sharepoint creates an .iqy file and I open it in Excel. &gt; This creates a List range in the spreadsheet that is tied to the Sharepoint &gt; List (I make batch updates to the list, right-click and synch the list with &gt; the server, works fine). I save the workbook to my PC as .xls. When I open it &gt; later I get the error "File Error: &gt; Data May have been Lost", the list data is still there but the range is not &gt; i.e. the list range no longer has a blue border around it and I can no longer &gt; right-click and Synchronize List. &gt; &gt; It's like the link to the Sharepoint list was destroyed when I saved the &gt; file. I've been doing this process reliably for a while, It started &gt; consistently erroring as of Tuesday. Any ideas? &gt; &gt; Thanks, Matt
+<p> Alan
+<p> Guest
+<p> Posts: n/a
+<p> 's Computer Specifications
+<p> 28th Apr 2008
+<p> On Mar 21, 3:09*am, Matteo &lt;Mat...@discussions.microsoft.com&gt; wrote: &gt; Hi, I have a Windows Sharepoint Services 2007 list I export to Excel 2003 &gt; (SP3 11.8206.8202). Sharepoint creates an .iqy file and I open it in Excel.. &gt; This creates a List range in the spreadsheet that is tied to the Sharepoint &gt; List (I make batch updates to the list, right-click and synch the list with &gt; the server, works fine). I save the workbook to my PC as .xls. When I openit &gt; later I get the error "File Error: &gt; Data May have been Lost", the list data is still there but the range is not &gt; i.e. the list range no longer has a blue border around it and I can no longer &gt; right-click and Synchronize List. &gt; &gt; It's like the link to the Sharepoint list was destroyed when I saved the &gt; file. I've been doing this process reliably for a while, It started &gt; consistently erroring as of Tuesday. Any ideas? &gt; &gt; Thanks, Matt
+<p> Hi,
+<p> Perhaps the .xls file is damaged by some reason. You may try Advanced Excel Repair at http://www.datanumen.com/aer/ This tool is rather useful in salvaging damaged Excel xls files. Hope this will help.
+<p> Alan
+<p> steve
+<p> Guest
+<p> Posts: n/a
+<p> 's Computer Specifications
+<p> 27th May 2008
+<p> Same problem here.
+<p> I managed to get the error to disappear if i removed some Calculated Columns from the export - the ones with longish formulas.
+<p> "Matteo" wrote: &gt; Hi, I have a Windows Sharepoint Services 2007 list I export to Excel 2003 &gt; (SP3 11.8206.8202). Sharepoint creates an .iqy file and I open it in Excel. &gt; This creates a List range in the spreadsheet that is tied to the Sharepoint &gt; List (I make batch updates to the list, right-click and synch the list with &gt; the server, works fine). I save the workbook to my PC as .xls. When I open it &gt; later I get the error "File Error: &gt; Data May have been Lost", the list data is still there but the range is not &gt; i.e. the list range no longer has a blue border around it and I can no longer &gt; right-click and Synchronize List. &gt; &gt; It's like the link to the Sharepoint list was destroyed when I saved the &gt; file. I've been doing this process reliably for a while, It started &gt; consistently erroring as of Tuesday. Any ideas? &gt; &gt; Thanks, Matt
+

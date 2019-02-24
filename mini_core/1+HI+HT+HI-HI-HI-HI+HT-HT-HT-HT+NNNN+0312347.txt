@@ -1,0 +1,52 @@
+<0312347>
+<http://www.webdesignermag.co.uk/tutorials/create-multi-column-layouts-with-css/>
+<Rater 1: HI_HT *  * N * ID: A2AM81Q08U0VHA>
+<Rater 2: HI_HT *  * N * ID: A3209D1227UCYP>
+<Rater 3: HI_HT *  * N * ID: A9IGTAK087DB9>
+<Rater 4: HI_IS *  * N * ID: A3BYE6AJS15HLT>
+
+<h> Create multi-column layouts with CSS
+<h> Take advantage of browser support and recreate print style pages using the column-count property.
+<p> A mainstay of newspaper and magazine print design is the humble column. Columns help to improve the readability of text, ensuring that the consumer doesn't lose their place in lines of the text that are too long. For a long time, web designers have attempted to bring this staple typographical design element to the screen, but have always been restricted by the need to set up complicated floating elements, and no support for automatically flowing text content across columns. A CSS module to support multi-column layouts was first discussed in 1999, so it's been a long journey to get to the point where we can start to use the properties made available. Thankfully, with the release of Internet Explorer 10, all the major browser vendors will support the standard to a greater or lesser degree In this tutorial we're going to examine the primary properties available to achieve multi-column layouts, starting with some basic HTML5 markup. We'll not only create a flexible layout, but also look at some of the current limitations, and how to best take advantage of the feature today. Finally, we'll see how you can repurpose your design to support different screen sizes and resolutions.
+<h> Create your HTML
+<p> We're using a basic HTML5 document with a single article, complete with header and footer. Fortunately, the HTML markup is as basic as you can get; we've got a series of paragraphs, a few heading tags and a couple of images. You can either open our start.html document from the resource disc, or use your own content.
+<h> Add a stylesheet
+<p> We're going to leave the HTML alone throughout, with all the changes that we make happening in a stylesheet. Let's create that now by saving a new plain text document into the styles folder as 'screen.css'. Create a link to it from the HTML document with the code shown below.
+<p> 001 link rel="stylesheet" type="text/css" href="styles/screen.css" /
+<h> Basic properties
+<p> We'll start off by giving our article a bit of basic styling, using typography and spacing, to create the general look and feel of a newspaper. Add the CSS rules below to your stylesheet document to set this up, and preview in your browser. Note that even the most recent web editors don't tend to fully support columns yet, so you'll need your browser on hand a lot to test during this tutorial.
+<h> Introducing columns
+<p> CSS allows you to set up columns in any block-level element by using the column-count property. The column-count property accepts a number representing the number of columns you'd like the element to be split into. Try adding the code below to your existing article rule in the stylesheet so you can see this in action:
+<p> 001 column-count: 2;
+<h> Vendor prefixes
+<p> As with many of the CSS3 properties and modules, columns currently need you to employ browser-specific vendor prefixes to call and set the property. We'll need to duplicate our rules using -ms-, -webkit-, -moz- and -o- before each property to target the big five -- Internet Explorer, Safari/Chrome, Firefox and Opera -- respectively.
+<h> Set the gutter width
+<p> You can manually set the width of the gap between columns using the column-gap property. If you'd like a wider gap between columns, set a higher column-gap value or to achieve closer columns set it lower. If you omit the column-gap property, the browser will automatically format a gap for you.
+<h> Set the column width
+<p> Similarly, you can control the width of your columns using the column-width property. As with the column-gap property, if you don't set this explicitly the browser will calculate the value for you automatically. If you only set the column width, the gap will be calculated to fit the width of the container, and vice versa. If you specify a width that's too big for the element, the browser will override your setting.
+<h> A word on limitations
+<p> You can't currently set different widths for different columns, so if you want to have one wide column and two narrow columns, you'll have to nest elements inside columnar layouts. This limitation may be addressed by the W3C in the next iteration of the CSS Columns module
+<h> Flowing content
+<p> By default your content will flow automatically from one column to the next, and the length of the overall element (in our case an article tag) will be adjusted to fit a balanced fill of columns. This ensures the final product looks tidy and clean. You can overwrite this setting with the column-fill property.
+<h> Setting up our layout
+<p> Let's take what we've got so far and apply it to our article to create a nice multi-column layout. We'll start off with four columns, and allow the content to fill the columns automatically. We will also make our first paragraph a bit bigger, so as to act as an introduction to the main piece.
+<h> Test and review
+<p> If you load up the page inside your browser now, you should see a nicely balanced four-column layout with text balanced nicely between the four columns. You'll notice that some of the text should perhaps flow across multiple columns though, especially in the header. Let's address that next.
+<h> Spanning columns
+<p> Headings and pull quotes can be set to span multiple columns by using the column-span property. Currently this property only supports two values: none or all. This means that your content will either break out and flow across all the columns in your layout, or will conform to the column layout. Add the code below to see this in action:.
+<h> Images and columns
+<p> You'll notice that the images in our original markup are rendering perfectly inside the column width. This would be the case regardless of the size of the image, so long as you leave the width and height attributes out of the tag. Doing so means you can use images just as you normally would, without worrying about how they are going to fit into variable-size columns.
+<h> Breaking columns with spanned elements
+<p> About halfway down our article we've got an aside element, which is acting a bit like a pull quote. We're going to use this to break up our columnar layout by applying the column-span property to the aside element. While we're at it, we'll add a border to the top and bottom to help separate the element visually.
+<h> Column behaviour
+<p> Reload the page in your browser to see the breakout aside in situ. Notice that the columns now fill left to right above the /aside, aside , and then pick up again beneath it with the content that appears after it. This is important behaviour to recognise when using columns -- any element that spans columns breaks the structure.
+<h> Applying column rules
+<p> As well as providing a border to the spanning elements, we can also apply a defined visual separation to the columns themselves by using the column-rule property. This accepts arguments similar to the border property in CSS. Try adding the code below to your article rule in the stylesheet, to see an example of column rules in practice.
+<h> Style the footer
+<p> We'll use some of the properties we've covered above to style the footer element, which is going to round off our article nicely. First it should span the columns, have a border top and bottom, and we'll add some margin and padding to help it get some distance and sit apart from the content a little. Add the rule below to put this in place.
+<h> Preview and test
+<p> We've just about completed our basic column layout now, so before we attempt to make it flexible enough to work across different resolutions on multiple devices, it's a really good idea to preview it in your browser, and then make sure it works across all the common browser options you plan to support. Always remember that you can use Modernizr to test for column support and provide a fall-back for older browsers.
+<h> Fluid layouts
+<p> Up until now we've had a fixed-width for our article, set at 960px. We'll change this by using @media queries inside our stylesheet. The only element that needs to change is the article rule, with the width and number of columns adjusted to suit the screen width. Add the code below in place of the existing article {} rule to start. ( download full code )
+<p> Thanks for the tutorial -- the only thing I have to say is that the concept of reading multiple columns as if it was a print document can be painful -- unless using this CSS for printing the page? I understand it is an example to illustrate the code which it examples it well. Just that idea of non stop text flowing across multiple columns can seem overwhelming!
+

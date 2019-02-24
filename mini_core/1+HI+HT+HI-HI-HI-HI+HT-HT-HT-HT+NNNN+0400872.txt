@@ -1,0 +1,35 @@
+<0400872>
+<http://www.homeandlearn.co.uk/php/php14p5.html>
+<Rater 1: HI_HT *  * N * ID: A1F4DR4QMF3DB4>
+<Rater 2: HI_IS *  * N * ID: A1NK6UXWXKFMC7>
+<Rater 3: HI_IS *  * N * ID: A28XFC7F3F89W8>
+<Rater 4: HI_IS *  * N * ID: A31Q6X25680ELX>
+
+<h> PHP Tutorials
+<h> Register a New User with PHP Code
+<p> This lesson is part of an ongoing User Authentication tutorial. The first part is here: User Authentication along with all the files you need.
+<p> If the user is new to the site, and wants to sign up, you can add a link to a "sign up" page. Open up your signup.php page, and you'll see some code already there. We'll now walk you through what it all does.
+<p> When you open up the code for the signup.php page, you'll see quite a lot of it is code that you've already met. It starts with the function that checks for dangerous SQL characters. Then we check that the form has been POSTED. The next lines are these:
+<p> $uname = $_POST['username']; $pword = $_POST['password'];
+<p> $uname = htmlspecialchars($uname); $pword = htmlspecialchars($pword);
+<p> We're just getting the username and password from the form, like we did before, and then checking it for unwanted tags. The next thing you need to do, though, is test that the username and password are of the correct length. You don't want a malicious user trying to inject megabytes of text!
+<p> What we're doing here is using the inbuilt function strlen ( ) to get the length of the string. We then use if .. else statements to check that the username and password are between certain values. If they are ok, the variable called $errorMessage is left blank. If they are not ok, we add some text for the error message.
+<p> Before checking the username and password against the database, we can check to see if the error message is blank:
+<p> if ($errorMessage = = "") {
+<p> }
+<p> If it's blank, then everything is ok. In which case the rest of the code is executed. If it's not OK, then the user will see the text of the error message displayed.
+<p> Inside of the if statement for the error message check, we just set up the database code like we did before:
+<p> The code attempts to select all the records from the table where a match with the username is found. (L1 is the name of the username field in the table.) If any records are returned, then the variable called $num_rows will be greater than zero. We check the value of $num_rows in an if ... else statement.
+<p> If the username has already been taken, then we can add something to the error message variable. (But there are security considerations to bear in mind here. Do you really want to tell a malicious user that a username has already been taken? If it's for a forum, then it's ok: the malicious user can simply read usernames from forum posts. But in that case, perhaps we shouldn't be using a username to log people in?)
+<p> If the value in the variable $num_rows is still zero, then we can go ahead and add the user to the database:
+<p> $SQL = " INSERT INTO login (L1, L2) VALUES ($uname, $pword)";
+<p> $result = mysql_query($SQL);
+<p> mysql_close($db_handle);
+<p> Here, we use the SQL command INSERT INTO to add a new record to the database.
+<p> After the user has been added to the database, we can then set the session variable:
+<p> session_start(); $_SESSION[ 'login' ] = "1";
+<p> The session variable called login will be set to 1. This means that the user can then start using the site straight away. In fact, we redirect them to a different page on the site:
+<p> header ("Location: page1.php");
+<p> Our new user is now a member!
+<p> In the final part of this User Authentication walkthrough, we'll take a look at some other things you'll need to consider.
+

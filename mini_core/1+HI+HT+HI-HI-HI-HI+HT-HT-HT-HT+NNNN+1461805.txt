@@ -1,0 +1,67 @@
+<1461805>
+<http://www.kevblog.co.uk/build-a-minecraft-wizard-tower/>
+<Rater 1: HI_HT * RC * N * ID: A1IM92Q6UK32DV>
+<Rater 2: HI_HT * RC * N * ID: A2J5N770I859WE>
+<Rater 3: HI_IS * RC * N * ID: A1GY4Z89KWHWZB>
+<Rater 4: HI_IS *  * N * ID: A1FZJ3S9CN8Z7T>
+
+<h> Build a Minecraft Wizard Tower
+<p> Thursday 02 Jun 2011 21:07
+<p> Plotz online modeller for Minecraft now models Wizard Towers. By entering just a few values in boxes you can create your own custom wizard tower and then go on to build it in Minecraft using whatever materials you like. Plotz will model the walls, floors and roof. The rest is up to you.
+<h> Model your Minecraft Wizard Tower
+<p> Start by visiting Plotz modeller and click Take me to Plotz . In Plotz you can now build spheres, observatories and Wizard Towers. In the top left, click Change and select Wizard Tower. You will see the default wizard tower with a top floor diameter of 12 blocks and 3 floors just like below.
+<p> Default Wizard Tower in Plotz
+<p> Default Wizard Tower in Minecraft
+<h> Adjusting Tower Diameter
+<p> Now you can experiment with changing the Wizard Tower. Change top floor diameter to increase the width of the top floor of the tower and all floors below. Large diameter floors mean a taller roof. Eventually Plotz will stop you altering this value when the tower reaches 64 blocks high. That's ground level to sky in Minecraft.
+<h> Adjusting Tower Height and step
+<p> Increase the number of floors to make the tower higher. Change this in conjunction with the step every value which controls after how many floors the tower steps out.
+<p> Tall Wizard Tower with step every 1 floor
+<p> Tall Wizard Tower with step every 3 floors
+<h> Adding a side tower
+<p> The checkbox next to side tower height will add a side tower. Side towers are about 2/3 the diameter of the main tower and placed on the middle floor (or as close as). The side tower is initially 1 floor high. Once checked, you can increase the side tower height to what you want.
+<p> Default side tower 1 floor high
+<p> A taller side tower
+<h> Building in Minecraft
+<p> If you have a printer you can choose to print a schematic. I recommend turning off best fit before printing out a Wizard Tower schematic. Also you can step through the layers on screen as you build and I prefer this method myself. Start by entering a value of 1 in Show up to layer then use the up and down arrows next to that value to change it as you build.
+<p> I think you should make Plotz model more buildings! Stuff like Ships, Mansions, Castles, Skyscrapers and stuff like that! It would be really cool and would really help some unexperienced builders such as myself build some awesome stuff! :D
+<p> 9 Jan 2012 03:24 by NeptunYonder
+<p> tip: you can fill your room with bookcases and make it a huge libary ;)
+<p> 8 Jan 2012 07:03 by Whiteonrice9499
+<p> I am making a wizard tower from glowstone, but I am struggling to pick an appropriate color for the roof tiles of the side tower and main tower. If you guys can please give me suggestions.
+<p> And I am on creative mode
+<p> 1 Jan 2012 10:14 by Neptun Yonder
+<p> I will start right now!
+<p> 5 Dec 2011 08:00 by Sidore64
+<p> COOL!
+<p> 20 Nov 2011 06:00 by Some guy
+<p> I'm struggling to fill my tower and i was wondering if anyone had some good ideas for rooms.
+<p> I'm working on my 10 story tower right now. I'll post a picture when I'm done. All in survival mode so getting the black wool has been a real chore.
+<p> 3 Nov 2011 10:32 by spaceninjadude
+<p> i thought u had to print it but u dont have to. u can can use the layer thing witch i like. btw when ever i try o print it it prints a tower not the schematic for it and when ever i do print the schematic i has the gray screen on it
+<p> 24 Oct 2011 04:03 by Renka
+<p> Very useful. I had lots of fun building it and it looked amazing. :D
+<p> 15 Oct 2011 03:48 by fdsazv
+<p> i dont understand how to get the blueprint for the tower. any help?
+<p> 4 Oct 2011 07:53 by ?
+<p> I have trid making it and oly done the frits floor so I fink its hrad to make so good jobe
+<p> 4 Oct 2011 07:21 by Dave!Yognaut
+<p> Very helpful tutorial. This tower looks very good in my SMP world.
+<p> 2 Oct 2011 12:12 by ThatGuy
+<p> I heard that there was floor-by-floor schematics and I'm stuck on the side tower. Any help/suggestions?
+<p> ZOMG i built one in my classic server (Uberswag Freebuild) its awsome, and simon sent me here lol... :3
+<p> 19 Sep 2011 09:41 by Kel
+<p> I blame Simon (Honeydew) for me coming here over a month after he posted the video, but I was having a real dickens of a time figuring out how to make it work, and this helped me. Thanks Kev, (And thanks Simon for showing me.) Also, Don't meddle in the affairs of dragons, for you are crunchy and good with ketchup.
+<p> @jere - no plans to make a PNG output file. That would need to be server side but Plotz is client side running in your browser.
+<p> @J926 tried your example. The 'schematic' expands or contracts as required so when you add the side tower it expands by enough to accomodate it.
+<p> 1 Sep 2011 01:56 by jere
+<p> can you make it so you can download a .png or something else that lets you see it instead of printing?
+<p> 28 Aug 2011 06:50 by J926
+<p> How do you create a tower with a diameter of 13, similar to your pictures, and have the side tower not affect the Plotz? When I setup a 9 floor, 13 diameter, step every 3 floors, 8 floor high side tower everything is fine until I click the box to add the side tower. At that point the schematic is changed, and widened.
+<p> 28 Aug 2011 12:31 by Justin Time
+<p> i FUCKING love it
+<p> 23 Aug 2011 05:26 by Trol
+<p> I can haz mc schematic?
+<p> 23 Aug 2011 04:37 by Rughead
+<p> Yay for kevblog, great stuff, and yay for yogscast introducing me to this
+

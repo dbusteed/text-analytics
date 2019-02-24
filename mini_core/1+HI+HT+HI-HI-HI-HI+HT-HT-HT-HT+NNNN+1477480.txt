@@ -1,0 +1,26 @@
+<1477480>
+<http://www.synaptici.com/2011/how-to-build-a-custom-rss-feed/>
+<Rater 1: HI_HT *  * N * ID: A1EWQ6YCM8CO0E>
+<Rater 2: HI_HT *  * N * ID: A1T8EFHGSEE3RD>
+<Rater 3: HI_HT *  * N * ID: A1SH7KC5Y1BK4W>
+<Rater 4: HI_IS *  * N * ID: A3OW54MEVDKXJL>
+
+<h> How To Build A Custom RSS Feed
+<p> RSS feeds are a great way to share other stories and other sites with your readers. The only thing is, when you add an RSS feed to your sidebar, you get everything that is posted to that feed and sometimes the content is not really what you want to show at your site. One story might be great, the next, totally not relevant to what your site is about.
+<p> I have been trying to find an easy solution to this problem. One that would allow me to 'cherry-pick' stories and add them to a custom feed. A few weeks ago, I searched again and found a solution that I think works really well and is easy to implement.
+<p> If you look in the sidebar on the right, you will see an RSS feed called "Custom Video Feed". I've set it up as an example for this particular post. If you hover over each item in that list, you will notice that they come from different sites. Two are from YouTube and one is from Ted.com.
+<p> Entry Summary -- (Either Write a short summary or copy paste the summary from youtube)  When he was just 14 years old, Malawian inventor William Kamkwamba built his family an electricity-generating windmill from spare parts, working from rough plans he found in a library book.
+<p> Ignore the other fields for now and click "Save Item"
+<p> There you go. Item 1 is entered. Enter as many as you like!
+<p> Publish Your Channel
+<p> Now -- go back to your channel listings by clicking the "My RSS Channels" towards the top right of the page.
+<p> Here is a screen shot of what that screen looks like.
+<p> Click on Publish on the appropriate channel listing . This will bring up a screen with a bunch of different options. As this article is specific to WordPress, I'll explain what you need to do next.
+<p> The first screen looks like this.
+<p> Just copy this part: http://rss.icerocket.com/xmlfeed?id=4373\\...
+<p> Now all you need to do is go to your widgets, drag the RSS widget wherever you want to show your new custom feed. In the field that says "Enter the RSS feed URL here:", enter the link you copied ( http://rss.icerocket.com/xmlfeed?id=4373\\... ) and set the widgets other settings to your liking. If you don't give it a title, it will use the title you gave your channel.
+<p> I prefer to use the " Better RSS Widget by grandslambert ".  I do so because it has a few extra options including having the links in the RSS feed open in a new window which in my opinion is a must!
+<p> Now all you have to do is add items to it and they will magically appear at your site. That said, the default RSS refresh in WordPress is set to 12 hours so you will have to wait for 12 hours to see it appear.
+<p> All you need to do is add a line of code to your theme's functions.php file. It's pretty easy!
+<p> So there you have it! Your own custom RSS feed. I hope you have found this useful. I am sure that this is not the only way to this. If you have seen other ways, please share them with us .. we're all ears!
+

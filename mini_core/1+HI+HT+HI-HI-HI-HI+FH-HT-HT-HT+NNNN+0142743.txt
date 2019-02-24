@@ -1,0 +1,32 @@
+<0142743>
+<http://www.anz.com/internet-banking/help/getting-started/register/>
+<Rater 1: HI_FH *  * N * ID: AAXYYH9MI3PJM>
+<Rater 2: HI_HT *  * N * ID: A10GZ0SWBZIRBK>
+<Rater 3: HI_HT *  * N * ID: A3NN9144OLETQP>
+<Rater 4: HI_IS *  * N * ID: A2RFWIPVXZ5ON1>
+
+<h> Register for ANZ Internet Banking
+<p> ANZ Internet Banking is a convenient online banking service that allows you to access your ANZ accounts, transfer funds, pay bills and much more 24 hours a day, seven days a week. To register for ANZ Internet Banking you need a Customer Registration Number (CRN) and Telecode.
+<h> ANZ Phone Banking customers
+<p> If you have already registered for ANZ Phone Banking use this CRN and Telecode to register for ANZ Internet Banking.
+<p> What's a CRN and how can I get one?
+<p> This will be either a nine digit number provided to you by an ANZ Customer Service Consultant or your 15 or 16 digit card number.
+<p> Enter your password. It should be 8-16 characters long and a combination of numbers and letters. You will need at least one number and one letter in your password. Your password should have no spaces or symbols.
+<h> Need more help?
+<p> Use our faqs to find out more about registering for ANZ Internet Banking.
+<p> How do I register for ANZ Internet Banking?
+<p> To register for ANZ Internet Banking you need a CRN and a Telecode . If you have not already been supplied with a valid CRN and a Telecode or have forgotten your CRN or Telecode, please call the ANZ Internet Banking team on 13 33 50 (International callers: +61 3 9683 8833 ) 24 hours a day, seven days a week.
+<p> If you have already registered for ANZ Phone Banking use the same CRN and Telecode to register for ANZ Internet Banking.
+<p> If you do not have a valid CRN or have forgotten your CRN, please call the ANZ Internet Banking team on 13 33 50 (International callers: +61 3 9683 8833 ) 24 hours a day, seven days a week to obtain a CRN.
+<p> Your CRN will either be a nine digit number provided to you by an ANZ Customer Service Consultant or your 15 or 16 digit ANZ Card number.
+<p> No. ANZ Internet Banking is a fully Internet-based service, so you are not required to download any additional software. However, to meet our security standards your web browser must meet the minimum requirements.
+<p> If you use ANZ Internet Banking and have a Pay Anyone limit of $1,000 to $ 10,000 ($25,000 for business accounts) but no Security Device , you are an ANZ Internet Banking customer.
+<p> If you have a business account, a higher Pay Anyone limit up to $500,000 and also have a Security Device to authorise third party payments and/or can add Operators, you are an ANZ Internet Banking for Business customer.
+<p> How do I manage my accounts once I am registered for ANZ Internet Banking?
+<p> If you have registered for ANZ Internet Banking, use your CRN and password to log on to ANZ Internet Banking.
+<p> If you need help while logged on to ANZ Internet Banking, click the " Help " icon in the top right hand corner of all pages. Here you'll find information about each function, step-by-step instructions and FAQs.
+<p> You can also check out our ANZ Internet Banking demo located under the " Log on " button in www.anz.com.
+<p> *Fee may apply where a business has 2 or more registered ANZ Internet Banking for Business Administrators and/or Authorisers.
+<p> **Electronic transactions may form part of your monthly fee free transaction threshold. If you use ANZ Multiple Payments (batch payments), you may incur an ANZ Internet Banking fee of 20 cents for every credit made; however you will not be charged a debit fee on the paying account. The single debit in ANZ Multiple Payments is independent of fees applicable to linked accounts, so the debit will not count towards the free transaction limits on those accounts. Electronic Transaction for Business Mortgage Loan Offset accounts are charged at $5 per transaction. For Electronic Transactions for ANZ Business Classic, ANZ Business Extra, ANZ Revolving Agri Line, and selected ANZ Negotiator accounts, no fee will apply.
+<p> ^Fee which applies in the event that ANZ issues a customer with a temporary, single-use Security Device Code(s) to use when the customer's Security Device has been lost, stolen or misplaced.
+

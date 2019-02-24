@@ -1,0 +1,47 @@
+<0504209>
+<http://www.ccppcj.ca/e/funding/funding.shtml>
+<Rater 1: HI_HT *  * N * ID: A27IABVBUZ9X8Z>
+<Rater 2: HI_HT *  * N * ID: A2A07J1P6YEW6Z>
+<Rater 3: HI_IS *  * N * ID: A1QR6I7UPY8XQJ>
+<Rater 4: HI_IS *  * N * ID: A37SNFHBHBPZQE>
+
+<h> Funding: How To Apply For Funding
+<h> How To Apply For Funding
+<p> To process your application for funding, we need to know who is involved in your case or project, what it is about, when and where your case or project will happen, why you are doing it and how you think the Program can assist you. If you already have a lawyer or someone else working with you, you might want to ask them to help with your application. If you don't, that's okay - just tell us as much as you can and we will help you with the rest.
+<p> There is no application form and there is no fee for making an application. Applications must be in writing and include ALL of the information outlined below, including copies of important documents, a detailed budget and a work plan. To assist you to prepare your application, we have prepared the following guides, which outline the information you will need to put in your application and work plan and explain how to prepare your detailed budget (see our guide to budgets called Preparing your Budget ).
+<p> An Application Checklist is included at this site. It is there as a reminder about what needs to be in your application. Please send a copy of it to us with your application!
+<h> Confidentiality
+<p> We treat information we receive in your application as confidential. This means that we do not reveal it to anyone outside the Program without your permission. Included in this category are things like your name and where you live, what your case or project is about and what you are planning to argue.
+<p> We only make an exception to this rule when the information is already public information. For example, if you have started a case in court, there is a public record which anyone is allowed to see. We would not ask for your permission if we wanted to talk about this public part of the information.
+<h> What You Need to Tell Us
+<p> In this page, we talk about the specific information we need about your case or project before the Panel will be able to make a decision about funding. We have tried to make it easier for you by separating the requirements for different types of funding requests.
+<p> You only need to look at the section regarding the type of funding you are asking for.
+<p> Case Funding Applications This section applies to case funding applications from parties and interveners. If you already have a lawyer, you may want to ask her/him to help you to provide the information requested below. In addition to the general information described above, here's what we need to know:
+<p> Who is involved - we need your name, address, telephone and fax numbers and any other information which will help us stay in touch with you; we need the same information about your lawyer, if you have one; we also want to know about your lawyer's experience.
+<p> Facts - describe in detail what has happened and why you think you have to go to court; give details of any steps you have already taken to resolve this case and how it has worked so far.
+<p> Law, Policy or Practice - describe in detail the law or government action you want to challenge and how it has violated your rights; send a copy of it if you can.
+<p> Your Case - tell us what government department or official you want to sue and why; tell us what court you will go to; tell us about any earlier court decisions in this case.
+<p> Your Argument/Support for your case - describe the rights you are relying on and where they come from (the Charter, the Constitution); talk about the court decisions in other cases which help your case and how you will use them in your argument; tell us if there are any other parties/interveners in the case who support your case; tell us if there are community groups or others who are helping you or support you but are not involved in the case.
+<p> Opposition to your case - describe court decisions in other cases which may hurt your case and how your case is different; tell us what you think the government will be saying in the case; tell us about any interveners who disagree with your position.
+<p> Proving your Case - describe the witnesses you will ask to come to court and what you think they will say; describe any documents that you will be giving to the court and send copies to the Program; talk about any further research or consultation you need to do to prepare your case for court and why you want to do it.
+<p> Remedy - describe what you are asking the court to do about the law, policy or practice and how it will help you and others.
+<p> Importance of this case - explain why this case is important to members of disadvantaged groups or official language minority groups; explain why it is a case which the Program should fund.
+<p> Case Plan - provide an outline of your plan for the case; when it will be (was) started in court; what the important steps in the case are and when you expect them to happen; who will be helping you with the case at each step.
+<p> Case Development Funding Applications You should read the section for Case Funding Applications carefully. We want you to send to us as much of that information as you can at this point. We do not expect that you will have everything already - the purpose of case development money is to help you put all that information together. We must have as much information as possible under the following headings:
+<p> Who is involved
+<p> Facts
+<p> Law, Policy or Practice
+<p> Your Argument/Support for your case
+<p> Remedy
+<p> Importance of the case
+<p> If you are asking for funding for a community consultation during the case development process, please provide the following details:
+<p> Purpose - why you want to have a consultation and what you hope to gain from it
+<p> Who - who you want to consult with; how they were chosen; what experience or knowledge can they add; who will organize the consultation
+<p> When/Where - when and where the consultation will be held
+<p> In addition, we will need to see a Case Development Work plan which describes what you will do in your case development project (including consultation), the important steps in the plan, who will do them and when they will be done.
+<p> Impact Study Funding Once you have chosen the case you want to study, we will need the following information to consider your application for Impact Study Funding:
+<p> The Case - the name of the case, what court decided it and when; send a copy of the full case decision
+<p> Why - tell us why you think this case is one which should be studied; briefly, what group or issue do you think it will affect in the future; tell us about any community organization which also thinks the impact study is important; who will receive a copy when it is done
+<p> Importance of this issue - explain why this issue is important to members of official language minority groups; explain why it is an issue which the Program should fund
+<p> Negotiation Work plan - provide an outline of your plan for the negotiation; what the important steps in the negotiation are, when you expect them to happen and who will be helping you with the negotiation at each step
+

@@ -1,0 +1,13 @@
+<0322586>
+<http://office.microsoft.com/en-us/visio-help/zoom-in-or-out-of-a-drawing-HP001231547.aspx>
+<Rater 1: HI_HT *  * N * ID: A3I546VTF7B6YX>
+<Rater 2: HI_IS *  * N * ID: A1FZJ3S9CN8Z7T>
+<Rater 3: HI_IS *  * N * ID: A3FKXJVH0K2E3E>
+<Rater 4: HI_IS *  * N * ID: A3SWVCOJPJM7KQ>
+
+<h> Zoom by using the wheel on a Microsoft IntelliMouse pointing device
+<p> Do either of the following:
+<p> To scroll up or down, rotate the IntelliMouse wheel forward or backward.
+<p> To zoom in or out, hold down the CTRL key as you rotate the IntelliMouse wheel forward or backward.
+<p> Note You can change the default behavior of the IntelliMouse wheel from scrolling to zooming on the General tab of the Options dialog box. For more information about changing options and to view troubleshooting tips for the Microsoft IntelliMouse pointing device, see the IntelliPoint Online User's Guide.
+

@@ -1,0 +1,15 @@
+<0331637>
+<http://office.microsoft.com/en-us/training/so-that-s-how-great-excel-features-RZ001043747.aspx?section=9>
+<Rater 1: HI_HT *  * N * ID: A1I9ZBV75AVWUS>
+<Rater 2: HI_HT *  * N * ID: A28XFC7F3F89W8>
+<Rater 3: HI_HT *  * N * ID: AIQU5HARE60W1>
+<Rater 4: HI_IS *  * N * ID: A27PJPWGD1QVJP>
+
+<p> The animation shows that as you scroll in one workbook, the other scrolls at the same pace. Click Play to start the animation.
+<p> Worksheets from both workbooks will open, with one at the top of the window and the other in the bottom of the window. That's right, in Excel side by side means one on top of the other, but you can change the orientation from one on top of the other to one next to the other if you want. You'll see how in the practice session at the end of the lesson.
+<p> As you scroll through the first worksheet, the second worksheet scrolls right along, keeping pace with you, making it easy to compare the differences between the two department budgets.
+<p> Tips
+<p> The worksheet at the top of the window is the one that's in view when you click the Side by Side command.
+<p> You can navigate from either the top or bottom worksheet. Just click in the worksheet you want to navigate in to activate the scroll bars in that sheet.
+<p> You can see data up close by zooming in on both worksheets at the same time by clicking Zoom on the View window.
+

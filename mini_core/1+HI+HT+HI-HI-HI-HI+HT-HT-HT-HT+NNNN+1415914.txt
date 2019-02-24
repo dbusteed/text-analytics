@@ -1,0 +1,62 @@
+<1415914>
+<http://blog.spoongraphics.co.uk/tutorials/how-to-build-your-own-single-page-portfolio-website>
+<Rater 1: HI_HT * RC * N * ID: A841FR9QWUPT4>
+<Rater 2: HI_HT * RC * N * ID: APGX2WZ59OWDN>
+<Rater 3: HI_HT * RC * N * ID: ARQ9DY4UL4WJ4>
+<Rater 4: HI_IS * RC * N * ID: A9K0CV70JWG1W>
+
+<h> How To Build Your Own Single Page Portfolio Website
+<p> A great looking portfolio site is crucial for any designer to instantly present their work to potential clients or employers. A simple, single page site can do this effectively by displaying three key features of large header with short introduction, examples of your work and methods of contact all in one, extremely browsable page. Let's take a look at producing a single page portfolio concept in Photoshop, constructing the page in XHTML/CSS and adding some fancy functionality with jQuery.
+<p> Last month, I had the pleasure of writing an article for internationally renown NET Magazine , also known as Practical Web Design in the US. The article titled Create Your Own Single Page Portfolio Site with XHTML/CSS and jQuery appeared in issue 188. The folks over at NET magazine have kindly allowed the article to be republished here on Blog.SpoonGraphics for those who might have missed it. I highly recommend checking out the new issues of NET magazine , and to catch them on Twitter for some handy web design tips and tecniques.
+<p> Your online portfolio is your place to introduce yourself to the world and showcase your work and skillset. Once upon a time the traditional leather slipcase was the standard form of showing employers and clients what you can do, nowadays a personal website is your main selling point. Sure, you could use websites such as Flickr , DeviantArt or similar to produce a quick and easy collection of work, but we're wanting to look professional here, and nothing beats your own hand crafted site sitting pretty under your personalised .com domain name.
+<p> What we're looking to achieve, is to build a simple website that compiles the important information of who you are, what you do, examples of your work and methods of contact. These are the key points anyone looking to hire a designer will need. The site also needs to look nice, but not to be too in-your-face that it takes the limelight from the examples of your work, so we'll build a clean, structured layout with subtle details. Finally, we also want the site to keep the attention of the viewer, if your website is part of a bunch of job applications we don't want to allow the viewer to lose interest clicking through page after page. Limiting the site to a single page helps display all the information quickly and effectively. Let's get started with the Photoshop mockup, then move onto the nitty gritty of coding up with XHTML/CSS, and finish off with some fancy features using an awesome jQuery plugin.
+<h> Prepare The Document
+<p> Start work by opening Adobe Photoshop, create a new document at 1680x1050px. Draw in guides to highlight a 960px wide area to accommodate 1024x768 resolution monitors. We don't want any major page elements straying beyond this point. Also draw out a basic grid to align the page elements to, giving a nice, structured appearance.
+<h> Add Some Texture
+<p> Fill the document with a soft beige colour, then go to Filter &gt; Noise &gt; Add Noise. Enter 3% and check the Monochromatic option. Paste in a concrete texture from Bittbox.com . Fade out the edges with a layer mask and soft brush, then change to the Overlay blending mode at 40% opacity.
+<h> Introduce Yourself
+<p> Using the grid as a guide, type out your name and a brief introduction of your services in your favourite typeface. Add a very soft Drop Shadow and change the blending mode to Overlay. Emphasise the visual hierarchy by making the name stand out with a larger size and stronger appearance.
+<h> Present The Goods
+<p> Pick out a small selection of your work and crop them down to thumbnails at 400x180px. Add a 10px stroke at 10% opacity to blend them into the design. Pay particular attention to their alignment to each other, making sure the horizontal and vertical gap between each image is the same.
+<h> Methods of Contact
+<p> After the viewer has browsed your selection of work, they may want to get in touch or connect. List out your email alongside your main social networks, such as Twitter and Facebook. Use the doodle icons from a previous post here on Blog.SpoonGraphics.co.uk to spice up the links. Add a Color Overlay to blend these into the site colour scheme.
+<h> The Overall Concept
+<p> Here we have our graphical concept for our website, laid out exactly how we plan it to look. There's a subtle texture to the design to add some visual interest, a basic colour scheme based around our branding, a selection of our work and a list of methods of contact. Time to take a well deserved break.
+<h> Export the Background
+<p> Our concept uses the large area of stone texture as part of the design, toggle the visibility of all the other layers and copy a large section of the graphic. Save for Web and tweak the compression to find a happy medium between file size and image quality.
+<h> Export the Page Elements
+<p> Continue cutting up the document and exporting the individual files. Due to the cool typeface and effects used on the text, we'll have to export these as images also. However you could always sacrifice small design features in favour of web safe font styling, or even technologies such as SiFR.
+<h> Optimise Using Sprites
+<p> When it comes to exporting the icons, we can combine these files into a single sprite graphic. Copy each icon in turn and stack them on top of each other in a new document, then Save for Web. This reduces what would have been 7 image requests into 1, for a speedier page load.
+<h> Write Up the XHTML
+<p> Start work writing up the XHTML in a coding application of your choice. Pay attention to using the most natural HTML tags for each page element, such as H1 tag for the largest title, H2 for the smaller headings and UL for the lists of portfolio images and methods of contact.
+<h> Style it Up with CSS
+<p> With the relevant HTML tags in place, CSS styling can be added to change the appearance of the code. Begin with a reset to remove any browser specific or default styling. The repeating texture can be attached to the BODY, while the larger background can be used along with a page-wrap DIV.
+<h> Lay Out the Page Structure
+<p> Style the container div with a specific width and add margin: 0 auto; to align the div centrally on the page. The headings can also be styled using the background-image property. Don't forget to shift the default text off-screen using -9999px. This is a commonly used CSS image replacement technique.
+<h> Float The Thumbnails
+<p> By default an unordered list will display vertically with ugly bullet points, but the good old UL can be extremely versatile with the help of CSS. Float the portfolio thumbnails to the left to lay them out side by side, then add some padding and margin to space them out just like the concept.
+<h> Put the Sprite Into Action
+<p> The image sprite we produced earlier can be implemented with CSS. Style the #footer ul li a with any generic options such as margin, padding, color and font-size, as well as adding the contact-icons.jpg background-image and setting to no-repeat. Then for each individual anchor class, target the appropriate icon using the background-position rule.
+<h> Spicing Up With jQuery
+<p> By default the image links for the portfolio will simply open in the browser, but that's boring! With the use of some awesome, ready made plugins along with the jQuery framework we can easily add some great looking effects. Download the jQuery Lightbox package from Leandrovieira.com .
+<h> Copy The Files
+<p> The jQuery lightbox downloads as a complete example, pick out the files we need and copy them to your own project folder. We need jquery.js, jquery.lightbox-0.5.js, jquery.lightbox-0.5.css and the 5 image files. Link up the Javascript and CSS files in the HEAD of your HTML document. Then, write the jQuery script to target the portfolio links.
+<h> The Completed Website
+<p> With the jQuery functionality in place our website should be looking spot on. We have a simple one page site, with short introductory sentence, a collection of work examples that launch with a stunning animated effect and a range of contact portals. Our website is complete, or is it?...
+<h> Browser Testing
+<p> It's crucial to check our site in a range of everyday browsers. Our valid code might look great in Firefox, Safari, Chrome and Opera but Internet Explorer can sometimes display rather strange issues. IE7 seems fine, but IE6 is showing the typical 'stepdown' bug on the footer links. Display: inline to the LI soon sorts that!
+<p> Chris Spooner is a designer who has a love for creativity and enjoys experimenting with various techniques in both print and web. Follow Chris' daily design links on Twitter , and be sure to check out his second blog over at Line25.com .
+<p> You an use a simple pop over or popup javascript, simple is often better remembering that flash is not readable with Google so make sure you title and alt the flash display to show the accessible (nice) side of yourself.
+<p> You can also use DHTML or open a new page using css and target="_blank" very old school but the advantage is it does not get blocked by popup blockers, combine that with a javascript resize on the new page/tab and you have a simple way of showing your work off.
+<p> Better yet with your current clients just put the image of the work you have done, and give a link to the actual site where your work currently resides. That stops the issue of swf files. You client is happy and you give them a link.
+<p> It would have been helpful to indicate that a knowledge of coding would be required for this tutorial -- without this the tut is pretty much useless. Sorry, but "Write up the XHTML in a coding application of your choice" just doesn't cut it for a how-to.
+<p> The 2 Screenshots of the XHTML and CSS clearly show how to do it, it's just a case of replacing the file paths. Hes not giving a masterclass in XHTML. This is a one page portfolio site if you don't know XHTML you probably shouldnt have one anyways.
+<p> I didn't realise the code images were clicky, since none of the others were I didn't think to check, thanks for pointing that out. Having said that, a support file would be helpful as it isn't possible to copy/paste the code from the image to then edit it.
+<p> As for not knowing XHTML precluding me from having my own portfolio site: I'm a professional graphic designer with a print background, but I'm no coder. I'm sorry I appear to be the only person here who isn't blowing smoke up this guy's ass but the reason I was here was in the hope of learning something. I'm terribly sorry if my ignorance offends you.
+<p> Browse the exclusive content only available to Access All Areas members.
+<p> Username: Password:
+<p> Remember?
+<h> Who's behind this?
+<p> Hi, I'm Chris Spooner , the guy behind Blog.SpoonGraphics. This site acts as both my personal design blog and my digital playground, where I produce design tutorials and write about all things creative! Learn more
+

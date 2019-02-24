@@ -1,0 +1,11 @@
+<0221802>
+<http://news.ycombinator.com/item?id=4784046>
+<Rater 1: ID_DF *  * N * ID: A1254AXAI8UXT2>
+<Rater 2: ID_DF *  * N * ID: A1M0MJA7POFRWC>
+<Rater 3: ID_DF *  * N * ID: A2AM81Q08U0VHA>
+<Rater 4: ID_DF *  * N * ID: AE837QZ9XU1UQ>
+
+<p> Thanks for the pointer. I've read a few articles thanks you to. It still seems awfully complex and demands very proficient git usage to do even simple operations. I don't think that's suitable.. but I'm curious are you using it with Unity?
+<p> Not with Unity. One big advantage is that git subtree has is that not everybody has to be proficient with it, you can designate someone to set it up and to periodically push the subtrees, and everybody else can ignore it.
+<p> That's not quite true; they should split their commit so they don't span trees. But it's not a requirement, it just makes things a lot nicer.
+

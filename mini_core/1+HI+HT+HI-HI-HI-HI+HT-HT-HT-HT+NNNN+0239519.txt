@@ -1,0 +1,17 @@
+<0239519>
+<http://www.cic.gc.ca/english/information/pr-card/apply-after.asp>
+<Rater 1: HI_IS *  * N * ID: A171IHHGBOA4X8>
+<Rater 2: HI_IS *  * N * ID: A1ZFLC209CRCWR>
+<Rater 3: HI_IS *  * N * ID: A2YTOX7SEDJ1TC>
+<Rater 4: HI_IS *  * N * ID: A2ZRYNS8R5JSY6>
+
+<h> Common menu bar
+<h> Breadcrumb
+<h> After you apply: get next steps for a permanent resident card
+<p> If your application is properly completed and you meet the requirements for a permanent resident card ( PR card), you will receive your card in the mail or a letter from CIC advising you of when and where to pick up your PR card.
+<p> Please note that CIC will only mail PR cards to residential addresses in Canada . If you are instructed to pick up your PR card in person, you must bring your passport and the originals of the documents you sent with your application. You can view the current processing times for PR card applications. The processing times will provide you with information about how long it will take to process your application under normal circumstances, if your PR card application is complete and if you meet all the requirements to maintain your permanent resident status. You can also check the status of your application online .
+<h> Incomplete applications
+<p> If your application is incomplete, it will be returned to you with a letter indicating what additional information you need to provide or steps you need to take to re-submit a complete application. Failure to submit all required information will delay the processing of your application.
+<h> Change of address
+<p> During the application process, you must advise us of any change of address or telephone number by using this online tool .
+

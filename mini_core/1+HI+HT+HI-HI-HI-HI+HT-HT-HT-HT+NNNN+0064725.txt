@@ -1,0 +1,19 @@
+<0064725>
+<http://creativenerds.co.uk/tutorials/how-to-create-a-halftone-photo-effect-using-photoshop/>
+<Rater 1: HI_HT * RC * N * ID: A1EWQ6YCM8CO0E>
+<Rater 2: HI_HT * RC * N * ID: A3LNPBZXHKKAA7>
+<Rater 3: HI_HT * RC * N * ID: AZJEGHE4605S5>
+<Rater 4: HI_IS *  * N * ID: A2YTOX7SEDJ1TC>
+
+<h> How To Create A Halftone Photo Effect Using Photoshop
+<p> The halftone effect is a popular effect you usually see in retro poster designs.  This trend seems to have died out,  nevertheless i thought it would be a great idea to show you how to recreate this type of photo effect. The tutorial is short, but insightful and takes no time to achieve the end out come.
+<p> We have a wide selection short quick tips available on our YouTube channel , so check it out and don't forget to subscribe.
+<p> I hope you enjoy the quick video tutorial, and would really appreciate some feedback on your thoughts on the quick tip.
+<h> Resources
+<p> We used a stock photo provided to use curtsey of the great guys over at bigstockphoto.com. You can purchase the stock photo from their website, or alternatively use any other stock photo. The same photo effect can be achieved regardless of the photograph used.
+<h> Tutorial Details
+<p> Difficulty: Beginner
+<p> Tutorial estimation time: 3 to 6mins
+<p> Program: Photoshop
+<p> The tutorial was created in Photoshop cs6, but any version from Photoshop 7 above can be used to achieve this end outcome effect.
+

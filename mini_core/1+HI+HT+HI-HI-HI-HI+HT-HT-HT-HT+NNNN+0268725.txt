@@ -1,0 +1,17 @@
+<0268725>
+<http://www.vumi.com.au/can-i-add-files-to-my-eportfolio-that-can-be-downloaded/>
+<Rater 1: HI_HT *  * N * ID: A1YRVRV46ZOVMP>
+<Rater 2: HI_IS *  * N * ID: A18G2CLYSTENK>
+<Rater 3: HI_IS *  * N * ID: A2APPZDU0VS9LN>
+<Rater 4: HI_IS *  * N * ID: A37TQGMOVZWIQ9>
+
+<h> Support
+<h> Can I add files to my ePortfolio that can be downloaded?
+<p> Yes, you can add files to your ePortfolio that can be downloaded.
+<p> The Download tab is situated on the bottom of each page along with tabs where you add images, videos. audio files and external links. Items you add to these other tabs display in the vumi viewer whereas items you add to the Download tab don't display and when clicked the recipient is prompted to save the file to their hard drive.
+<p> Click the green icon on the bottom right of the download tab section.
+<p> The Repository Browser will open.
+<p> If the item is already uploaded to My Repository you can choose it from the list displayed. If it isn't in the My Repository section you can add it now. Click the 'Add artifact' button on the bottom of the Repository Browser window.
+<p> The Repository Browser window will extend to display an artifact upload form.
+<p> Use the artifact upload form to name, select and upload your artifact.
+

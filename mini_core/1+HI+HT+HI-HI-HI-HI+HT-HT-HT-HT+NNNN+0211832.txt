@@ -1,0 +1,16 @@
+<0211832>
+<http://www.pcadvisor.co.uk/how-to/printing/3372271/how-find-printers-ip-address/>
+<Rater 1: HI_HT *  * N * ID: A1QRRGJSVGSXRC>
+<Rater 2: HI_HT *  * N * ID: A1U89AVJKEXTVN>
+<Rater 3: HI_HT *  * N * ID: A23Y0RBTU7MOWG>
+<Rater 4: HI_HT *  * N * ID: A2AT0G92TP7HCG>
+
+<p> HELPROOM ANSWER If your printer is connected to your router via USB then the router will be acting as a printer server. Your iMac won't connect directly to the printer, which has no IP address of its own, but to the printer server on the router.
+<p> The IP address of the printer server will most likely be the same as the IP address of the router. To find your router's IP address, open up a command prompt from Windows' Start menu Search box. Type ipconfig and hit Enter. The IP address will be listed under the entry marked Default Gateway.
+<p> If your printer is connected to a Windows PC and needs to be shared with an iMac, the process is a little more involved. Because it's connected via USB, it must be shared by the PC to which it is connected. The Windows PC must also be turned on for the shared printer to be accessible via the network.
+<p> Macs use a different protocol to Windows PCs, called LPD, to print via a network. For the iMac to be able to see your printer you'll first need to enable this protocol.
+<p> Click the Start button and start typing 'Turn Windows features on or off' into the Search box. This option will appear as one of the search results. Select it and click the '+' next to 'Print and Document Services'. Look for 'LPD Print Service' and check the box to enable it.
+<p> Ensure printer sharing is enabled in Windows 7 by opening the Control Panel and selecting 'Network and Sharing Center'. Click 'Change advanced sharing settings', then click the downward arrow next to 'Home or Work' to expand the details for your home networking profile.
+<p> Make sure file- and printer sharing is enabled by selecting 'Turn on file and printer sharing', then save your changes and exit. You may be prompted to enter an Admin password to complete this step.
+<p> Head to the 'Devices and Printers' section in Control Panel and locate the printer you wish to share. Right-click it and select Printer Properties. Now select the Sharing tab and check the box marked 'Share this printer'. Give the printer a name by entering it into the Share name field. This should be a short name and contain no special characters or spaces, which may confuse other computers attempting to access the printer -- especially Macs.
+

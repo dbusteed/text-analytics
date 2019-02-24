@@ -1,0 +1,50 @@
+<0065214>
+<http://www.ironspider.ca/browsers/setupfirefox.htm>
+<Rater 1: HI_HT *  * N * ID: A1IM92Q6UK32DV>
+<Rater 2: HI_HT *  * N * ID: A2SPN23MCH9RKP>
+<Rater 3: HI_HT *  * N * ID: ARX9SG537BXXL>
+<Rater 4: HI_IS *  * N * ID: A171IHHGBOA4X8>
+
+<h> How to Set Up Firefox 7 to Restore the Classic Look
+<p> Many changes have been made to the Firefox user interface (UI) over the years and more recently the push has been to minimize it as much as possible which I'm guessing is an effort to compete with Google Chrome . I find this unusual since it would imply that most people actually want an ultra-minimized web browser UI. But out there in the real world, I'm seeing a different picture.
+<p> In fact, what I typically see is a lot of people suffering from a severe case of toolbar bloat where a large area running across the top of most people's web browsers is taken up by a stockpile of toolbars so high that it would rival a stack of pancakes.
+<p> So where this idea that tastes are switching to browser interfaces stripped down next to nothing is beyond me but I'm certainly not on that bandwagon. Now mind you, I don't want a bazillion toolbars jammed into my web browser either. Rather, I'm somewhere in between. I want my browser interface to retain the classic look but to be relatively uncluttered.
+<p> Now, restoring this look to the latest version of Firefox (version 7.0.1, as of this writing) was initially a bit of a chore. So, as usual, I took notes for future reference on where all the relevant options were, what got moved where, what got renamed and what extensions you need to install to get things back to 'normal'. And that's what the tutorial on this page is all about.
+<p> For your convenience, I'm providing a video tutorial as well. (After starting the video, you can double-click on it to watch it full screen. Press Esc to go back to the default format.)
+<p> For more videos like this, please subscribe to my Youtube channel, IronSpiderVideos !
+<p> And for those who prefer written instructions, you can refer to the text below. The written instructions also contain some tweaks I omitted from the video to keep the running time down.
+<h> Restore the File Menu Bar
+<p> This is by far the most annoying trend I see in all major web browsers these days and that is the removal of the File Menu Bar that runs across the top. This has been pretty much a standard in all computer programs since the beginning of time. And yet the powers that be decided we didn't need it anymore in our web browsers....?
+<p> Altogether now....
+<p> AAAAARRRRGGGGHHHH!!!!!
+<p> Now, here's how to get it back in Firefox:
+<p> Click on the orange Firefox button in the top left corner.
+<p> Hover over the Options button to reveal another flyout menu and click on Menu Bar .
+<p> (This will also restore the Title bar. Also note that the Firefox Menu Bar may be displayed by default if you're using Windows XP.)
+<h> Put Tabs Below the Location Bar
+<p> Tabs now appear above the location bar, a.k.a., the address bar, instead of below. To get tabs back down below where they used to be, simply click on View ¯ Toolbars ¯ Tabs on Top (click to clear this option). This assumes you've restored the File Menu bar .
+<h> Put the Home Button on the Left Side
+<p> Once again, this restructuring boggles my mind. Instead of having all the buttons you need to operate your web browser located in the top left corner so that you just intuitively move your mouse to that general area whenever you want to do something, browser makers these days have decided to spread things all across the screen disrupting a decade of web surfing habits. To support this insane agenda, the home button is now located on the right side of Firefox.
+<p> To move the Home button back to the left side next to the Forward and Back buttons, do the following:
+<p> Right click on any empty space beside a tab to display a context menu.
+<p> Click on Customize to open the Customize Toolbar dialog and put Firefox in customize mode.
+<p> Drag-and-drop the home button from the right to the left side and place it beside the Forward button.
+<p> Click Done to apply the settings.
+<p> You can also use the Customize option to populate the navigation bar with any buttons you like by dragging-and-dropping them from the collection in the Customize Toolbar dialog.
+<h> How to Remove the Google Search Bar
+<p> Once again, you use the Customize Toolbar dialog to do this:
+<p> Right click on any empty space beside a tab to display a context menu.
+<p> Click on Customize to open the Customize Toolbar dialog and put Firefox in customize mode.
+<p> Drag-and-drop the search bar from the browser interface into the Customize Toolbar dialog.
+<p> Click Done to apply the settings.
+<h> How to Restore the Status Bar
+<p> The status bar was actually removed with the release of Firefox 4 in March 2011. In its place appears the so-called Add-on Bar which holds shortcuts to various Firefox extensions you have installed. Hence, gone is the traditional status bar functionality including displaying the web addresses of any hyperlinks you hover your mouse over and the progress bar telling you how much of a web page has loaded after you've clicked on a link.
+<h> View the Source Code of a Web Page
+<p> Once again amazingly flying in the face of tradition, the View Page Source button was quietly removed from the View drop down menu in Firefox 6.0 (*face palm*). However, you can still display the HTML code of the web page you're currently viewing by doing one of the following:
+<p> Pressing Ctrl + U
+<p> OR...
+<p> Right-clicking on the page and click on View Page Source .
+<h> Disable Auto-suggestions in the Location Bar
+<p> When you begin typing something in the Location bar (a.k.a., the address bar), Firefox will jump in and try to commandeer your workflow by displaying a dropdown menu of 'suggestions'. By default, this is a list of relevant web addresses gleaned from your web history and your bookmarks.
+<p> If you're like me and you view this as an utter annoyance, you can disable it (or customize it) by doing the following (assuming you've turned on the File Menu bar ):
+

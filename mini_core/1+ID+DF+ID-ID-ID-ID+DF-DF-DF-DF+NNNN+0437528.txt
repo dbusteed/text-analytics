@@ -1,0 +1,107 @@
+<0437528>
+<http://www.soundonsound.com/forum/showflat.php?Cat=&amp;Number=1018681&amp;Main=613711>
+<Rater 1: ID_DF *  * N * ID: A2RGVOJDMIKL4W>
+<Rater 2: ID_DF *  * N * ID: A3F813T7DKLBKP>
+<Rater 3: ID_DF *  * N * ID: A3LNPBZXHKKAA7>
+<Rater 4: ID_DF *  * N * ID: A3UOK7WMVFVHHE>
+
+<p> Quote ryan mead: I would like something that gets out of the way automatically when my wife opens the door so that she doesn't think I've gone into bar-the-door-shut, goddammit-I'm-creating-don't-bother-me mode just because I've put a bass trap in place.
+<p> Great one! Yeah, I feel your pain man! And you never liked her mother either, and that belt she was wearing last night made her butt look huge! How could you??? And now, you want to lock yourself up in your little kingdom and totally ignore her... etc... You are a cad, sir!
+<p> Been there, done that, got the T-shirt!
+<p> You're on your own there, mate! I'm just trying to be sensitive, to prevent my sweet sensitive bride (can you tell we're newlyweds?) from feeling like this...
+<p> ...which I suspect she would if it seemed to her that I'd braced the door shut behind me.
+<p> (But yeah her mom is a handful sometimes.)
+<p> Quote Doublehelix: The "automatic" bit is going to take a bit of work on your part... good luck! I am anxious to see what you come up with.
+<p> No guarantees it'll work out that way though. The default plan is just a flat stationary 20cm-deep trap behind the door.
+<p> Quote Ian Savage: A tuned-membrane trap won't take up much more space than a broadband bass trap (takes up less than one that goes appreciably low), they can't be that hard to build, as I made one once - hardest bit was getting it properly sealed.
+<p> Care to elaborate? What frequency were you after, what did you use for materials (plywood's easy to source; so are vinyl flooring and carpet), what were the final dimensions, and how did you end up sealing it (silicone)? Did you damp it on the inside?
+<p> Also, for the silent among you out there, anyone else with any experience building a panel (or Hemholz for that matter) trap?
+<p> Right, have dug out my old design drawings! My memory's terrible, so I'll just quote verbatim from my scribbles:
+<p> For a diaphagmatic absorber, resonant frequency = 170 / sqrt(md), where m=the surface density in lb/sq ft, and d=the depth of the airspace in inches. I can't remember offhand exactly how putting rockwool or similar in the airspace affects the maths, but it obviously makes the thing more efficient. I believe I gave up on the diaphragmatic design in the end though, because if it's not TOTALLY sealed it causes more problems than it solves. And I couldn't get the bastard totally airtight.
+<p> For a perforated slat absorber, which is what I eventually ended up with, resonant frequency = 5.5 x sqrt(% perforation/(d x D)), where d = slat depth (m), D = cavity depth (m), and the % perforation for a slatted box can be worked out by (r/(w+r)) x 100%, where r=slat spacing and w=slat width.
+<p> What it looks like is in the bottom right-hand corner of this picture:
+<p> Basically the gap between each slat acts as a tuned Helmholtz resonator, sort of like blowing across the top of an empty bottle, with the airspace behind them (usually including some rockwool or similar, which broadens the peak of the absorbtion) acting as a 'spring' and soaking up some of the wave energy.
+<p> The trap I built was aiming for knocking out a standing wave at about 110Hz in a small room, so with the materials available I settled on using planks of wood 150mm wide by 38mm deep, and made the cavity 200mm deep (like yourself, I simply didn't have the room to go much deeper!). The slats were spaced 5mm apart, with the back 100mm of the cavity padded with Rockwool.
+<p> Plugging in the numbers, you get a resonant frequency of 5.5 x sqrt(3.2% / (0.038 x 0.2)), which gave me 111.5Hz. Sadly I didn't have the equipment to do objective measurements of the difference it made, but subjectively it had a massive effect on the booming at the low-ish end of the spectrum.
+<p> Give me half an hour or so and I'll see what can be done to attack 45Hz with common materials without making anything too massive! Obviously the thicker the slats and the deeper the cavity, the lower the resonance though.
+<p> I got a lot of my background from a BSc in Audio at the University of Salford, and then later found out that the lecturer in acoustics had leaned heavily on a book called 'The Master Handbook of Acoustics', by F. Alton Everest. I recommend it heartily, it'll be the best twenty quid you ever spend on acoustic treatment. As long as you don't mind working in imperial measurements, which do my fruit, hence the conversion to metric above.
+<p> Quote Ian Savage: the lecturer in acoustics had leaned heavily on a book called 'The Master Handbook of Acoustics', by F. Alton Everest. I recommend it heartily, it'll be the best twenty quid you ever spend on acoustic treatment.
+<p> Funny you should mention it-- I have the book right here! I bought it about two years ago on a trip back home, but haven't paid any attention to it until recently. (In a weird turn of dumb blind luck, I bought two then-unknown-to-me books on audio-- the other one was Bob Katz's book.) I put myself to sleep last night with the section on tuned traps and a couple glasses of red.
+<p> Quote Ian Savage: I can't remember offhand exactly how putting rockwool or similar in the airspace affects the maths, but it obviously makes the thing more efficient.
+<p> Here's the part that scares me-- both Everest's book and Paul White's article say that putting rockwool in the airspace lowers the resonant freqency "somewhat", but they're both vague on that point. (I see experimentation and material waste ahead... )
+<p> Quote Ian Savage:
+<p> As long as you don't mind working in imperial measurements, which do my fruit, hence the conversion to metric above.
+<p> No worries there and no need to translate for me! As a Canadian I was brought up with imperial, and then forcefully converted to metric along with the rest of the country when I was a kid, so I'm comfortable with both, but imperial's in my soul. I'm living in metric land now, though, so I'm just rolling with it. I can't even find a ruler or tape measure with inches on it!
+<p> Anyways, please don't take it personally if I opt not to go for some kind of tuned trap-- it DOES sound like there are rather a lot of pitfalls there.
+<p> Well, I've decided to make the behind-the-door trap a broadband trap, hinged to the door. When the door is closed, the trap should sit like this:
+<p> And when it's open it should sit like this:
+<p> In both pics, the four-sided piece of plywood is the baseplate/top plate for the trap, showing the eventual vertical cross-section, and the yellow arrow shows where I'll hinge the trap to the door.
+<p> I considered making another 45-degree angle so that the distal face of the trap would sit flush against the wall when the door is closed, but decided against it because that would have cut down on the size of the trap considerably and moved it much closer to the wall. A blunt square distal end may be less elegant, but more effective!
+<p> I'll also mount four casters to the baseplate and put some kind of track in the ceiling, with a pin or roller on the trap that rides in the track so that it automatically moves into place when the door is closed. At least that's the plan.
+<p> You can also see a triangular offcut of wood in the corner of the room in both pictures that represents where I can stuff a bit more rockwool into the corner somehow (I'm thinking just sewn bags stuck into the corner) so that this thing behaves a little more like a proper superchunk.
+<p> Here is a little more evidence that I've actually started working on this trap:
+<p> If anyone sees anything amiss, please speak up! It's bedtime in Seoul so there is time for me to make refinements (or wholesale redesigns!) on the basis of your comments!
+<p> Meanwhile, I've made a stand for the whaleTrap:
+<p> There's some painfully obvious levelness issues, but I've tweaked the stand a bit to hopefully address them. And anyways I don't think the standing waves will give a damn if it's level or not.
+<p> I'm getting very close to being ready to convert my temporary woodworking shop back into a studio, and my wife is VERY ready to see all of the completed traps disappear from the living room! If the frequency response curve ends up looking anything like the one on the first page, I'm going to have a breakdown or something...
+<p> Quote ryan mead: It was suggested to me in an email awhile back (from the good folks at Ready Acoustics) that I replace the front blinds with some heavy and bulky curtains.
+<p> It sounds like a good plan, but it also sounds like another step towards converting my studio into a sauna.
+<p> Thoughts?
+<p> Nobody then?
+<p> If you look at the graph on the first page of this thread, I think I've got obvious high-frequency issues. I've noticed that in some Studio SOS's they put up Auralex on the wall behind the speakers, and in others they don't. It's not a mirror point per se , so I'm not clear on how important this is.
+<p> There has been a lot of head-scratching, fussing, and material waste over the behind-the-door trap, and in the end it doesn't seem to have panned out so well. I haven't even tried to hinge it to the door yet, but it's far too heavy to be expected to behave properly when the door is opened and shut. Besides, I'm having a hard time tracking down the closet door mounting hardware that I thought would be suitable for a ceiling track. Koreans aren't into bifold closet doors, they're into standalone wardrobes.
+<p> For the time being I guess I'll just leave it flat against the wall when composing, arranging, and woolgathering, and shut the door and go into wendy-let-me-explain-something-to-you mode (seriously, she'll think it's because I don't want her to intrude, not because I'm trying to get rid of that 90Hz notch) when I'm finishing off a mix.
+<p> Anyways-- the transition from wood shop to music room is underway! Here are the back and front walls:
+<p> In the first picture, you can see the behind-the-door trap, slouching disappointedly against the wall. Asymmetry is somewhat tolerable at the rear of the room, right?
+<p> At this stage I stood at the mixing position and clapped my hands in front of my face. There was an awful ring, but I don't have any of the mirror point traps up yet so I'm not going to lose any sleep over it tonight.
+<p> I did try clapping again when the ceiling trap was leaning against one of the side walls, and the ring seemed to have subsided somewhat, so we'll see what tomorrow holds.
+<p> These lights originally came with this irritating switch, which I bypassed:
+<p> (before)
+<p> (after)
+<p> The first test of the room's new acoustics might come as early as tomorrow! I've still got my four RealTraps to play with to do some fine tuning, though I'm pretty sure one's going to wind up at my feet under the desk, where it made a huge improvement at the outset.
+<p> I've noted a problem already. The whaleTrap resonates at a really low frequency. (I noticed when I was sitting on the sofa with a beer, idly banging my head on it last night.) A nice long note like an acoustic bass.
+<p> I'm thinking it's because I mounted this cleat too close to the trap, pinning it to the wall, and perhaps coupling it to the ceiling panel (which also resonates). There's no need for the cleat to be touching the trap-- it's just for safety in case the trap decides to fall forwards-- so I'm going to move it forward until they're not touching, and hope this resonance goes away.
+<p> Meanwhile-- the sub showed up! I know I've been advised against it in this very thread, but I couldn't resist. I've got a choice between two ways of hooking it up:
+<p> 1) via the crossover in the sub
+<p> This option would presumably split the signal between the sub and the K&H's optimally.
+<p> 2) independently, via the presonus monitor controller
+<p> This option would have the advantage of making it easy to turn off the signal to the sub with the press of a button. I would then set the filter on the sub to match the low end of the K&H's as best I could. Jury's out on that one.
+<p> Seems to be coming along nicely man! Shame about the behind-the-door trap, but we lives and learns; as regards the sub, that's a tricky one. For optimum sound quality you really ought to be running the signals in and out of the subwoofer - but does the Presonus have a dedicated sub-out that'll have its own crossover?
+<p> Quote Ian Savage: does the Presonus have a dedicated sub-out that'll have its own crossover?
+<p> It has something kind of like a separate sub out ("C" out can be toggled on and off, independently of A and B outs), but afaik with no crossover. If I go that route I'll try and match the low-pass on the back of the sub to the low end of the K&H's (which is about 60Hz). I think I'll run the K&H's through the sub's crossover to begin with, do some testing, and then try things the convenient but dangerous way, through the Presonus, and see how much worse the results are. Not quite sure how to set up a test for phasing problems at the low end, however, or if my ears are good enough to catch such problems myself.
+<p> Meanwhile I removed the cleat from in front of the whaleTrap and it still resonates like a timpani.
+<p> There never seems to be an end to the issues, is there? I keep running into them just when I think I am about done myself!
+<p> Regarding the window...
+<p> I ended up having to cover my CR window with a small bass trap, even though I was really looking forward to the natural light. It was a necessary evil in order to get the sound tamed down to where I am able to mix in the place. It really sucks, but once things get rolling here in the next month or so, I hope take it down during tracking, and then hang it back up during mixing.
+<p> That may end up backfiring on my since I need to be able to judge mic placements and choices, and if I compromise my acoustics during tracking, I may lose the ability to make those choices appropriately.
+<p> I bring this up for 2 reasons:
+<p> 1) You might need to do what you need to do if you find you still have a big problem with the window. Sometimes, it is a difficult choice, but you have to be able to live with the consequences. I wasn't, so I reluctantly covered the window.
+<p> 2) Your behind the door corner trap might need to be there for more than just mixing. It may become the "anytime I am in the studio" trap rather than the "mixing" trap.
+<p> Another option for your window: RPG makes something called a "ClearSorber" which can go over a window and still let light through. Max from this forum pointed it out to me as an option, but at the time it was a bit too pricey, and I needed to get something going ASAP. I might consider replacing my current trap with a ClearSorber someday. You might want to ask Max about it, I think he has some experience with them.
+<p> Regarding the behind-the-door trap: Bummer that your design didn't work out. Is there anyway you can make it lighter? Minimal framing and maybe make a trap-in-a-bag type of design to reduce the weight? Is the door solid or hollow? You could always get a more solid door and then get some heavy-duty hinges if need to. Otherwise, I would just go with the movable trap. Maybe put some casters on the bottom so that it will move easily out of the way? Also, consider a small chain and hook system so that when it place, it will not accidentally fall down and kill any small children or animals if anybody opens the door when it is in place!
+<p> Otherwise, it is looking nice, and coming right along! Keep it up man!
+<p> -------------------- James "Never interrupt your enemy when he is making a mistake" ~Napoleon Bonaparte~
+<p> If you run it through the Presonus CS, the obvious advantage is the ability to bring it in and out of the mix for comparison purposes. The big disadvantage is the lack of a cross-over. (I know you already mentioned both issues, just re-iterating for completeness!).
+<p> My opinion is that you should not run the system without a crossover. Good filters will work (that is what a crossover is after all), and if you have them built-in to the sub, great. I would however consider having both the mid/highs and the sub on filters... HPF on the mid/highs and LPF on the sub. You will losing a lot of energy if you don't. Maybe you could invest in a nice stereo crossover, and use one side for the sub, and one side for the mid/highs???
+<p> Anyway, FWIW, that is what I would do, otherwise, I would use the crossover in the sub. For me personally, I would never just use the CS without some kind of filtering on both sets of speakers.
+<p> -------------------- James "Never interrupt your enemy when he is making a mistake" ~Napoleon Bonaparte~
+<p> Belated thanks for the very thoughtful reply. I've been sidetracked by some problems with my new/used monitors, for which I've started another, very sad, thread .
+<p> about the window: I've sent RPG an email, but I'm so over budget at this point that I'm thinking of just replacing the vertical venetians with a duvet mounted on curtain rings. Then I could easily let some light in when I'm arranging, and close the curtain when I'm mixing. (I don't actually record that much.)
+<p> about the behind-the-door trap: Well, the casters part is working, so it is easy enough to roll it into place after closing the door. Over the next while it'll be one of the variables I test: door open, door shut and trap flat against the wall, door shut and trap pulled into place. I'll see how much difference it makes.
+<p> about the sub: There's this really harsh language in the owner's manual:
+<p> This seems like a really stupid way to configure a crossover to me. Who in the hell would want to dial in overlap or a gap? Moreover, the 80Hz point isn't even indicated on the crossover frequency knob. There doesn't seem to be much advantage to running the speakers through the sub; in fact the only effect seems to rob the speakers of their low end. Got any suggestions for a stereo crossover?
+<p> Well, I started testing again, and at first I was pretty depressed because I still had a big knife-slash at around 90Hz and a big ugly rolloff at the top end. Then I decided to take some advice from page 1 of this thread:
+<p> Quote young david:
+<p> If you haven't already done this, I'd start by experimenting a bit with moving the listening position a foot or two along the lengthwise dimension. Might help with the bump around 46 and your 90-100 dip.
+<p> Quote Jim Y: Would it not be better to experiment with desk/speaker position before putting any traps in? - That way, changes for the best with these positions will be more apparent, and you can then position your traps to suit the room with all your equipment in place.
+<p> The following graph shows measurements taken with the mic at varying distances from the front wall.
+<p> Now I'm confused!! I get the smoothest low end when I position my head as close as possible to the middle of the room!! This so contravenes the conventional wisdom I've learned here that I'm almost afraid to post it.
+<p> I've done some other tweaks since then-- I have found that I get a smoother top end with the speakers out about 55cm from the front wall, and my body a little forward of the exact center of the room.
+<p> I've also done a little Paul-White-style crawling around and determined that the bass response is the least lumpy with the sub on the floor to the right of the right speaker, and slightly forwards of it. There was a phase issue, which you can see here: the top curve is without the sub, the middle curve is with the phase switch in the 0 position, and the bottom curve is with the phase switch in the 180 position.
+<p> I tried to move the sub as close to myself as possible but it doesn't seem possible to get it as close as the nearfields, so I think I'll just use it for fun, and make critical bass mixing decisions using headphones, or with the sub switched off.
+<p> I ended up not using a crossover at all. Subjectively, the information below 80Hz seems so much tighter and more accurate coming from the K&H's than from the sloppy Tannoy sub, so I just set the high pass for the sub to about 50Hz, to use the low-end response of the K&H's as a natural kind of crossover.
+<p> Despite the fact the room sounds a great deal tighter and less boomy now than it did at the outset, even with the sub, I'm kind of disappointed with how little the frequency response has changed-- and more and more confused by the results of tiny tweaks...
+<p> One more piece of advice I'm going to have to follow:
+<p> Quote young david: Final tip would be once you've settled on the layout, print your room eq graph and stick it on the wall.
+<p> I'm pretty happy with how the room sounds. I don't think the frequency response tells the whole story, as the room subjectively is quite non-resonant without being oppressively anechoic, and I seem to be making good mixes. Here's hoping we don't get kicked out at the end of our lease!
+

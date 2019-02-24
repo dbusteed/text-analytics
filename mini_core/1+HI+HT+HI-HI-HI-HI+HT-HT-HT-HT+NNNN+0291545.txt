@@ -1,0 +1,94 @@
+<0291545>
+<http://justintadlock.com/archives/2009/05/26/the-complete-guide-to-creating-widgets-in-wordpress-28>
+<Rater 1: HI_HT * RC * N * ID: A1QKX5CZJQONP>
+<Rater 2: HI_HT * RC * N * ID: A208YGD0HZC8H0>
+<Rater 3: HI_IS * RC * N * ID: A10GZ0SWBZIRBK>
+<Rater 4: HI_IS * RC * N * ID: A37SNFHBHBPZQE>
+
+<p> I have seen some good tutorials on creating widgets for WordPress 2.8 floating around the WordPress-o-Sphere. But, I didn't feel any of them really covered practical usage. I want to show you how to create a widget for real-world development using WordPress 2.8?s new widget class.
+<p> In this tutorial, I'll walk you through the steps of setting up a widget, its settings form, and displaying it on your site. At the end of the tutorial, you can download an example plugin to build from. Of course, you can apply this to your themes as well.
+<p> If you don't feel like reading through the tutorial, skip to the end and download the example widget. It's heavily commented and will give you a good base to build from.
+<h> What will the example widget do?
+<p> For the sake of the tutorial, we'll be creating something extremely simple, yet you'll see some advanced techniques on how to give users more control over the display of the widget through the widget controls.
+<p> Our widget will display a person's name and sex. The controls will allow for the input of a widget title (text input), the input of the user's name (text input), the selection of the person's sex (select box), and whether the sex should be shown publicly (checkbox).
+<p> Here's what the output of the widget will look like:
+<p> I know, it's not much, but you'll be able to take these tools and apply them to more complex widgets.
+<h> Loading the widget at the appropriate time
+<p> The first thing we have to do is load our widget when necessary. WordPress provides the widgets_init action hook that will allow us to do this. In WordPress 2.8, this action hook is fired right after the default WordPress widgets have been registered.
+<p> If you wanted to create more than one widget, you'd use the register_widget() function for each widget inside of the example_load_widgets() function.
+<h> Setting up our widget
+<p> In the past, creating widgets in WordPress was some ugly mish-mash of functions that was incomprehensible. In 2.8, we simply have to extend the preexisting WP_Widget class. So, the first step is creating a new class with a unique name.
+<p> class Example_Widget extends WP_Widget {
+<p> Then, we'll want to add our first function. This function will be what makes our widget unique to WordPress, and it'll allow us to set up the widget settings.
+<p> Note that the class name and first function name are the same. In this example this is Example_Widget .
+<h> Displaying the widget
+<p> The next function within our Example_Widget class will handle the display of the widget. This code might be a little confusing because we don't know what it all means (we haven't added the controls).
+<p> The goal here is to take the settings supplied by what the user selected for the widget and display the widget according to those values.
+<p> It's also important to make sure you use the $before_widget , $after_widget , $before_title , and $after_title variables. These are provided by the theme and should not be hardcoded. How widgets are displayed should always be handled by the theme.
+<h> Creating widget controls or settings
+<p> The reason the new widget class in WordPress 2.8 is so cool is how easy it is to set up controls for your widgets. The get_field_id() and get_field_name() functions handle most of the dirty work, leaving us to concentrate on more important things like actually creating the widget. Take special notice of how these functions are used because it'll make life much simpler for you.
+<p> First, we might want to set up some defaults. By setting up defaults, we can control what's shown just in case the user doesn't select anything.
+<p> The only step left is closing off the form function and the rest of the widget code.
+<p> &lt;?php } } ?&gt;
+<h> Time to create your own widgets
+<p> If you've ever created or attempted to create a widget in WordPress prior to 2.8, then you can probably see how much easier this is. To help people learn the new system, I've put together an example widget. I've left loads of comments about what code does what in the file, so it should be pretty easy to follow:
+<p> Hi Thanks for your guide. I have followed your guide and managed to create multiple instances of the plug-in and had then displayed them on different sidebars. But when I try to change the options on one widget on a sidebar ... the changes will automatically apply to all the instances of widgets on all other sidebars!? Do you have an idea on how to allow the plug-in handle multiple instances of widgets? Or ... Anyway, I have learnt a lot for the first time about Widget once read this guide. Thanks again Leon
+<p> This post was really helpful. Thank you! I do have a question though How do you add wysiwyg controls to a widget? I've tried taking apart a few old plugins -- but they don't use the new 2.8 widget class, so things get kind of messed up. They also seem to link to their own version of tinymce which doesn't make sense to me, since there is already tinymce bundled with wordpress... why not make use of that? Hoping you can help...
+<p> I have been able to get tinymce to show up in a textarea of a widget -- but when I go to save the widget -- it doesn't seem to save the changes -- and then reverts the box back to the non-tinymce view. I'm beginning to think now that this may be some kind of issue with the widget class/feature itself -- because that just sounds REALLY odd... I'm not a fan of the wysiwyg editor myself -- but my clients can't do HTML -- so I need to have it there for them.
+<p> Ok, despite the excellent tutorial, I don't get it. I've created a widget, but when I try to save it, it doesn't. It looks like it works, but it doesn't appear on the page and if I reload the widget page, it has disappeared from the sidebar.
+<p> The widget is exactly like your example widget, which of course works perfectly. Any ideas what could cause behaviour like this?
+<p> I have bookmarked this post as I will have to read this a couple of times and try and test to see if it works. I would like to create my own widgets as some plugin developers don't have widgets for the work.
+<p> Justin, thanks for the explanation "for dummies" -- I really needed it. It seems that WP lacks of better function description and documentation overall... I deal a lot with Drupal, have to say that their API documentation service seems much superior to me than WP.
+<p> Anyway, I'm kinda stuck with updating my own plugin to be compatible with the 2.8 -- new widget instances showing up in widgetized areas just fine, but the existing widgets (created in previous WP version) don't show up and I have no clue why. I output the var_dump for the get_option("my_widget") and can see all the existing and the new widgest arrays, but only the new ones show up in the widgets section and the front end. Seems like I can't even grab their $instance(s). Any thoughts on this?
+<p> Thanks for a great guide! I started my first wordpress widget this week with another template that unfortunately wasn't ready for the 2.8 widget api changes. But in about an hour I transferred over the work I had done earlier and I now have a multi-instance widget saving and retrieving all the settings I need for the widget I'm creating.
+<p> I knew there was a good reason why this article/post was in the Top 10 on Stuff-to-Tweet. Nice job Justin. Since my cracker skills are meager at best, I figure I'll have to send my Rent a Coder buddy here so he can brush up on your How To Make a Widget Work in WP
+<p> How many of your reader's have asked you what your hourly rate is? BTW, what is it?
+<p> St‚phane Gallay -- The reason you won't find this in tutorials is because people that code widgets generally know this. Where to put your widget code depends on what you're doing. Are you adding it to a theme? Are you adding it to a plugin?
+<p> Thanks that was just what I needed You created a nice and clean example that was very easy to follow. I did have one issue but it wasn't with your code it was with the text editor(visual studio) I was using, switched to phpDesigner and now everything works fine.
+<p> Hey I just want to say thank you! Once I followed it through bit by bit, I began understanding it a lot better, and I've nearly completed my first widget.
+<p> Oh, and a little tip for anyone else trying to learn this stuff -- don't just copy paste it. Type it all out bit by bit -- it's invaluable to understand what's actually going on. That's applicable to anything really, not just WordPress.
+<p> Now the problem is that in available widget page only one snippet is shown. Rest of the snippets are ignored by a condition in function wp_list_widgets() This function resides in wp-admin\includes\widgets.php file.
+<p> If I comment the below lines, it works great but I am limited to plug-in only. if ( in_array( $widget['callback'], $done, true ) ) // We already showed this multi-widget continue;
+<p> Hello Justin, first let me say how usefull I have found this tutorial.
+<p> Now I managed to follow it and create my own widget succesfully but one little thing. I have a select drop down with options and when I select an option other than the default and hit save although it does save and displays my selection correctly the option in the select drop down (in the widget box-admin) reverts to the default. I think that is confusing for users.
+<p> Then I though let me try your example and see if that happens with your example widget and how strange. It does! I choose female from the drop down and it does save and display correctly however the option in the drop down still shows male.
+<p> Is there a way to fix this little detail? I appreciate any responce to this.
+<p> Very nice tutorial. I am trying to extend this and provide file upload by adding a new form item with type="file". My form displays and I can choose a file to upload, however I don't know how to pull out the file information in the update() method. I also cannot find a single example of a 2.8 widget with file upload capability. Any pointers please ?
+<p> Here is one for you. Used this code to develop a plugin for use with my Wordpress MU install. The problem is though that when I change the values of parameters on one blog it changes it on all of them.
+<p> Just wanted to say "Thanks" for this post, I found it very helpful with adding / creating widget functionality in the plugins I recently wrote. Since reading this post a week and a half ago, I have been able to put three plugins into the WordPress repository. Kudos to you!
+<p> It seems that there was a modification of the __checked_selected_helper function (wp-admin/includes/template.php) in wp 2.9. The if ( $helper == $current) test as been replaced with if ( (string) $helper === (string) $current) test so the checked( $instance['show_sex'], true ) doesn't work anymore ! I think that you will have to replace it with checked( $instance['show_sex'], 'on' ) for checkboxes to be checked again...
+<p> I'm putting this to good use for my theme site. Thanks for posting this up. I've customized it a bit. Once it's released, I'll shoot you a link. I appreciate you putting this article up, without it I would have been lost
+<p> I've got the widget working, but had a question. For those who want to write php codes directly into their theme without using a widget, how would I go about this? I know the code should be like this normally:
+<p> if(function_exists('function-name')) { function-name(); }
+<p> But I can't seem to figure out which function name I'm suppose to use and also, inside the function-name() I'd love to be able to allow the users to add their own name/sex right inside (ie: function-name('mike','male');
+<p> Important note about WordPress widget id_base names. DO NOT include capital letters in the id_base name. When the widget is registered, the id_base name appears to be stored in lower case letters as the wp-options key.
+<p> So the next time you refresh the widgets page or your website, you will not see your widget because WordPress is not looking for your id_base with the capital letter in it.
+<p> Just a helpful tip for anyone else who spent 2 hours trying to figure it out.
+<p> I try to create my first widget with the help of your good tutorial. With my widget I have an issue, it's impossible to save widget options with IE8 ! When I test "Example Widget" I get the same issue, impossible to save the options. Can you help me ?
+<p> Being very new to WordPress I have a obvious question. Yes I downloaded your code, Yes I activated the widget in the admin panel but HOW exactly do I use it? Where do I see the form that allows to enter a name .... and will display name, sex etc. etc. A more detailed description of HOW to use widgets would be appreciated since this is an introductory tutorial.
+<p> I am unable to get a widget I created to work properly. I followed the example in this article. The widget shows up just fine in the backend's Appearence=&gt;Widgets screen and I am able to drag it to one of my sidebars. What happens is that the widget's output is not showing up on the front end (and I checked the HTML source and there is no sign of if it at all, not even the tags generated from the $before_widget and $after_widget variables). I checked apache's error_log for possible PHP error messages. Nada. What also happens is if I navigate someplace else on the back end and then navigate back to the widget screen, the widget has vanished from the sidebar. I have been staring at this code for hours and hours and cannot see what is wrong.
+<p> Thanks to your post I've been able to create a widget to display a mini catalog. Which is working nicely.
+<p> And once again, I've learned a boatload from dissecting your code. Even though you don't document it, the translation __() form was an invaluable lesson.
+<p> Now, I'd like to learn one more thing, namely how to add user controlable styling to the widget without without the user having to edit style.css so it is portable from theme to theme without having to alter the theme files.
+<p> Since there's no HTML section, how would one go about adding CSS to the widget's output intrinsically?
+<p> @Ed Tiley and others. I too needed styling for my widget and came up with this solution. I'm not sure that it's the "correct" way to do it but it works. Put your css file in the same folder as your widget and then in your widget code add this at the top:
+<p> @Ed Tiley, re-reading your post I see I didn't really answer your question with my previous post. I'm wondering if you can't just provide the user with a text block to input their css and then just echo it out in a style block in your widget code? This is not really "standards compliant", though it would probably work.
+<p> Great post -- still timely for WP 3.1. One problem: when I add custom widgets according to the examples, it makes all of my widgets appear without any form fields in the WP widget screen, ONLY when they're first added to widgetized area. Then, once I click the save button, the form fields appear and all is well.
+<p> Any idea what's causing this?
+<p> It doesn't look like there's much activity here lately, but hopefully someone can provide an answer..
+<p> Thanks for this! Helped me to wrap my head around building custom widgets. I've already built a couple for a client that will allow them to drop in their call-to-action widgets to their site complete with user-controlled linking for the banners. I'm also building a plugin that will house a selection of widgets for an affiliate program they are launching shortly.
+<p> Hey Justin, this is awesome. I'm in the middle of making a website for a music label and have really tried to push myself to make Wordpress into a real CMS for them. Your site has given me just about everything I need to do this, from this post to your info on custom fields and posts. Thanks so much for taking the time to provide clear, elegant examples, walkthroughs and explanations
+<p> i was searching for the tutorial to get started with wordpress plugin development. My friend suggested me to have a look at yours. I haven't gone anywhere else and got satisfied with the result. Cheers!! Thanks for nice tut..
+<p> I just bought the book you wrote with Brad and Ohz, and so far it is quite helpful, but the one thing that is not covered with regards to widget creation, is how to utilize multiple checkboxes that are dynamically created.
+<p> Basically I need to dynamically create a list of checkboxes, that will then be used to toggle the display of items on the frontend of the site.
+<p> I do not know how many items, or what any of their names will be.
+<p> Here's an example from my own code I am trying to get working: (I'll leave out the bits that don't apply -- also please note that are supposed to represent the open and close p-h-p tags)
+<p> Hey Nice article, however i am completely new for creating new widget, so want to know the exact file where we need to write this all widget related code.. is it in widget.php or there should be new created file?
+<p> Hi Justin, As always your tutorials are the best.... Not sure if your still supporting questions on this old of a tutorial but I was wondering if its possible to port an image upload button into the widget such as the way the tinymce works? If so how can this be achieved?
+<p> Thank you for this guide. It was really helpful to me a couple months ago.
+<p> I'm wondering what you think about widget classes being pluggable (using class_exists() in the same way that function_exists() is often used) as a very simple way for child theme hackers to modify a theme's widgets. Is there anything unwise about this?
+<p> Hi Justin, Great article! I just wanted to know if its possible to do the same thing without using Object Oriented Programming? I am sure that there are many of us who are still new to OOP concepts & can find it really hard to follow the coding style of the current code. So if you can release a non-OOP version of the code, that would be fantastic & highly appreciated.
+<p> No. The old, non-OOP solution was clunky and hard to use. Trust me, I come from a procedural coding background (the few programming courses I managed to make it through in college), but OOP is much easier in this specific case.
+<p> By submitting a comment here you grant this site a perpetual license to reproduce your words and name/Web site in attribution.
+<p> Please use your real name or a pseudonym (i.e., pen name, alias, nom de plume ) when commenting. If you add your site name, company name, or something completely random, I'll likely change it to whatever I want.
+

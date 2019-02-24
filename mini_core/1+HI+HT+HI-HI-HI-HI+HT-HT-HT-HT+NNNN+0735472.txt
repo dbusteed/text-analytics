@@ -1,0 +1,17 @@
+<0735472>
+<http://www.pinnaclesys.com/PublicSite/uk/PinnacleLife/Content/Tutorials/videowithacamcorder.htm>
+<Rater 1: HI_HT *  * N * ID: A1IV79FM6URE9F>
+<Rater 2: HI_HT *  * N * ID: A2IVUW3VOHJL8J>
+<Rater 3: HI_HT *  * N * ID: A2RFWIPVXZ5ON1>
+<Rater 4: HI_IS *  * N * ID: A3190NYLHUY2ZH>
+
+<h> Tutorial:
+<h> How to create a video with a camcorder?
+<p> To shoot your video with a camcorder, please follow the steps described as below. For any further information about your camcorder, please refer to the manual delivered with it.
+<h> Step 1
+<p> Turn on your device and select the position "Recording". Press the button "Rec" to start the recording and then "Stop" to end it.
+<h> Step 2
+<p> Once your video has been recorded on your camcorder, you can download it on your computer with the appropriate cables delivered with your device. Select the position "Transfer" on your camcorder. The software delivered with your device must be installed beforehand. This will allow you to transfer your video on your computer. Once completed, the software starts automatically. The transfer is in progress.
+<h> Step 3
+<p> Once the transfer to your computer has been completed, your video is ready to be edited with Pinnacle's free online tool, Pinnacle Studio Online Editor or with a video editing software such as Pinnacle Studio.
+

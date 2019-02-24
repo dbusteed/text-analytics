@@ -1,0 +1,16 @@
+<0239731>
+<http://forums.steampowered.com/forums/showthread.php?t=1669920>
+<Rater 1: ID_DF *  * N * ID: A193YDFH1CD4JX>
+<Rater 2: ID_DF *  * N * ID: A1LD0QIDVO016U>
+<Rater 3: ID_DF *  * N * ID: A1R7CJMWXC79UO>
+<Rater 4: ID_DF *  * N * ID: A3S8UNGS9Z0P0X>
+
+<p> When i try to start up steam, i get the message 'steam needs to be online to update, but was set to offline mode' this happens everytime i start it. No error boxes appear, just a dialogue box with that message. I want to put it in online mode without opening the actual program.
+<p> The thing is, i cant open the client because that message comes up, and i cant change it because it wont open, and my internet is working fine, the only thing i can see when i right click it is; options, hide and quit. and the menu bar only comes up with the steam name, and nothing else, which only has; 'hide steam' and 'hide other windows'.
+<p> try reinstalling steam, probably not the best advice but it should work.
+<p> Reinstalling the Steam application won't help. You will get this exact same message, since the Steam application on the .dmg needs to download a bunch of crap. (And you can't download stuff if Steam thinks you're in offline mode. And Steam doesn't provide you with a way to go online if you are offline and it needs to update itself (how convenient)).
+<p> When i try to start up steam, i get the message 'steam needs to be online to update, but was set to offline mode' this happens everytime i start it. No error boxes appear, just a dialogue box with that message. I want to put it in online mode without opening the actual program.
+<p> In Lion, the Library folder is hidden so you won't see your Steam folder. If you don't want to mess around with the registry or enter Terminal commands, you can simply go to the "GO" menu, select Go To Folder, and enter: ~/Library
+<p> You should now be able to see the Steam folder, and the registry.vdf file inside that. Simply rename the file, or delete the full stop so that Steam doesn't recognise the file (you can delete the file, but best to rename first as if this fails, you might want to be able to revert back).
+<p> Once the file has been renamed, you should be able to start up Steam and get back online. Note: if the above fails, try following all of the steps again but rather than starting up Steam, re-install it instead.
+

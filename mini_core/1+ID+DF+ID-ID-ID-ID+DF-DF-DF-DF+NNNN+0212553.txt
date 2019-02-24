@@ -1,0 +1,16 @@
+<0212553>
+<http://forums.androidcentral.com/t-mobile-galaxy-s-4g/139826-somethings-going-happen-november-15-2012-a.html>
+<Rater 1: ID_DF *  * N * ID: A1C8ON7E0DC7GB>
+<Rater 2: ID_DF *  * N * ID: A33N4PXGW0ANB5>
+<Rater 3: ID_DF *  * N * ID: A3UOK7WMVFVHHE>
+<Rater 4: ID_DF *  * N * ID: AD0EHH6TG0KF0>
+
+<h> Something's going to happen on November 15, 2012
+<p> Or maybe, nothing is going to happen on November 15,2012. At least according to my calendar.
+<p> I have tried 3 different android devices and none of them will sync my calendar past November 15, 2012. If I add a calendar event on my Samsung Galaxy s 4G (t-mo), it will appear on my google calendar on my laptop but if I add a calendar event on my laptop for anytime after November 15, 2012 it will not appear on my android device. Anything before that date works fine.
+<h> Re: Something's going to happen on November 15, 2012
+<p> Third party calendar is the same. I tried Business Calendar Free by Appgenix. I'm pretty sure that third party calendars are basically just skins that use the same data that comes from the android calendar. I think my problem is a sync and/or data management problem.
+<p> I have tried everything I can think of to rectify this and am still in the same situation. It won't sync past November 15, 2012. Ooooh...maybe it's the end of the world. The Mayan calendar must be a bit off.
+<h> Re: Something's going to happen on November 15, 2012
+<p> I'm starting to think that it's the amount of data that I have in there. The part that makes me really wonder is that even though days go by, it still won't sync past Nov 15, 2012. I would've thought that every day or so it would sync an extra day further (sync to Nov 18 by now).
+

@@ -1,0 +1,21 @@
+<0232414>
+<http://www.teamxlink.co.uk/forum/viewtopic.php?t=43081&amp;sid=2e315bcc61167fa7d2e7614b22e811e8>
+<Rater 1: ID_DF *  * N * ID: A1P7QDWY4U2H6O>
+<Rater 2: ID_DF *  * N * ID: A2RGVOJDMIKL4W>
+<Rater 3: ID_DF *  * N * ID: A2YTOX7SEDJ1TC>
+<Rater 4: ID_DF *  * N * ID: A37QW51L039KKQ>
+
+<p> A few weeks ago, I managed to use my PSP with XLink Kai without any problems, but recently, whenever I click on Start Kai, it disappears immediately as soon as it starts up. The icon disappears from the task bar as well. I've tried using the UI, but it just says "Looking for Kai Engine" and does nothing else. So, I'm guessing the Kai Engine just isn't starting in general?
+<p> I've read around the forums and didn't seem to find a solution to my problem. I've tried reinstalling it, CCleaner, System Restore, and everything else I can think of. Pretty sure my port forwarding is working too, but I'm holding my breath. Any help is appreciated.
+<p> Last edited by Shadow564 on Sat Mar 24, 2012 4:21 am; edited 1 time in total
+<p> Out of all those programs, I only own avast! and Skype, which I'm sure neither of them are the problem because I had them when Kai was working. I can't run it with Vista SP1 either.
+<p> giggyprince Team XLink Moderator
+<p> Joined: 27 Feb 2011 Posts: 1106
+<p> Posted: Tue Mar 27, 2012 9:25 pm
+<p> Well for now the only thing that comes to mind right now is to follow this guide here--&gt; http://teamxlink.co.uk/forum/viewtopic.p\\... i know you already did it a 1000 times over, but please do it again and download and install the latest ccleaner. Download the latest kai version and install it in "winxp sp 2 mode" and run kai in "winxp sp 2" mode too both as admin. Make an exception in the windows firewall for port 30000 udp. I hope this will help.
+<p> Shadow564 Kai Beginner
+<p> Joined: 23 Mar 2012 Posts: 7
+<p> Posted: Tue Apr 03, 2012 10:47 pm
+<p> Yeah, nothing's working. I followed the guide you posted multiple times and Kai still won't run. I tried the simple port tester as well to test if port 30000 was open, but it keeps failing. I don't know what to do. I'm considering trying to run Kai on a different computer and seeing if that helps.
+<p> View next topic View previous topic You can post new topics in this forum You can reply to topics in this forum You cannot edit your posts in this forum You cannot delete your posts in this forum You cannot vote in polls in this forum
+

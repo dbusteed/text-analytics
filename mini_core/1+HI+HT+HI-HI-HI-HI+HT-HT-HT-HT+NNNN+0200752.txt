@@ -1,0 +1,23 @@
+<0200752>
+<http://help.adobe.com/en_GB/story/cs/using/WS5fb9ece1811c8ac92810a4361307861d44c-7fa9.html>
+<Rater 1: HI_HT *  * N * ID: A2WP0GEVWEIQC2>
+<Rater 2: HI_HT *  * N * ID: A3DMHLG2GUQAMH>
+<Rater 3: HI_IS *  * N * ID: A2EI075XZT9Y2S>
+<Rater 4: HI_IS *  * N * ID: A3TLMC49DYSAA0>
+
+<h> Insert shot information in the middle of a scene
+<p> Available for: Adobe Story Plus
+<p> You can add camera shot information in the middle of a scene. Such information helps studio personnel identify and prepare for changes to camera, camera position, or effect at the specified point in the scene.
+<p> Note: Adobe Story uses a different template for scripts that contain camera/audio/source information in the middle of a scene. Ensure that you make a backup of your original file before you allow Adobe Story to reformat your document.
+<p> Place the cursor at the location where you wish to insert the camera information.
+<p> Select Production &gt; Camera Shot. If you are using this option for the first time, accept the prompt asking you to make a backup of the original file before proceeding.
+<p> In the Camera dialogue, select one of the following options according to your requirements.
+<p> Solid Shot Line
+<p> In the script, a cut mark (cut line) appears at the cursor location and extends as a shot line toward the page margin. Shot Information is displayed at the end of the shot line. If you do not wish Adobe Story to assign a shot number, deselect Shot Number. Enter information for visual effects (Vision FX), camera number (Camera), camera position/location (Position) and description of the shot in the respective options.
+<p> Dashed Shot Line
+<p> Similar to solid shot line, except that the style of the line is in the form of continuous dash strokes. It may be used at locations in your script where you wish to include onscreen graphics.
+<p> Shot Development
+<p> Use this option to change the camera and shot information in the middle of a dialogue. The options for effects and camera position are disabled when you choose this option. For example, you want the camera to zoom out of the object when the dialogue is being spoken. Enter the camera number and a description of the shot in the respective options.
+<p> Camera Reposition
+<p> Use this option to change the camera position in the middle of a shot. Enter the camera number and description after you select the option.
+

@@ -1,0 +1,30 @@
+<0597918>
+<http://producthelp.sdl.com/SDL%20Trados%20Studio/client_en/Projects_View/Packages/P_Create_a_Return_Package.htm>
+<Rater 1: HI_HT *  * N * ID: A23AWSZSAGLY8X>
+<Rater 2: HI_HT *  * N * ID: A28XFC7F3F89W8>
+<Rater 3: HI_HT *  * N * ID: A2HBQP668JPNYH>
+<Rater 4: HI_HT *  * N * ID: A3DF9EJ4V9H9ZR>
+
+<h> How to Return Completed Work in a Return Package
+<p> This topic describes how to create a return package in SDL Trados Studio which enables you to easily return translated or reviewed project files in one simple file.
+<p> NOTE
+<p> We recommend that you send the return package to the person that sent the original package. If you pass the package back to someone other than the original sender, it would require you to create a new package.
+<p> If you opened a project package from another translation management application in SDL Trados Studio, when you create a return package it will automatically create it in a format that you can upload back to that application. See Supported Package Formats for more information.
+<p> To create a return package:
+<p> Display the Create Return Package wizard:
+<p> Select Project &gt; Create Return Package from the menu bar. The Create Return Package wizard is displayed on the Select Files page. All files in the project are included in the list apart from reference files.
+<p> Select files that you want to include in the return package in the Files view and right-click and select Create Return Package from the shortcut menu. The Create Return Package wizard is displayed on the Select Files page. Only the selected files are included in the list.
+<p> NOTE
+<p> If you select files that were not originally received in a project package, the Create Return Package option will be disabled (grayed out).
+<p> Select or clear the check boxes next to the file names on the Select Files page to include or exclude them from the package. If you have previously included any of the files displayed in another return package, those files will not be selected by default.
+<p> Remember that you can sort the list by any of the columns by clicking the column header.
+<p> Once the package creation is complete, the status next to the package name changes to Completed .  If errors or warning occurred during package creation or if the package failed to create, select the package and click Show Results . The Results dialog box is displayed.
+<p> To automatically send the package by email:
+<p> Click Send Package by Email .
+<p> In some situations a Microsoft Office Outlook dialog box requesting you allow access to Microsoft Office Outlook is displayed. Select the Allow access for check box and then select the amount of time in minutes from the drop-down list. SDL recommends that you select 10 minutes from the drop-down list.
+<p> Click Yes . A draft email addressed to the selected user is displayed with the return package file attached.
+<p> Click Send to send the email and return to the Create Return Package wizard.
+<p> Alternatively, to send the package by a different method such as placing it on a FTP site, click Open Target Folder to open the folder where your return package is saved.
+<p> Click the Close button to close the Create Return Package wizard.
+<p> After a return package is created, the manual task assigned to the files in that package is displayed as complete in the My Tasks folder on the navigation tree of the Files view.
+

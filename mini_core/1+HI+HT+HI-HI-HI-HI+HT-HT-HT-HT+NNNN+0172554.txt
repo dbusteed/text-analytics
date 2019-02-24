@@ -1,0 +1,29 @@
+<0172554>
+<http://manueg.okkernoot.net/blog/200907/how-create-cck-formatter>
+<Rater 1: HI_HT * RC * N * ID: A106ZWSYEM18J2>
+<Rater 2: HI_HT * RC * N * ID: A26APAELZ028RQ>
+<Rater 3: HI_HT * RC * N * ID: A2YTOX7SEDJ1TC>
+<Rater 4: HI_HT * RC * N * ID: A35Z1QH3JQEZG6>
+
+<h> How to create a CCK formatter
+<h> Categories
+<p> CCK formatters are pieces of code that allow you to render a CCK field content how you want. In Drupal 6 this basicaly means a theme function.
+<p> As an example, we will build a formatter for the field type 'nodereference' . This type of field, which is part of the standard CCK package, allows you to "reference" a node inside another. The formatter that nodereference has by default, prints a standard link to the referenced node.
+<p> We are going to give the users other options, allowing them choose if they want the link to open in a new window or, if they have the popups module activated, that it opens in a jQuery modal window.
+<p> Let's call our module 'formattertest' .
+<h> Step 1: Declare our CCK formatters
+<p> &lt;?php /** * Implementation of hook_field_formatter_info(). * * Here we define an array with the options we will provide in display fields page * The array keys will be used later in hook_theme and theme_ */
+<p> In this function, you have to return an arrays of arrays, that define each formatter that the module provides.
+<p> label: The name that the user will choose in the display fields configuration page
+<p> field types: an array with the types of cck fields that the formatter supports.
+<p> It's important to remember that the array keys you use, in our case 'newwindow' and 'popup' , will be used later on to construct our functions hook_theme and theme_ . Note that in the second formatter, first we check if the module popups is active in the system, and then we add our formatter array that makes use of it.
+<h> 2. Implement hook_theme
+<p> In hook_theme() you also return an array of arrays, defining the theme_ functions that will take care of rendering the cck field content. 'element' will be the content of the cck field, that will be used as the parameter for our theme function.
+<p> In the second function , first we put inside the variable $nid the nid of the referenced node, in order to build the id that we'll use on the link ($link_id). We need this so that we can tell popups to only use the js on those specific link. That way we avoid having to scan the whole document for popup links, making our site faster in the front end.
+<h> Conclusion.
+<p> Imagine for example, that your module also provides a default view. You can then use this view to pull out information depending on the content of a cck field. Any cck field that is using your formatter. No longer would you have to write complex and hard to maintain code in your template.php. You could just assign your formatter to any new field you create on any content type, reusing the same code.
+<h> 14 responses to this article.
+<p> Intimately, the article is really the sweetest on this worthwhile topic. I harmonise with your conclusions and will eagerly look forward to your approaching updates. Just saying thanks will not just be adequate, for the phenomenal clarity in your writing. I will immediately grab your rss feed to stay abreast of any updates. Fabulous work and much success in yourbusiness efforts! casino en ligne
+<p> Great article, I only stumbled across it the other day and have already recommended it as a source to others wanting to know how to create a custom CCK Formatter.
+<p> But I wanted to let you know that your article, and a feature request for one of my modules, prompted me to write a module to simplify this process somewhat, a module that allows users to create a custom CCK Formatter inside of Drupal without the need to create a custom module to do so.
+

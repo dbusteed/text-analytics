@@ -1,0 +1,30 @@
+<0541732>
+<http://sirius.antiquity.ac.uk/submit/ant/createpdf.aspx>
+<Rater 1: HI_HT *  * N * ID: A2RFWIPVXZ5ON1>
+<Rater 2: HI_HT *  * N * ID: A2RGVOJDMIKL4W>
+<Rater 3: HI_HT *  * N * ID: A2TAUP3B2QB99F>
+<Rater 4: HI_HT *  * N * ID: AHTZK06G9JI20>
+
+<h> How to create a PDF
+<h> Getting your manuscript files ready for conversion
+<p> Prepare your manuscript files in 1.5-line-spaced format using Microsoft Word. Use standard fonts such as Times or Times New Roman and symbol font for Greek and other special characters. Any changes should be made at this stage because you will not be able to make changes to the PDF file once it has been submitted. Ensure that a title page (containing author and institution details) is included in the PDF file. Tables and figures should be added after the manuscript text. Supplementary material should be submitted as a separate file(s).
+<h> Creating a PDF file
+<p> Once the main manuscript has been compiled into a single file it can be made into a PDF. A full version of Adobe Acrobat will be required. Adobe Acrobat Reader does not have the facility to create PDF files.
+<p> Windows users
+<p> Open the Word file and go to File then Print, and select Adobe PDF as the printer. Select OK and you will be required to name the document and choose a location on your computer to save it. If you are using Office 2007, simply select Save As from the Office button and choose PDF.
+<p> Mac users
+<p> Select PDF from the bottom of the Print dialog box in the Word file and choose Save as PDF.
+<h> Check the PDF
+<p> Once the PDF has been created, check that it looks correct and that no information has been lost. Some pages might need re-orientating.
+<p> It is your responsibility to ensure that the PDF (and the figures in particular) is suitable for the review process. If the PDF is not of sufficient quality it will be returned to you, resulting in a delay in the review process.
+<h> Troubleshooting
+<p> A PDF can be made by compiling separate PDF files; however, this usually generates a larger file size. If the PDF you have created is larger than 5MB, please follow our instructions on how to reduce the size of the file below.
+<p> Reducing the size of the file
+<p> This can be done as follows:
+<p> Open the PDF in Adobe Acrobat. Note: a full version of Adobe Acrobat is required. Adobe Acrobat Reader does not allow you to create PDF files.
+<p> Go to File then Print, and select Adobe PDF as the printer.
+<p> Select OK. You will be required to name the document and choose a location on your computer to save it.
+<p> A new PDF will be created.
+<p> Check that the PDF looks correct and that no information has been lost. Some pages might need re-orientating.
+<p> If using a Mac, select PDF from the bottom of the Print dialog box and choose Save as PDF.
+

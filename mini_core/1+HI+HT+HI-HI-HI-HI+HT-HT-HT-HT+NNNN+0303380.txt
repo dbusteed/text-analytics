@@ -1,0 +1,27 @@
+<0303380>
+<http://www.myfinepix.com/article/83/466125>
+<Rater 1: HI_HT * RC * N * ID: A3CQZVJVN8AVQ8>
+<Rater 2: HI_HT * RC * N * ID: A3HKUTT4DCCMSS>
+<Rater 3: HI_HT * RC * N * ID: AXE9Y0WSXHGIH>
+<Rater 4: HI_IS * RC * N * ID: A1UPUSNKTC1HLW>
+
+<h> Making a variety of frames for your images in Photoshop
+<p> When you have an image which you think would benefit from a frame it is fairly easy to make a variety of frames which can enhance your image. The first step is to enlarge the image - or rather the space round your image as you probably don't want to lose any of it. So go to Image &gt; Canvas Size (Note this is CANVAS size not image size)
+<p> You need to decide what sort of size and what colours you want for your frame but for the moment we will go with Black. So click on the little arrow at the side of the measurement and change the units to pixels. it will depend how big your image is - the frame should be in proportion - so with this image I have increased width and height by 100 pixels
+<p> You will notice that the original size of the canvas is still at the top - it is the canvas that is increasing - and I have chosen 'Background - which is black in this case.
+<p> You may notice that this has also had  a small thin white border added to the black. I repeated step one, changed the colour to white and the increase to 10 pixels, which then gives me this finer line. You can leave it at that or add another increase in the canvas size by repeating the first step again and the result will be
+<p> The image is now nicely framed. You can add embellishments to the frame or the image by using the effects (FX). For instance if you make a selection round the image, copy and paste (you can see I have two layers) the top layer can have effects added to give the appearance of depth etc.
+<p> Alternatively you can select the Black border (Select by colour) and change the colours of the border or add effects to the border itself - bevel and emboss works well.
+<p> You can also use that selection to add a gradient and make that your frame.
+<p> Another quick way of adding a frame is to just select an area round your image with the rectangular marquee tool
+<p> Invert the selection so that the edge of your image is selected, you can now fill with the Paint pot, or even better Invert. To do this go to Image &gt; Adjustments &gt; Invert
+<p> This image is not a good demonstration of this as the inverted blue sky is not very dazzling - but it can give interesting effects
+<p> Just some quick ideas. All of these can be embellished by using shadows, Bevel and emboss, glow.
+<h> Reply to comment
+<p> I could not see the illustrations very well, but is the 'Relative' box ticked. If it is then all sides can be bordered at the same time with the same number of pixels. If you want to 'raise' the image above the centre the relevant box can be unchecked and more  border added to the bottom.
+<p> For repeating the process a 'stack' can be made in the 'Actions' palette. I keep several versions. anything for an easy life.lol
+<p> I don't know if the above is possible in Elements or only in full versions of PS.
+<h> Reply to comment
+<p> last winter i did another round of learning editing and frames were a part of it. After reading many instruction you know when people did understand what they are doing and how to use this for a tutorial.
+<p> Big LIKE for the way you make things understandable and easy to follow
+

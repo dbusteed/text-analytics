@@ -1,0 +1,11 @@
+<0316986>
+<http://forum.stmlabs.com/printthread.php?tid=1924>
+<Rater 1: ID_DF *  * N * ID: A26APAELZ028RQ>
+<Rater 2: ID_DF *  * N * ID: A3IA77UHAVA83X>
+<Rater 3: ID_DF *  * N * ID: A3NN9144OLETQP>
+<Rater 4: ID_DF *  * N * ID: A5PWJC6NZC0YM>
+
+<p> It sounds stragely like my usb writing problem. It's either power or usb drivers that cause it, ot a combination of thr two. Either way, you're stuck with the external drive, which I assume is powered.
+<p> These usb sticks see to be very power hungry when intensive reading/writing to them.
+<p> Might do the trick, I don't know. I tried an iPad adapter (rated at 2A iirc) and it did increase the time until failure, but it still failed. However, I was copying data to the usb stick on the Pi through the network so this could have been another problem as the usb and ethernet connections share the same bus.
+

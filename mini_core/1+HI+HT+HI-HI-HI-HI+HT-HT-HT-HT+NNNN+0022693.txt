@@ -1,0 +1,18 @@
+<0022693>
+<http://fsd.monash.edu.au/security/security-advice/case-emergency-evacuation>
+<Rater 1: HI_IS *  * N * ID: A1ZFLC209CRCWR>
+<Rater 2: HI_IS *  * N * ID: A24POCVCINL57Y>
+<Rater 3: HI_IS *  * N * ID: A2LKQQ3GNDQ017>
+<Rater 4: HI_IS *  * N * ID: A6IVYRP8FAIS>
+
+<p> 2. On hearing the EVACUATE signal (a - whooping- tone), or if instructed to do so by an emergency warden, leave the building by the nearest and safest exit route .
+<h> Do not use the lifts.
+<p> 3. If safe to do so take personal belongings, handbags, briefcases and handbags when evacuating. Do not return to collect them
+<p> 4. Assist any person with a disability to leave the building, or to the nearest fire isolated stairwell or fire safe haven for multi-storey buildings - do not attempt to carry people down stairs. (Refer to People with a specific needs section).
+<p> 5. Walk quickly and calmly to the designated assembly area for your building or as advised by the emergency warden or fire brigade personnel.
+<p> 6. Remain at the assembly area (in groups) until instructed to leave by an emergency warden or fire brigade personnel.
+<p> 7. Do not re-enter the building until informed that it is safe to do so by an emergency warden or fire brigade personnel.
+<p> 8. Do not enter a building in alarm.
+<h> Lecture theatres / laboratories
+<p> It is the responsibility of the lecturer/tutor to ensure that their class is evacuated and to maintain control of the students during the emergency until released by the ECO.
+

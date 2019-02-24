@@ -1,0 +1,32 @@
+<0619579>
+<http://80000hours.org/blog/68-how-to-find-a-job-you-ll-love>
+<Rater 1: HI_HT * RC * N * ID: A2IYAOQ0BY5EYD>
+<Rater 2: HI_HT * RC * N * ID: A2LFVJ28A2J2PK>
+<Rater 3: HI_HT * RC * N * ID: A3F813T7DKLBKP>
+<Rater 4: HI_HT * RC * N * ID: ADCUZP06L4J49>
+
+<h> How to find a job you'll love
+<p> If you want to be satisfied at work, what should you look for? Prestige, money, something you're passionate about , a corner office? Books on careers guidance often start by asking you to consider your values and desired lifestyle, and then to find a job that matches them. But why expect this approach to work? Research has shown that the only thing that's consistently present in satisfying jobs is that the work itself is mentally challenging (1)(2), suggesting that finding challenging work should be the starting point for a satisfying career.
+<p> What makes for mental challenging work is broken down into five qualities (4):
+<p> Independence -- how much are you able to individually decide how to go about the work?
+<p> Sense of Completion -- how much does the job involve completing a whole piece of work, so that your contribution to the end product is easily visible, rather than a small part of a much larger product?
+<p> Variety -- how much does the job require you to perform a range of different activities, using different skills and talents?
+<p> Feedback from the job -- how much does the work itself provide clues about how well you are doing?
+<p> Contribution -- how much does your work affect the wellbeing of other people?
+<p> A large meta-analysis of survey results (2) showed that each correlates with job satisfaction (mean r=0.41), as well as with motivation, productivity and commitment to your employer. Job complexity and the degree of information processing required are similarly strong predictors, but the evidence is weaker (2).
+<p> There's also some indirect support for this conclusion. First, employee surveys about job satisfaction (3) have shown that "interesting work" turns out to be what's most important to people, as opposed to pay or status.
+<p> Second, the five characteristics, in particular 4. and 2. are similar to the conditions needed to enter a state of flow (5)(6) -- the pleasurable state of being so immersed in an activity that you're completely free of distractions and lose track of time. Csikszentmihalyi has argued that being able to enter states of flow is key to having genuinely satisfying experiences, so we'd expect this link.
+<p> Finally, the fifth characteristic is the extent to which you make a difference. In the 80k community, we've long suspected that leading your career for others leads to happiness. We write about this here
+<p> Mentally challenging work is important for everyone's job satisfaction, but it's much more important for some people rather than others. If you want your jobs to contribute to personal growth and derive satisfaction from performing challenging tasks (characteristics measured with the Growth Need Strength (GNS) score), then finding challenging work should by far be your main concern (7). If you're wondering, you can measure your score here .
+<h> Am I different?
+<p> This post has been all about averages, and you might object that as an individual, your individual preferences will tend to overwhelm information about what satisfies the average person. "Sure," you might say, "challenging work is important, but so is income, status, and so on."
+<p> This might be true. I'm certainly not suggesting that you ignore all the other information you have about what work you'd enjoy. I am suggesting, however, that we start our assessment of which jobs we'll enjoy with the attributes that normally work. Extra information (for instance based on what's worked well for you in the past) should be used to adjust our expectations about what will make us satisfied away from what works for the average person. Doing this reduces the chance that we overweight the significance of specific, individual information about what we enjoy (i.e. make the common base rate fallacy ). Moreover, while working out what work we'll enjoy, we should take account of the many biases that hamper our ability to predict what makes us happy. The presence of these biases means that when seeking a job we'll love, we should place significantly more weight on what normally leads to job satisfaction than we might have first thought, and compared to what happens in conventional careers guidance.
+<h> Subscribe
+<h> Comments
+<p> I'm a 51 on the Growth Need Strength score (it ranges from 12-60, which puts me in the 'high growth needs' catagory). I should clearly weight mental challange higher than most people, making this post extra-applicable to me, but does this score give me any indication of how heavily I should weight the five criteria introuduced at the beginning of this post?
+<p> Without knowledge of your GNS score, the 5 characteristics are approximately equally good predictors of job satisfaction (mean r=0.4). Task identity is a little bit weaker than the others.
+<p> I only came across the result that if you have a high GNS, then you should weight mental challenge overall more highly. I guess the study would have been done with a combined 'mental challenge' score consisting of all 5 characteristics. I didn't come across studies showing the impact of knowledge about GNS on the predictive power of the individual characteristics. It could easily be out there though.
+<p> The 80,000 Hours blog is a place where members of the effective altruist community collaborate to create and share important ideas. It doesn't present the official position of 80,000 Hours as an organisation.
+<p> We can give you information about your career options that we hope is useful. But, at the end of the day, how you choose to use this information is up to you. We can't take responsibility for the outcomes of your choices. Our advisors are not professionally qualified career counsellors or advisors. We recommend you use our advice alongside someone professionally qualified.
+<p> 80,000 Hours is part of the Centre for Effective Altruism, a charitable company limited by guarantee registered in England and Wales, number 7962181.
+

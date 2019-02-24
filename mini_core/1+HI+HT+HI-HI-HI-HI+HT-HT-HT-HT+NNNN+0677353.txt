@@ -1,0 +1,97 @@
+<0677353>
+<http://reviews.cnet.co.uk/mobile-phones/how-to-trim-your-sim-to-iphone-5-nano-sim-size-50009289/>
+<Rater 1: HI_HT * RC * N * ID: A18AIG4L4EEO11>
+<Rater 2: HI_HT * RC * N * ID: A3CQZVJVN8AVQ8>
+<Rater 3: HI_HT * RC * N * ID: A3KCUB6P3IE8NL>
+<Rater 4: HI_HT * RC * N * ID: ANJGSRS82U64O>
+
+<p> This web site uses cookies to improve your experience. By viewing our content, you are accepting the use of cookies. To find out more and change your cookie settings, please view our cookie policy . Close
+<h> How to trim your SIM to iPhone 5 nano-SIM size
+<p> If you're lucky enough to have bagged an iPhone 5 and are wondering how to squeeze your current SIM card or micro-SIM into that teeny-tiny slot, then you'll need artistic precision and the slicey dicey skills you picked up in biology class, as well as a head for geometry.
+<p> I took this exam, passed with flying colours and will show my workings out below (for you to copy, because we're friends, right?).
+<p> Since the nano-SIM is not only smaller than a standard SIM but also 12 per cent thinner, there was some debate as to whether you'd be able to go all Edward Scissorhands on your current chip, in the same way you could to create a micro-SIM . The proactive chaps over at network GiffGaff gave it a shot though , and discovered that the iPhone 5 tray is perfectly capable of handling a SIM of standard girth.
+<p> It may be the case that future phones requiring a nano-SIM may not have left room for these extra millimetres though, in which case, head over to our pals at CNET Asia to discover how to painstakingly sand your SIM down to size .
+<h> To cut or not to cut
+<p> Before you go any further, a word of warning. It's important to remember that there are always risks if you cut your SIM card. When my own GiffGaff micro-SIM arrived many months ago, it had been damaged in the shrinking process and my iPhone wouldn't recognise it, leaving me without a phone for several days. The danger that you might irreparably damage your SIM is even greater when you're trying to cut it down to nano size, as you'll have no choice but to snip into the metal contact that's placed on top of the chip.
+<p> I offer no guarantees that this will work, and it's likely that if it doesn't, your network isn't going to be terribly sympathetic either. Still, if you're feeling brave, or maybe just a little desperate, read on, courageous scissor wielder.
+<h> Study up
+<p> First things first: grab hold of your pokey stick thingy that will have come in your new iPhone's box -- or a paperclip if you've already lost it down the back of the sofa -- and jiggle it about in the tiny hole on the side of your phone.
+<p> The nano-SIM fits in the caddy with the gold chip facing downwards. Note the chamfered corner to make sure the card is inserted the right way around.
+<p> I cut down two SIMs in my experiment -- one Vodafone, one GiffGaff. To make your nano-SIM, you'll have to trim down the metal, but as long as you don't actually touch the chip, which as you can see from the picture (in which I have dissected an old SIM using all of my GCSE science skills), is much smaller than the metal area itself.
+<p> I had a real, non-DIY nano-SIM provided by O2 to measure mine up against and compare it to as I went along. You probably won't have that, so look carefully at the picture (below right), and make sure you use the SIM tray as a guide the whole way through. Pens don't work all that well on cheapy SIM plastic, but even the faintest trace of an outline can make the difference between nano-SIM DIY success and failure -- so give it a go.
+<p> All SIMs look slightly different, so a bit of nouse and detective work is required to figure out where exactly the chip is hiding within the metal. You''ll usually find the chip at the end of the metal furthest away from the angled corner of your SIM card, or in the middle of the brackets if your SIM has them.
+<h> Take the plunge
+<p> There's a Swahili phrase, 'pole pole', which means 'gently gently, slowly slowly' and this is exactly how you should go about chopping up your SIM. Better to trim too little than too much, as you don't want to damage the chip. Neither do you want it to be in any way too small. The nano-SIM needs to sit snugly in the tray or it will wiggle about and not make proper and consistent contact with your phone.
+<p> On the GiffGaff SIM, I used the faint golden rectangle that was about the size of a SIM chip to work out how far down it was safe to cut, but on the Vodafone SIM I hazarded a guess that the bracket-like lines were my primary clue. I ran my scissors along the outermost points of the brackets, being careful not to go over the lines (using my GCSE geography colouring-in skills). When I later cracked the SIM open, I discovered that my guesswork was spot-on.
+<p> When it comes to cutting vertically, take note of the squiggly pattern in the middle and use that as a guide -- don't trim any further in than that. I first trimmed to the very edge of the metal, before using the two lines outside the central squiggly pattern as guides and snipped vertically, making sure I didn't cross the lines.
+<p> The metal area on the GiffGaff SIM I used was already the right width, so fortunately I could cut (still oh-so-carefully) up the plastic sides and leave the middle bit be. One final thing is to remember which end of the SIM card was originally lacking a right-angled corner, as the final step in creating your nano-SIM is to make a tiny diagonal snip to fit your SIM into the tray.
+<h> The moment of truth
+<p> If your SIM fits and if you've looked through the leftover detritus and not discovered anything that looks alarmingly like an electronic chip, it's time to test your new nano-SIM in your phone.
+<p> Without being too smug, both of mine worked perfectly and I dearly hope yours did too. If you've slotted it in and your phone is reading something like 'No service' or 'SIM not recognised' or 'No SIM installed', then I'm sorry to tell you that this might be the end of your SIM card's life.
+<p> If you're considering slicing up your SIM then best of luck! And be sure to only use scissors when being supervised by a responsible adult. How did your SIM fare when it went under the knife? Chip in with your story in the comments below or cut across to our Facebook page .
+<h> anonymous 25 September, 2012 18:13
+<h> Daniel Rawr 25 September, 2012 19:25
+<h> anonymous 25 September, 2012 21:49
+<p> @Daniel Rawr It is a giffgaff SIM? Awesome network anyways.
+<h> anonymous 25 September, 2012 22:10
+<p> worked flawlessly.thank you very much!!!
+<h> anonymous 26 September, 2012 04:25
+<p> @Daniel Rawr It IS a giffgaff SIM that is being used. giffgaff is not an official Apple carrier, so because giffgaff runs on the O2 network, iphones display O2 on the screen instead, even though it is operating on the giffgaff network.
+<h> anonymous 26 September, 2012 06:48
+<p> Ha! It works. Extraordinary.
+<h> anonymous 26 September, 2012 08:56
+<p> Worked perfectly, thanks! My advice is, take it bit by bit. I went overboard when I cut my last sim down to a micro and the thing used to move around a bit and lose contact. Not much risk of that happening in the tiny space left for the nano but the experience made me cautious
+<h> anonymous 26 September, 2012 09:19
+<p> does this process work for a india vodafon sim? i m really going crazy to know.
+<h> anonymous 26 September, 2012 13:03
+<p> if you can buy an iphone in India ...... then sure it will work................. hahahhah
+<h> anonymous 26 September, 2012 13:21
+<p> Why are you showing an IPhne 4S instead of iPhone 5 in your pictures?
+<h> anonymous 26 September, 2012 14:19
+<p> why would you want to do this when SIMs from your network provider are free?
+<h> anonymous 26 September, 2012 14:55
+<p> Hey anonymous. That's a 5, not a 4s. Notice the camera placement. Stop nit-picking the article and then being wrong.
+<h> anonymous 26 September, 2012 14:58
+<p> If you think that's an iPhone 4S in the pictures you're blind... 4S doesn't have 5 rows of icons.
+<h> anonymous 26 September, 2012 17:31
+<p> This destroyed my O2 Deutschland SIM (was originally a mini-sim, trimmed to micro-sim for ip4S). When I made it nano-sized, it destroyed the chip inside.
+<h> anonymous 27 September, 2012 02:36
+<p> Don't they have sim cutters for this? $15 bucks on meritline
+<h> anonymous 27 September, 2012 08:29
+<p> I live in India and i bought my iph5 in the states. I tried and tested it in the US before getting it here and it worked fine with the micro sim cut into a nano. I have no idea why isnt it working in my case on the iph5 now when in India. Strangely after carefully cutting it down to the right size that is a micro sim into a nano sim on inserting it into my phone I get network services and am able to get data connection but no cellular connection. Its weird because first the phone should work then the data in normal cases. i have destroyed 3 sims already and clueless as to what to do because in each case the sim worked and I could use the internet and other data services but no calls. Am harrowed.
+<h> anonymous 27 September, 2012 14:44
+<p> There is a new tool that cuts perfectly the sim for you. This is Noosy Nano-sim cutter. This is the video that shows the detailed instructions on how to use it for iPhone 5:  http://youtu.be/glvLx5VokYg
+<h> anonymous 29 September, 2012 00:20
+<p> thanks... worked perfectly with my Mobily SIM..
+<h> anonymous 30 September, 2012 19:03
+<p> How about.....you just wait for your network to send you a card....whats the point.
+<h> anonymous 2 October, 2012 10:23
+<p> Why is Apple so backward to ruin every standard there exists in the industry? Who needs a nanoSIM? Does work better? No. It is too small and inconvenient. It is incompatible. Apple, go eat dirt :/.
+<h> anonymous 2 October, 2012 16:47
+<p> Everything hitech is getting smaller, so does SIM!
+<h> anonymous 3 October, 2012 20:36
+<p> Katie, followed your detailed guidance with 100% success. One small tip is if you have an old nano sim place that over your Micro sim and draw around it with a fine lead propelling pencil (0.5mm). This marks the sim size accurately and allows for a more accurate cut.
+<h> Amit Gulrajani 3 October, 2012 23:52
+<p> save yourself the hassle and get one of these..
+<h> anonymous 4 October, 2012 01:52
+<p> what is nano, and what dose it work ? as i can see its just cutted and make micro,but dose it option more?or dose it work more then normal sim.?will you be mek me understand what dose it work ? thanks appreciate it. thanks
+<h> anonymous 5 October, 2012 18:47
+<p> Just tried it and it worked a treat
+<h> anonymous 7 October, 2012 12:38
+<p> Unsure as to why people cut their sim cards. I went to the apple store yesterday and bought my Iphone 5. They provided me with a free replacement Nano sim card and transfered my number for me - right in the store - and best of all for FREE!
+<p> If i would have gone to the t-mobile store they would have charged me œ10. Another great service from Apple!
+<h> anonymous 14 October, 2012 18:38
+<p> worked an absolute treat! The first time i put it in it said no sim :( so i trimmed a bit more then put it back in and WOO!! Thank you very much
+<h> anonymous 16 October, 2012 19:17
+<p> Just cut it all the way to metal
+<p> No need to thin it
+<p> Works best in iPhone 5
+<h> anonymous 19 October, 2012 22:07
+<p> Or just get a micro sim cutter from fleabay. They only cost around œ3.
+<h> anonymous 23 October, 2012 08:37
+<p> It worked perfectly thanks !!!!!
+<h> anonymous 25 October, 2012 17:40
+<p> Hi thanks for this it worked well for me on Vodafone
+<h> anonymous 25 October, 2012 22:14
+<p> I went to my provider and said i needed a nano simcard- they gave me one free and an adapter to use it in a micro and normal sim card. A lot easier than fiddling round wiht scissors and i can put my sim card in my iphone or my One X:)
+

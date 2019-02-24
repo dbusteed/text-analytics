@@ -1,0 +1,37 @@
+<0197751>
+<http://www.cbusforums.com/forums/showthread.php?t=600>
+<Rater 1: ID_DF *  * N * ID: A1SUU1QIRDZXJC>
+<Rater 2: ID_DF *  * N * ID: A2HBQP668JPNYH>
+<Rater 3: ID_DF *  * N * ID: A2LKQQ3GNDQ017>
+<Rater 4: ID_DF *  * N * ID: A3LNPBZXHKKAA7>
+
+<p> The C-Bus Community Forums is place where C-Bus users can share information and help others with C-Bus. From time to time you will see Clipsal staff on the forums, but this is not an official support channel. If you really need help contact the official support services of Clipsal. More information about the purpose of this forum is available here .
+<p> I start a CIRCA project and select the 5034 out of my CBUS project file, but when I select download, upload or test comms the option to do this over CBUS is greyed out. The only option enabled is via the hiugh speed comms cable (which I don't have).
+<p> How can I get CIRCA to talk to the 5034 over CBUS? My PC Cbus connection is via Minder. Is this not supported from CIRCA? I own, but have not yet setup, Homegate. Will this help?
+<p> I start a CIRCA project and select the 5034 out of my CBUS project file, but when I select download, upload or test comms the option to do this over CBUS is greyed out. The only option enabled is via the hiugh speed comms cable (which I don't have).
+<p> How can I get CIRCA to talk to the 5034 over CBUS? My PC Cbus connection is via Minder. Is this not supported from CIRCA? I own, but have not yet setup, Homegate. Will this help?
+<p> Thanks, Brad.
+<p> The current Version of Circa will not download over C-Bus.. You need the high speed programming cable. Sorry (again :-) ).
+<p> If I relocate it, I'll need a CBUS power source. Just looked through the brochure and Install manual and it doesn't say what to use.
+<p> A little help?
+<p> Please don't tell me it's the 5500PS at a few hundred $$$'s. The brochure and the install both said I could program via CBUS. They didn't say I couldn't, and more to the point, didn't say I'd have to spend hundreds more again in order to program it.
+<p> If I relocate it, I'll need a CBUS power source. Just looked through the brochure and Install manual and it doesn't say what to use.
+<p> It means that there must be other C-Bus units on the network that act as a power source, for example relays. So if the C-Bus network is currently working, in most circumstances, you can just add the 5034 on to the network and it will work. Of course all the rules of C-Bus wiring apply.
+<p> Quote:
+<p> Originally Posted by BradJ
+<p> A little help?
+<p> Is this little enough ... I can provide less? OK....ONLY joking , of course we are always glad to help.
+<p> Quote:
+<p> Originally Posted by BradJ
+<p> Please don't tell me it's the 5500PS at a few hundred $$$'s. The brochure and the install both said I could program via CBUS. They didn't say I couldn't, and more to the point, didn't say I'd have to spend hundreds more again in order to program it.
+<p> Programming via C-Bus is coming, It is on my todo list. However, it will only work on 5034 units with fiirmware version 1.1 or later. This has been the firmware version used in production for about 6 months.
+<p> I can't give a timeline on when downloading via C-Bus will be released as there are few other things being added to the programming software as well.
+<p> When I said relocate it, I meant near my PC with an RS232 port, which means off the CBUS network.. I guess I could piggy back it onto my Neo in the study. That should be close enough for a serial cable to reach it from my PC.
+<p> Thanks for your help. Its great to have access to the techo guys via this forum.
+<p> When I said relocate it, I meant near my PC with an RS232 port, which means off the CBUS network.. I guess I could piggy back it onto my Neo in the study. That should be close enough for a serial cable to reach it from my PC.
+<p> I see, that makes sense. It is worth mentioning that downloading via C-Bus will be much slower than direct cable connection.
+<p> Quote:
+<p> Originally Posted by BradJ
+<p> Thanks for your help. Its great to have access to the techo guys via this forum.
+<p> Thanks. We find it an excellent place to keep in contact with C-Bus installers/users.
+

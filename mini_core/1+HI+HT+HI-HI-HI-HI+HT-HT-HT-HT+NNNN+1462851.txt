@@ -1,0 +1,19 @@
+<1462851>
+<http://www.linuxuser.co.uk/tutorials/build-a-samba-file-server>
+<Rater 1: HI_HT * RC * N * ID: A21YQXPL0SNNR2>
+<Rater 2: HI_HT * RC * N * ID: A2WP0GEVWEIQC2>
+<Rater 3: HI_HT * RC * N * ID: A2XJCQWVAZLW69>
+<Rater 4: HI_HT *  * N * ID: A2DWQF4ZHHBLOW>
+
+<h> Build a Samba file server
+<h> How to build your own file server using Samba and Ubuntu with help from Linux User & Developer veteran, Sukrit Dhandhania...
+<p> This article originally appeared in issue 89 of Linux User & Developer magazine. Subscribe and save more than 30% and receive our exclusive money back guarantee -- click here to find out more.
+<p> Samba is a Linux/UNIX software package that allows you to share files and directories with computers running other operating systems over the network. It also allows your Linux desktop or laptop to sign into a Windows network and be able to share files inside a workgroup. There are several advanced features that Samba comes with, such as domain controller. We will look at how to convert your Ubuntu box into a Samba file server and configure it to share directories with different combinations of permissions.
+<p> 01 Prerequisites When setting up a Linux file server, there are certain things that you will to have set up on your server before you start working on the Samba bit. The first thing you want to do is to set up the server with a static IP address, as opposed to one assigned dynamically by a DHCP server. Edit the file ' /etc/network/interfaces ' with root user privileges and set the IP address manually. An example of the settings would be using something like the following:
+<p> Using a static IP for any type of server makes good sense. Save the changes and restart the network with the command ' # sudo /etc/init.d/networking restart '.
+<p> 02 Installing Samba Distributions such as Ubuntu have made the installation of just about anything so simple and straightforward with smart package management that you can have pretty much any software installed with a one-line command. To install Samba on your Ubuntu computer, execute the following:
+<p> Here we are requesting Ubuntu to install three packages. The first one is to share your printer, the other two are Samba and its support packages.
+<p> 03 Configuration file The configuration files of Samba are stored in the ' /etc/samba/ ' directory. The first thing you should do before we dive into the configuration of Samba is to make a backup of the main configuration file.
+<p> # cp /etc/samba/smb.conf /etc/samba/smb.conf.bak
+<p> Now open the file with your favourite text editor and let's make some configuration changes:
+

@@ -1,0 +1,15 @@
+<0269411>
+<http://www.mobileread.com/forums/showthread.php?p=2303827>
+<Rater 1: ID_DF *  * N * ID: A1Y3Z92RE62NPS>
+<Rater 2: ID_DF *  * N * ID: A37QW51L039KKQ>
+<Rater 3: ID_DF *  * N * ID: A5A9QE4W8X1UI>
+<Rater 4: ID_DF *  * N * ID: AHP3TKMY58D8Z>
+
+<p> Strange thing is, I'm sure this worked either with old versions of calibre or with old versions of samba. Is there anything I can tweak in Calibre, or anything I can tweak in samba to try to remedy this?
+<p> Strange thing is, I'm sure this worked either with old versions of calibre or with old versions of samba. Is there anything I can tweak in Calibre, or anything I can tweak in samba to try to remedy this?
+<p> Others may respond with advice that works, but I think that you probably can't correct this. Multiple users have reported their networked installs of calibre have recently run into trouble. The official line is to not run it on a network.
+<p> My novice approach would be to export books locally then use an OS file manager or native sync software to get the books out to the share location.
+<p> Good Luck.
+<p> __________________ -- Walt --
+<p> Stopping to check... *sigh of relief* ...all of my hair is still there.
+

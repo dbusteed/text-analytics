@@ -1,0 +1,17 @@
+<0324568>
+<http://www.newit.co.uk/forum/index.php?topic=867.0>
+<Rater 1: ID_DF *  * N * ID: A1OQIXAU1SEJ4P>
+<Rater 2: ID_DF *  * N * ID: A2OW2CIT4H7364>
+<Rater 3: ID_DF *  * N * ID: A2X00L77LYHXM3>
+<Rater 4: ID_DF *  * N * ID: A3CQZVJVN8AVQ8>
+
+<p> Do you think is it possible to use the internal wifi chipset like AP and client at the same time??? I don't even know if is it possible in Linux...but I do it in windows 7 every day with applications like virtual router or connectify...
+<p> is it possible to use the internal wifi chipset like AP and client at the same time?
+<p> No. There are two different versions of the firmware, one for AP, one for Client, you choose which one to load and then you are stuck with it until a reboot.
+<p> Quote
+<p> I do it in windows 7 every day
+<p> No you don't. AP Mode requires support in the WiFi device itself, it has nothing to do with Windows or Windows drivers.
+<p> If you run the Guruplug in Client mode you can (obviously) connect to access points. It should also be possible to connect to other WiFi Clients (google Ad-Hoc Mode) providing they also support Ad-Hoc point-to-point.
+<p> Logged
+<p> Advocatus Diaboli - My agenda is not to give you the answer, but to guide your thoughts so you derive it for yourself!
+

@@ -1,0 +1,17 @@
+<0524822>
+<http://tubarks.wordpress.com/2012/10/16/setting-up-a-couple-of-dropbox-folders-to-do-your-bidding/>
+<Rater 1: HI_HT * RC * N * ID: A9KPCMO1J1LQF>
+<Rater 2: HI_HT *  * N * ID: A1DTQSIIYIZL62>
+<Rater 3: HI_IS * RC * N * ID: A1835XBNR2UB4X>
+<Rater 4: HI_IS *  * N * ID: A3AYPGNCIQ0B2R>
+
+<h> Setting up a couple of Dropbox folders to do your bidding
+<p> I just wanted to put a shout out for the two new features I incorporated on my Dropbox : automatic printing and automatic upload to Evernote . In other blog posts, I talked about these upgrades to my operations. In this post, I want to let you know how great it has been.
+<p> A couple of weeks back, I set up remote printing with Dropbox . Basically, I created a folder in Dropbox called printqueue and installed a script to check this folder for new updates and print them. It has worked like a champ. By simply copying documents to this folder, they are waiting for me on my printer when I get home. This has been especially useful when I am on the road, and I need to print something for my wife. All she has to do is pick it up off the printer. I also use it when I am doing research for my dissertation. I drop a journal article in the folder, and it is ready for my review when I get home.
+<p> If you were working on a team or through a central office, you could set up a shared Dropbox folder just for printing. When you dropped something in the folder, it would print at the office computer that was set up to run the script.
+<p> The other feature I installed was the capability to send documents to Evernote. When I drop a file into this folder, it is automatically uploaded to Evernote where I can squirrel it away. These are typically for files I want to be able to do referral to on a regular basis.  Here are the steps for connecting your Dropbox folder to Evernote:
+<p> Create a folder in Dropbox. I personally call mine, Evernote.
+<p> In Evernote, access the Tools menu and then click on Import Folders .
+<p> Add the folder that you wish to watch, and decide upon the setting. I personally delete the files once they have been uploaded.
+<p> While working my way to a "Zero Inbox," I uploaded 40 PDF documents with no problems. If I had to do this one file at a time, it would have taken a lot more time and effort. This was time I could devote to other tasks.
+

@@ -1,0 +1,18 @@
+<0424444>
+<http://forums.dpreview.com/forums/post/50282691>
+<Rater 1: ID_DF *  * N * ID: A1F4DR4QMF3DB4>
+<Rater 2: ID_DF *  * N * ID: A1G8ATI1XR2HWT>
+<Rater 3: ID_DF *  * N * ID: A1IM92Q6UK32DV>
+<Rater 4: ID_DF *  * N * ID: ARQ9DY4UL4WJ4>
+
+<h> A different point of view on the Surface
+<p> But, Windows RT is *not* Windows 8. It may share some of the same "look and feel", but software will need to be compiled specifically for the Win RT OS (as software compiled or the Intel versions of Windows 7 or 8 won't run on Win RT)
+<p> Even worse, you have to buy all software for Windows RT from Microsoft's stores, where they'll make a profit on all of it, even with products that directly compete against Microsoft's own software.
+<p> At least with Android, you can install apps without buying them via Google's Playstore.
+<p> As for the Remote Desktop features, I've been able to access my desktops from my Android phone for ages using TeamViewer. Not only can I remote control my machines running Windows, but I can also remote control my machines that are runing Linux; and the machines can be behind firewalls, too.
+<p> As for the hardware used by Surface, a number of Android based Tablets have better specs now (higher resolution displays, faster transfer rates, more storage options, etc.); and competition will only heat up as time passes.
+<p> I think Microsoft RT will probably "flop", as some review sites think it will. Here's one example:
+<p> Alternative products just have too much of a head start, and Surface specs are just not up to what some of the manufacturers offering Android tablets have to offer (screen resolution , processor speed, etc.) at this point, and that will only be more in favor of competing devices as time passes. Manufacturers like Asus are already offering Android based tablets with much higher resolution displays, faster clock speeds from the same Nvidia chipsets, and more; and we'll see more and more competing products as time passes.
+<p> Time will tell how well Surface succeeds. Because it's brand new, I expect a sales surge to start out with. But, I suspect that interest will diminish rapidly once users start comparing other products with higher screen resolutions, more storage, more available apps, etc. for the same price.
+<p> I think Windows 8 (not the RT version) running on Intel based tablets will have a better chance of success; as we're starting to see more and more tablets using lower powered Intel based processors now. But, Windows RT on ARM? I just don't see it catching on; as there is just too much competition in that marketplace, with products that offer more than the current Microsoft Surface offerings.
+

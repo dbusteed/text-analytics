@@ -1,0 +1,59 @@
+<0380252>
+<http://forum.dbpoweramp.com/showthread.php?18221-Rip-copies-that-can-be-burned-as-original>
+<Rater 1: ID_DF *  * N * ID: A1JRV4XD6CG12W>
+<Rater 2: ID_DF *  * N * ID: A3FAURB3U6YND5>
+<Rater 3: ID_DF *  * N * ID: ANUXUJE8QRE0C>
+<Rater 4: ID_DF *  * N * ID: A1421I54656YSD>
+
+<p> If this is your first visit, be sure to check out the FAQ by clicking the link above. You may have to register before you can post: click the register link above to proceed. To start viewing messages, select the forum that you want to visit from the selection below.
+<h> Rip copies that can be burned as original
+<p> I am using dbPA -Paid- to rip my boyfriend's collection. I have run some trials and found dbPA to be the BEST ripping option but I have some questions.
+<p> My goal is to rip each disc in a way that it can be burned back to disc as a copy of the original. The idea here is that I will probably be tossing most of the CDs and want to be able to reproduce the original if I need to. The copy should be recognized as the original in any program that uses Gracenote, AMG, etc. to retrieve track information for an audio CD.
+<p> To be clear I am talking about Audio CD's only. Doing this for mixed CD's with CD-ROM content or other anomolies is a totally separate problem.
+<p> From what I've read the most space efficient way to do this is by using a single FLAC plus CUE. I also know that this is not currently supported by dbPA. (Spoon you need to hurry up with that CUE implementation... I vote to increase priority for CUE support)
+<p> So, is there a way to create this kind of copy? Space efficiency doesn't really matter at this point as long as I can convert to FLAC plus CUE at a later point without re-ripping. If I rip the CD to an ISO can dbPA "rip" and encode tracks from a virtual drive? (I don't really want to do that because dbPA has such good error correction capabilities.) Will RIP AS ONE be sufficient for this purpose?
+<h> Re: Rip copies that can be burned as original
+<p> I don't think you can rip an audio CD as an ISO, but Daemon Tools can mount a .wav/.cue combination which dbPowerAmp can rip. (The offset is 0 in my experience, although my "key disks" weren't recognised).
+<p> You can use Exact Audio Copy to create the .wav/.cue combination.
+<p> However, the solution I have to the problem you mentioned is to rip as tracks to a lossless format (FLAC will be fine, I use WMA Lossless) with pregaps appended to the next track (I'm pretty sure this is the dbPowerAmp default. Then I use Exact Audio Copy to create a .cue using the Action &gt; Create CUE Sheet &gt; Single WAV file ... option. (It doesn't matter if the any track information that it downloads is not correct.)
+<p> In the future, if I want to recreate a CD I will have to convert the WMA lossless files to .wav, then join them together, and then almost any CD Writer app will be able to create a "clone" CD using the .cue file.
+<h> Re: Rip copies that can be burned as original
+<p> Ok...
+<p> So I think I've got it all down. Unfortunately that means popping about 100 cds back in the drive to get a CUE. But such is life.
+<p> Also, just to be sure. If I rip to multiple FLAC files (assuming gaps are prepended) then decoding to WAVE and joining the files will give a WAVE exactly as if it had been ripped as whole off the original disc? I imagine that different implementations of this procedure could produce differing results. Will it really matter what I use to decode and join?
+<h> Re: Rip copies that can be burned as original
+<p> Originally Posted by patchcr
+<p> I rip to multiple FLAC files (assuming gaps are prepended)
+<p> No, you assume that gaps (which in some cases aren't silent!) are at the *end* of each track. This is almost always what you want unless you find a CD with a whole track hidden in the gap before the track 01.
+<p> Originally Posted by patchcr
+<p> decoding to WAVE and joining the files will give a WAVE exactly as if it had been ripped as whole off the original disc?
+<p> Yes
+<p> Originally Posted by patchcr
+<p> I imagine that different implementations of this procedure could produce differing results.
+<p> I hope that if I do it properly it will always be the same. I've ripped to a lossless format, so it should always decode to the same .wav file whichever tool I use. I've not ever actually tried to restore a CD yet, so YMMV!
+<p> If you want to recreate the CD later on with EAC you must also configure the right write offset in EAC.
+<p> For a most correct copy of CDs you need a reader that can read into lead in/lead out and later a writer with a write offset of 0. I rip the CDs with an older plextor (lead in/lead out feature) + dbpoweramp to individual files, create the cue sheet in EAC and write them with a LG HL-DT-ST BD-RE GGW-H20L that has got a write offset of 0.
+<h> Re: Rip copies that can be burned as original
+<p> Bugs,
+<p> Yep, true, but maybe more complicated than it needs to be?
+<p> I don't know how important it is to set up the read/write offsets in EAC - would it change the detected position of the track indexes? But it's not hard to set the right offset, so I agree it should be done!
+<p> Not all writing programs can use the "Multiple Files with Gaps" .cue files, but the "Single WAV File" option is pretty broadly supported.
+<p> EAC can only write a CD from MP3 or WAV files, and as I (and patchcr) want lossless compressed tracks we would need to convert them back to WAVs anyway; there is no point editing the .cue to change the file extensions unless you can find a writer that works with the Noncompliant .cue files and lossless compressed files. (I use Nero 8, and it can't use the non-compliant .cues.)
+<p> Reading in to the lead-in/lead-out is required for a perfect clone of every CD. (My drive does read lead in/out, but maybe even if it didn't it's not worth worrying for at most a few milliseconds of audio that is usually silent?) However just for a CD to be recognised I think that the track positions are enough.
+<p> Do any lookup services use the ISRC numbers that are sometimes stored for each track on a CD? Depending on your drive, EAC can also write ISRC numbers in to the .cue file for "even more perfect" cloning! It pulled out wrong numbers on one drive that I use for ripping though, so if the ISRCs don't look a bit like AUAP08000041, then don't use that option :-)
+<h> Re: Rip copies that can be burned as original
+<p> Hi sjmac,
+<p> I don't know how important it is to set up the read/write offsets in EAC - would it change the detected position of the track indexes? But it's not hard to set the right offset, so I agree it should be done!
+<p> However just for a CD to be recognised I think that the track positions are enough.
+<p> I did some testing: If the write offset is not set correctly, the CD will be recognized but will not match with accuraterip (red cross). I tested a CD that has got non zero samples at the end - ripped them with my PX-W4012S and got all the samples due to the read into lead in/out feature of the drive. I did set the correct write offset in EAC and burned it with my PX-W4012S. Ripping the burned CD I got accurate matches for all tracks but due to the write offset on the last track 30 samples were missing and the CRC of the track was different. (The plextor can read into lead in/lead out but not write into lead in/lead out). Writing the tracks with the LG HL-DT-ST BD-RE GGW-H20L (write offset=0) gave me a perfect copy where all ripped tracks of the copy where exactly the same as the original ripped tracks.
+<p> there is no point editing the .cue to change the file extensions unless you can find a writer that works with the Noncompliant .cue files and lossless compressed files.
+<p> If someone prefers to use the single tracks option to the Single WAV File option, the correction I mentioned could be usefull because normaly EAC will lookup on freedb whereas dbpoweramp has the great perfectmeta option. So Filenames vs. names in the cue sheet can sometimes differ. CUE Tools can create a Single WAV File + cue from individual tracks + Noncompliant .cue files. As I use the compressed (Monkeys Audio) files not only for arquiving but as well for playback on my media center (MediaPortal) I prefer the individual tracks option. But one or the other option is completely left to the likes of the user.
+<p> Do any lookup services use the ISRC numbers that are sometimes stored for each track on a CD?
+<p> Good question - I think rather not but I do not know. I've until now ripped a 130 of my CD collection but only for about a 30 CDs I got ISRC information. Should every commercial CD contain ISRC codes? Maybe my drive does not read all of them? Or is it normal that not all CDs contain ISRC - mostly older CDs?
+<h> Re: Rip copies that can be burned as original
+<p> BugsB - I'd never used cue tools; sounds useful for if I ever need to restore - thanks.
+<p> I also rip to seperate tracks like you and as I suggested to patchr - my suggestion was to keep the .cue as a "single wav" and join the tracks if needed.
+<p> Most of my CDs don't have ISRC (but the most recent chart disks all do seem to). dpPowerAmp ripper almost never writes them to my ripped files though - they seem to get overwritten when the perfect meta comes in, a little bug that's been reported in the ripper beta thread before.
+<h> Re: Rip copies that can be burned as original
+<p> http://www.burrrn.net/?page_id=4 I do as Bugs advised to create a cue sheet, then I use Burrrn to create a CD from the individual tracks and cue sheet. Haven't paid any attention to the writer's offset at all. Bugs wrote: If you are ripping to individual files the most correct cue in eac is: Create cue sheet - Multiple Files With Gaps... (Noncompliant) If you do so EAC will also Detect the gaps automatically and wite it into the cue file.
+

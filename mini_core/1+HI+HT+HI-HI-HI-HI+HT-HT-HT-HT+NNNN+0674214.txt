@@ -1,0 +1,14 @@
+<0674214>
+<http://www.digitalcameraworld.com/2012/04/08/stop-motion-movie/>
+<Rater 1: HI_HT * RC * N * ID: A1BE2EQFHHB22K>
+<Rater 2: HI_HT * RC * N * ID: A2NRW37D7QPLRE>
+<Rater 3: HI_HT * RC * N * ID: A3AROFXSS8WLSY>
+<Rater 4: HI_HT *  * N * ID: AQR70X1KIOP6B>
+
+<h> Make a stop-motion animation using your DSLR and Photoshop
+<p> You don't need a movie mode function on your digital camera to make a motion picture. In fact, you don't even need additional movie-editing software, such as Adobe Premiere.
+<p> For this simple photography project we'll show you how to use nothing more than your digital camera and Photoshop CS to put together a simple stop-motion animation sequence, then save it as a QuickTime movie. And seeing as today is Easter, we thought what better subject than to melt a chocolate Easter Bunny!
+<p> Using the basic principles of animation, we'll take a series of images using our DSLR's Interval Timer set to take a shot automatically every seven seconds, while the chocolate bunny is slowly melted by a hair dryer.
+<p> After making some global tweaks to all the captured JPEG images in Adobe Camera Raw, we'll use the often-overlooked Image Sequence check box in Photoshop's Open window to merge them all together into a movie that can be rendered and saved as a file that you can share quickly and easily.
+<p> The chocolate bunny we've used here works a treat, because the melting process is fairly fast, but there are many subjects that will work just as well. Try recording the movement of a bunch of flowers opening over several days, or shoot a sequence during a long walk. Want to see how it's done? Watch the video below.
+

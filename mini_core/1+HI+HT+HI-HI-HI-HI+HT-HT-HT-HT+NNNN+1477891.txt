@@ -1,0 +1,24 @@
+<1477891>
+<http://www.techradar.com/news/computing/apple/how-to-build-a-mac-for-300-907499>
+<Rater 1: HI_HT *  * N * ID: A13Q8PG3IG6771>
+<Rater 2: HI_HT *  * N * ID: A1QCQE5XW37LN1>
+<Rater 3: HI_HT *  * N * ID: A3CQZVJVN8AVQ8>
+<Rater 4: HI_HT *  * N * ID: A3QGNYMQNUC6HM>
+
+<h> Related stories
+<p> The two Steves, Jobs and Wozniak, built the Apple brand on its synergy between hardware and software. 25 years on, you pay a premium for that.
+<p> It's œ599 for the cheapest Mac Mini. œ1999 for an entry level Mac Pro. But since 2006, new Macs have had a very similar internal architecture to Windows PCs. The same Intel CPUs, the same Nvidia graphics.
+<p> Since then, people have been hacking together Macs in their bedrooms. They call them Hackintoshes; PCs that run OS X for a fraction of the price of a brand new Mac. My aim was build the cheapest, usable Hackintosh possible.
+<p> Basic hardware configuration
+<p> Forget all about bells and whistles like Blu-Ray and 5.1 surround sound. I wanted to get a basic system up and running with the barest of necessities.
+<p> I needed to choose a motherboard and compatible CPU, DVD drive, a SATA hard drive, 2GB of RAM and a video card. All were picked to fit nicely into the ATX case of my choice and most of the components were bought on eBay. This was my build:
+<p> There were other things I had to take into consideration, though. I had to design the machine, I had to put it together and then I had turn it into a Mac...
+<p> CASE STUDY: The ATX case I chose shows you what the final Hackintosh looks like. It's not quite a Mac Pro...
+<p> Compatible hardware
+<p> Thank ye olde Gods for the OSx86 Hardware Compatibility Lists (HCLs). In fact, thank them for the entire OSx86 Wiki - a must bookmark for wannabe Hackintosh builders. I picked out the components for my build based on the experiences posted there, cross checking with the HCLs for potential pitfalls.
+<p> CHECKLIST: It's essential you check drives, cards and motherboards against OSx86 Hardware Compatibilty Lists, or your custom Mac project may never get off the ground
+<p> Another way to make sure your system will run OS X is to use someone else's tried and tested build. At the time of writing, the build I've listed above is running Snow Leopard 10.6.4 and - for the most part - it works. There are many other Hackintosh build guides available, though. Here are some other build resources I'd recommend taking a look at:
+<p> Insanely Mac is the community flipside of OSx86 with a message board where users exchange advice. They also post full hardware build details, which is very handy if you don't know where to start. Check out the Tutorials section.
+<p> Then there are a series of builds at tonymacx86 . They're all centred around Gigabyte P55 series motherboards. tonymacx86.jpeg - tonymacx86 Blog started as a document of the author's specific build. Now it's a general resource for Intel based custom Mac projects. Handily, Tony also provides downloads for boot tools and an OS X installer. More on those in a moment.
+<p> By submitting this form you agree to our Terms of Use and so are legally responsible for anything you submit. DO NOT submit anything which may violate the Terms of Use or another person\'s rights including copyrighted or offensive materials.
+

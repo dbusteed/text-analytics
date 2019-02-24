@@ -1,0 +1,62 @@
+<0192930>
+<http://forums.whirlpool.net.au/archive/1959233>
+<Rater 1: ID_DF *  * N * ID: A1Y3Z92RE62NPS>
+<Rater 2: ID_DF *  * N * ID: A2QQKVIN9R45N6>
+<Rater 3: ID_DF *  * N * ID: A2YTOX7SEDJ1TC>
+<Rater 4: ID_DF *  * N * ID: A9K0CV70JWG1W>
+
+<h> Know your ISP.
+<p> 3 tell me it's because they are now using Vodaphone towers primarily and roaming onto Vodaphone. I don't understand why it's roaming if the the primary network and the roaming network are both vodaphone. Furthermore I don't see that thier suggestion of moving my contract to vodaphone will help. Any thoughts? I'd rather move over to telstra but I still have 10 months left on my contract.
+<p> So 3 customers still on contract will continue to roam to Telstra until the contract finishes?
+<p> Telstra roaming will be available to at least April 2013, until the Optus JV (with Vodafone) takes off
+<p> ie: Voda 2G default -&gt; Telstra NextG
+<p> Once 3GIS shuts shop at the end of this month, Vodafone will be the HOME network, then you'll roam to Telstra (considering your in a coverage area with a compatible handset) when no Vodafone coverage is available.
+<p> Be aware of the data charges when roaming onto Telstra (50c per MB, not included in any allowance/cap or data pack)
+<p> I had the same issue and since last 2 days $$$ on pending bill start going up, I called overseas shit CC and found out that its because I am still a 3 customer and vodafone is my roming network so I will charged for data roaming everytime i used data on vodafone network. the sollution they gave me was to change my mobile service provider to vodafone, I took it seriously and changed it to TPG ;-)
+<p> ... found out that its because I am still a 3 customer and vodafone is my roming network so I will charged for data roaming everytime i used data on vodafone network.
+<p> Happy Dude® told you yesterday that using data while connected to the Voda network does not incur any extra charge. 3 customers will only be charged extra for data if they consume it while connected to a Telstra network.
+<p> using data while connected to the Voda network does not incur any extra charge. 3 customers will only be charged extra for data if they consume it while connected to a Telstra network.
+<p> Given that my phone displayed ` roaming' when it was on 3 but connected to Voda, and I had ` use data when roaming' off so as not to incur charges to Telstra, how are the users supposed to tell the difference -- and be able to use their service properly when on Voda.?
+<p> It wouldn't do that. If it displayed "Roaming", you were connected to Telstra.
+<p> When the changeover first happened, I realised because my phone showed ` roaming' I checked what provider I was connected too, and the phone informed me I was on Vodaphone. When I went back to the home screen I was still on `roaming.' The phone at this location, with a flaky 3 signal that would fail by my bed, had _never_ gone to roaming before.
+<p> I'm quite ready to accept that it wasn't _supposed_ to show Voda as roaming. This was on an Acer Liquid Metal. It may be a frunction of the phone. It certainly was what occured.
+<p> Try taking the simcard out and doing it. Or swap in a different simcard from a different carrier.
+<p> Thanks for that advice. Turned the phone off, took out the SIM and still no carrier option. Turned it off again, reinserted the SMI and voila....we have the "carrier" option, but only at the turn on stage. After that, no carrier option.....even after repeating the process.
+<p> I find its better not to put your phone in.. .then you can see the full range of frequencies available in the area and ascertain whether upgrading your phone (to 850 3G for example) may make a difference. Or put in a quad 3G phone.
+<p> All SIMs issued by 3 were capable of OTA update. As I said before, it doesn't matter how old it is. It is quite possible that the update fails and if that's the case, Care can try the OTA again manually -- or just get a new SIM.
+<p> *lol* You're most welcome. Your logic is also wonderful. Even though the Carrier has a clearly stated contract condition, the fact that a phone has a function, which you've misinterpreted in any case, obviously overrides that.
+<p> NO -- the operator has an option -- the user can roam onto Telstra, however data is charged at a high rate when they do so.
+<p> The phone the carrier sells has a function -- the user must turn on roaming for data. It is called ` Data Roaming' -- subtext ` Connect to a data service when roaming.'
+<p> When the phone on 3 is connected to Telstra, it informs the user it is roaming.
+<p> We now have a phone that offers the ability to toggle data when roaming and is roaming.
+<p> Apparently, from what you tell us, 3 chose to ignore this, and allow data to flow.
+<p> We now have the situation [on your planet] where not only is the user culpable, ignorant and fully liable for the charges incurred by an action they took reasonable steps to avoid, but the phone manufacturer and programmers as also rather mischievous and foolish.
+<p> We could, and I imagine the assessors at the TIO, would, in the event of any dispute, look at the arguments, who stands to profit from such a situation, and assess the situation accordingly.
+<p> However you dice it, you are stating that, on 3, that function doesn't work. _If_ so, then that is unacceptable, and clearly misleading.
+<p> We could, and I imagine the assessors at the TIO, would, in the event of any dispute, look at the arguments, who stands to profit from such a situation, and assess the situation accordingly.
+<p> It's listed in your contract and SFOA that 3 may use the services of another network to provide you with network access to services and that rates may vary. You are warned at signup and you can always refuse to sign if you do not agree with the t&c's laid out infront of you -- and walk away to another carrier
+<p> If roaming is such a problem, why stay with 3?
+<p> (ps -- Telstra are the ones who make the most out of data roaming. Take it up with them for not offering Hutchison/VHA a cheaper wholesale rate?)
+<p> It is -- my part in this is when I commented that the first time my phone had shown ` roaming' was when it first went onto the Voda network [according to the carrier and signal strength reported by it].
+<p> David stated that was impossible. I observed that that was what appeared to have happened.
+<p> My second point, raised on that, is that a person who had taken reasonable steps for their phone _not_ to use data when roaming has a reasonable expectation that the data use would not occur.
+<p> All the spin and pointing to the `conditions of the contract' do not affect that.
+<p> However, feel free to quote them. I'll take them at their face value.:-)
+<p> NO -- the operator has an option -- the user can roam onto Telstra, however data is charged at a high rate when they do so.
+<p> So there's the basic misunderstanding. You think that Telstra roaming is being offered as an option. It's not. When you're in a location with no "3" (that now means Voda) coverage but where Telstra coverage exists and is available to 3 customers, then you'll connect via Telstra. No choice. This was explained in the contract.
+<p> The phone the carrier sells has a function -- the user must turn on roaming for data. It is called ` Data Roaming' -- subtext ` Connect to a data service when roaming.'
+<p> That's your subtext. The function actually disallows data when connected to a non-home network. Telstra is a home network for 3 customers.
+<p> In any case, this is a really stupid argument. Do you think you're the first 3 customer in the nearly 10 years the Telstra network agreement has been in place to be caught with high excess data costs because they didn't understand the contract they signed? Whirlpool has many threads on the subject.
+<p> It's really simple to avoid these costs: swap to Vodafone or some other carrier.
+<p> Are you sure you're not connected to Telstra? What handset do you have? What networks are in your network list, and which one are you connected to?
+<p> I am using Samsung Galaxy S2. I am not sure what network my phone is connecting and that is the help I was looking from 3 Tech support, but the only option they offered me is to have my services moved to Vodafone and that was not acceptable solution to me, considering the over service I moved to vodafone 3 months back had lots of issues and their customer service is the worst I have ever seen. There for I am moved on from 3/vodafone now :-)
+<p> Switching to vodafone is not an option for me due to some unpleasant recent experience.
+<p> Hence the second part of my statement (which wasn't addressed to you anyway). You were very non-specific about your problems other than lots of issues so I can't comment on that and Voda's service is conducted in the same way by the same people as 3 -- so it's hard to guess what suddenly got your goat there either.
+<p> You were very non-specific about your problems other than lots of issues so I can't comment on that and Voda's service is conducted in the same way by the same people as 3 -- so it's hard to guess what suddenly got your goat there either.
+<p> Well there are too may issues, the most annoying one is that what customer service staff says is different to what Vodafone shop staff says and this has happens to me few times in last few weeks, also, I had to go through changing 3 instrument in my first 8 weeks which was lots of pain due to contradicting statements by the staffs.
+<p> Any ways, its no more an issue for me as one of my service is no longer with them so pain is only « .
+<p> Three set up their simcard and networking arrangement so that when it roams to Telstra the phone is NOT informed that it in fact roaming. They have just renamed "Telstra" to "Roaming".
+<p> Sure it's a little misleading, if you're just looking at your phone settings at face value.
+<p> It's always been the worst thing about 3. "Fake" roaming tags make data use very expensive (unless you manually initated data and checked things yourself). Telstra was probably quite happy with the arrangement, but I wonder if 3/Voda tried to fix it.
+<p> If you didn't need data then the 3 coverage combining 3GIS, Telstra & Vodafone was quite extensive and no hidden costs. If your phone could have turned off data when on Telstra it would've been brilliant.
+

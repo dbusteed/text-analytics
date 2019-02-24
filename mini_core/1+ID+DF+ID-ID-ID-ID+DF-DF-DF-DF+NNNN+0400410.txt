@@ -1,0 +1,15 @@
+<0400410>
+<http://uksbsguy.com/forums/t/1670.aspx>
+<Rater 1: ID_DF *  * N * ID: A1XLSHGIE8DRF0>
+<Rater 2: ID_DF *  * N * ID: A28XFC7F3F89W8>
+<Rater 3: ID_DF *  * N * ID: A2RGVOJDMIKL4W>
+<Rater 4: ID_DF *  * N * ID: A841FR9QWUPT4>
+
+<p> This site is my way to share my views and general business and IT information with you about Microsoft, IT solutions for ISVs, technologists and businesses, large and small. I specialise in Windows Intune and SBS 2008.
+<h> Re-Enabling Programs or Options that have been Disabled
+<h> rated by 0 users
+<h> This post has 3 Replies | 2 Followers
+<p> I've found that lots of things on vista can be disabled by the simple misclick of a button, or by a virus that got downloaded or some other reason and its so hard to re-enable it because Microsoft didn't make UIs for all those objects that can get disabled, because of this I will start a list of objects that have gotten disabled and possible ways to re-enable them as a reference for others that come here:
+<p> Hibernation - Can get disabled by using "Cleanup Wizard", "powercfg -H OFF". to re-enable: run "powercfg -H ON" as administrator. (See Vista Hibernation - how to re-enable? for more info.)
+<p> Windows Firewall and Security Center - Can get disabled by using the "Services" control panel. to re-enable: run the Services control panel, and select the service called "Windows Firewall" and or "Security Center", right click and press properties. Change the startup type from "Disabled" to whatever you want depending on when you want it to run. Manual if you want to start it on your own, Automatic if you want it to start right away when you start windows, or Automatic (Delayed Start) if you want it to run a couple minutes after you start windows. And of course I recommend Automatic.
+

@@ -1,0 +1,26 @@
+<0188422>
+<http://www.bullguard.com/support/product-guides/bullguard-internet-security-guides/firewall/i-want-to-see-the-banned-hosts.aspx>
+<Rater 1: HI_HT *  * N * ID: A274NFT93QPBGL>
+<Rater 2: HI_HT *  * N * ID: A3300UYCOCN5YI>
+<Rater 3: HI_HT *  * N * ID: A33N4PXGW0ANB5>
+<Rater 4: HI_HT *  * N * ID: A3MZ9RQJX9T656>
+
+<h> Whether you choose Live Chat or e-mail, you can count on our team of experts to deliver quick answers to your questions.
+<h> How to use the Firewall
+<p> This guide will show you how to use the BullGuard Firewall.
+<p> IMPORTANT! The Firewall is a very important section of any Internet Security suite, so we recommend using the guide below only if you know what you are doing, or you have received instructions from our Support Team. If you are not familiar with computers, it is recommended that you team up with a computer-wise friend, or contact our Support Team .
+<p> What  is a firewall?
+<p> A firewall is a special computer application (or module within a security suite, such as BullGuard) whose purpose is to monitor and protect your computer from any unauthorised network traffic. Think of it as a guard at your door.
+<p> Why do you need a firewall?
+<p> Without a firewall, you computer is vulnerable to almost any type of network attacks and malware. We recommend using a firewall at all times you are connected to the Internet.
+<p> How can you use the firewall?
+<p> Our firewall is included within the BullGuard Internet Security suite. We recommend using this guide if you want to know more about configuring it or need to perform any changes.
+<p> Open the Firewall
+<p> First, you should open your BullGuard application. Double-click the BullGuard icon near the clock and click on the Firewall icon.
+<p> How to see the banned hosts in your Firewall
+<p> This guide will help you to find the list of banned hosts in your Firewall. There are 2 ways of accessing this banned hosts list: in Beginner mode or in Advanced mode.
+<p> In Beginner mode
+<p> You need to click the Settings tab. This is where you can see here the Show banned hosts option.
+<p> Clicking the option will display the bellow window. Hopefully, it will be empty (which means that your computer was not attacked).
+<p> You can now easily access the trusted hosts. Pressing the Trusted Hosts button will add an IP address in the list to the trusted hosts list, but will not open the trusted hosts window. This function will work only for the hosts banned automatically by the Firewall, not for the hosts manually banned by the user.
+

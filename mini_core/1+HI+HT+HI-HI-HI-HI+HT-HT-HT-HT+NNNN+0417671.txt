@@ -1,0 +1,44 @@
+<0417671>
+<http://jamescaldwell.info/landing-pages/16-steps-to-great-landing-pages/>
+<Rater 1: HI_HT * RC * N * ID: A2YFM1CTH90BFH>
+<Rater 2: HI_HT * RC * N * ID: A3DMHLG2GUQAMH>
+<Rater 3: HI_IS * RC * N * ID: A2TAUP3B2QB99F>
+<Rater 4: HI_IS * RC * N * ID: ARG47LD1T4XXY>
+
+<h> 16 Steps to Great Landing Pages
+<p> 1. Know your visitors
+<p> Understand the type of traffic you are receiving. Where are they coming from? What do they expect to see when they land in your site? Answers to these questions will help you figure out how to go about creating your landing pages and what content to place on the page.
+<p> 2. Present a clear value proposition
+<p> This step sounds very simple but is very often overlooked. Ensure you make the benefits of your product or service very clear. This can be done in for the form of web copy or in a video or diagram.
+<p> 3. Post relevant and persuasive content
+<p> All the copy that you include on your landing page should be carefully thought out and planned. Each bit of text should serve a purpose of either informing the viewer about something or convincing them to do something. Make sure the content you use is relevant to what the landing page is about and emotive enough to get them to take action.
+<p> 4. Deliver a consistent message
+<p> This is extremely important if you are driving visitors from a Pay Per Click campaign. Make sure the message and the content on the landing page matches the copy in your ad creative. There is no point attracting traffic with an ad that read "10% off sports shoes" and then sending them to a landing page that sells high heels. Make sure your message is relevant and consistent.
+<p> CTA should be prominently placed
+<p> 5. Provide a clear call to action
+<p> Make your call to action (CTA) stand out and prominent on the page. The purpose of this landing page is to get viewers to do one thing and that is take action on your CTA. Use contrasting colors, large font sizes and prominent placement to emphasize your CTA buttons or text.
+<p> 6. Balance your content and images
+<p> A good balance of content and images can be the difference between a high converting landing page and a poor one. Make sure you use relevant images to break up large areas of text. This will work for conversions as well as the readability of your page.
+<p> 7. Create a user-friendly layout
+<p> A user friendly layout ensures the site is easy to navigate, use and read. This will make visitors feel a lot more comfortable on your site and increase your conversions.
+<p> 8. Use emotional triggers
+<p> Emotional triggers can be in the form of text, images or videos. People relate very well to emotional triggers. An example could be "fear". You can use fear to make viewers feel as if they "need" your product or service. Insurance companies often do this when selling insurance packages. They come from the angle of fear of getting caught out with too little insurance.
+<p> 9. Remove distractions
+<p> The sole purpose of your landing page is for people to take action and convert. Distractions can come in the form of links, widgets and even the navigation. You want to make it extremely clear as to what you want the visitors to do, so sometimes it's best to remove these distractions and A/B test to see if it improves your conversion rate.
+<p> 10. Don't ask for too much information
+<p> Asking for too much information creates a lot of friction and will often scare visitors away. Ask for only what you need and you'll find that more people are willing to fill in your form or survey.
+<p> 11. Build trust
+<p> Trust can be built in a variety of different ways and is effective in increasing conversions. Building trust is a way to make customers feel more comfortable and secure spending money on your site.
+<p> only ask for minimum information
+<p> 12. Respect privacy
+<p> Don't invade people's privacy. If you are collecting people's email addresses make sure it's clear what you will be using their emails for and that you won't be abusing them.
+<p> 13. User testimonials
+<p> People love to see what other people have to say about your product. User or customer testimonials work well to increase conversions as they provide comfort for people who are on the fence considering whether or not to invest their money in your product or service. Adding a Facebook widget that displays peoples friends that have also used a product or service is also a great way to build trust.
+<p> 14. Keep it simple
+<p> Simplicity is the key to creating landing pages. Each landing page should have a single purpose and everything on that page should be organized in a way to promote that goal. It's often a good idea to take a "less is more" approach when designing effective landing pages.
+<p> 15. Test every component of your landing page
+<p> All of the above tips are typically great for increasing conversions. They're best practices that have worked on countless sites, however that doesn't mean that they'll necessarily work for you. There is only one group of people that will tell you what converts best and they're your own customers and visitors. You should continuously run landing page optimization and A/B tests to discover new ways to increase your conversions.
+<p> 16. Ensure less loading time
+<p> Continually optimize your site speed. People are very impatient online and don't like to wait for websites to load. You could have the perfect landing page with an incredibly high conversion rate, but if visitors have to wait too long they may just leave. Studies have shown that most people won't wait more than one second for a web page to load, so it's very important to decrease website load times .
+<p> There are a lot of landing page optimization tips listed above. We recommend going through each one and running A/B tests to see what works for your site and landing pages. This will ensure that you're getting the most from your website and not loosing valuable customers and revenue.
+

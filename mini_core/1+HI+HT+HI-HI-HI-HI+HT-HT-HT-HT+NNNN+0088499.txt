@@ -1,0 +1,51 @@
+<0088499>
+<http://www.photoshop-plus.co.uk/2012/09/01/learn-how-to-create-a-set-of-vintage-tickets/>
+<Rater 1: HI_HT * RC * N * ID: A3AYPGNCIQ0B2R>
+<Rater 2: HI_HT * RC * N * ID: A80VSGAD9H8VE>
+<Rater 3: HI_HT * RC * N * ID: A3209D1227UCYP>
+<Rater 4: HI_HT *  * N * ID: A1HBDQ0BJQBA4Q>
+
+<h> What We'll Be Creating
+<h> Creating The Tickets Shape
+<p> Drag out a rectangle onto your canvas which will form the base of our ticket.
+<p> Now select the "Ellipse Tool" (U), with the ellipse tool selected we can add, subtract, intersect or exclude our shapes. The available options will become available within the tool bar in the top menu.
+<p> The tool we will be using is "Subtract From Shape Layer" (-). Now with the "Ellipse Tool" (U) select press the minus key (-) or simply select the option from the tool bar then drag an ellipse over one of the corners of the ticket base shape.
+<p> As you can see when you drag the circle over the shape it subtracts the part which overlaps. Repeat the step above for all four corners.
+<p> We now need to add a couple more circles to give our rectangle the ticket look. Select the "Ellipse Tool" (U) then create a row of circles on the left and right edges.
+<p> Duplicate the ticket x2 times and place them in a line next to each other. Finally change the shape color as below.
+<h> Quick Tip:
+<p> Double click the layer thumbnail of the vector shape to change the color. The "Fill Tool" (G) doesn't work on vector shapes.
+<h> The Ticket Layer Styles
+<p> To each of the ticket shapes add the following layer styles changing the colors respectively
+<p> You should have something like this.
+<h> Adding Texture To The Tickets
+<p> Download some distressed/grunge brushes (These types of photoshop brushes a widely available for free on the internet, just search). Create a new layer above your ticket, load a selection "Select &gt; Load Selection" around one of your tickets then apply a brush over the top.
+<p> Once you've applied the brush add the following layer styles to the grunge layer.
+<p> You should have something like this.
+<p> Again load a selection "Select &gt; Load Selection" around one of the tickets, create a new layer then using the "Fill Tool" (G) fill the selection with the color black #000000. Once you've filled the layer with the solid color add some noise by going to "Filter &gt; Noise &gt; Add Noise".
+<p> Once you've added the noise filter set the layers opacity to 2%.
+<p> Finally the last texture, create a new (Ctrl + N) document 4 x 4 pixels, using the pencil tool with the color black #000000 replicate the image below.
+<p> Once you've replicated go to "Edit &gt; Define Pattern". Give the pattern a name then had back to the original canvas. Load a selection "Select &gt; Load Selection" around one of the tickets then create a new layer and fill (G) it with your pattern texture.
+<p> Once filled set the layers opacity to 6%. You should have something like this.
+<h> Ticket Details
+<p> Using the "Rounded Rectangle Tool" (U) drag out a rectangle in the center of the ticket.
+<p> Add the following layer styles to the rectangle layer.
+<p> You should be left with something like this.
+<p> Using the "Line Tool" (U) draw two lines either side of the rounded corner.
+<p> You should now have 3 layers, the rounded rectangle and two line layers. Select all 3 layers and merge them into one. Now add the following layer styles.
+<p> You should have something like this.
+<p> Add a layer mask to the merged layer then select one of your grunge/distressed brushes and begin to paint over the lines.
+<p> Using some shapes/logos of your choice begin to add the more detail to the ticket.
+<p> Any text that you add to the design of the ticket, add the following layer style.
+<p> For all the lines, shapes and symbols add the following layer styles.
+<p> You should have something like this.
+<p> Now add some random numbers either side of the ticket in the two spaces provided.
+<p> Add a layer mask to each element which you have added to your ticket then begin to paint over it with one of your grunge/distressed brushes giving the ticket a slightly worn look.
+<p> Repeat the same steps for each of the tickets (If you haven't already).
+<h> Conclusion
+<p> Thanks for taking part in this tutorial, if you managed to finish this tutorial I'd love to see some of your results. Feel free to post them up on our Facebook Fan Page Or Tweet them via twitter @photoshop_plus .
+<p> Cool :) thk u Richard, really simple techniques always gave a perfect result.. it s my first comment in ur great blog, i will always check back for new tuts ^^
+<h> Give Us Your Feedback
+<p> Here on Photoshop Plus we use something called Gravatar, its a little image which will appear next to your name when you comment on a blog. Using a gravatar will help us recognise genuine comments from the spam comments.
+<p> Don't forget to leave a comment on this post, we appreciated your feedback good or bad.
+

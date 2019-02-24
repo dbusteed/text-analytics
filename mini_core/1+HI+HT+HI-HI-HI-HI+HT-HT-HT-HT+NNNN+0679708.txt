@@ -1,0 +1,14 @@
+<0679708>
+<http://www.joh.cam.ac.uk/way-stars-build-your-own-astrolabe-0>
+<Rater 1: HI_HT *  * N * ID: A1YRVRV46ZOVMP>
+<Rater 2: HI_HT *  * N * ID: A2QH1BQA6GR48O>
+<Rater 3: HI_HT *  * N * ID: A2ZRYNS8R5JSY6>
+<Rater 4: HI_IS *  * N * ID: AQHMXM5LLEP2N>
+
+<p> Make a hole through the centre of all the pieces, in the place indicated by the small circle.
+<p> Assemble the astrolabe with the label (the pointer with no markings) on the back of the mother, and the rete and then the rule (the pointer with a scale on it) on the front of the mother. Hold the astrolabe together with a split-pin paper fastener.
+<p> You should be able to rotate each of the label, rule and rete independently from each other.
+<p> Make a small hole in the top of the mother. Thread a small piece of ribbon through the hole, and tie the ends to make a loop. Thread another small piece of ribbon through this loop and tie it again into a loop. Now you can hang the astrolabe from your thumb.
+<p> *This astrolabe is calibrated for latitude 52ø North. It will work across northern Europe and much of the United States of America. If you would like an astrolabe kit calibrated to a different latitude please download the file appropriate to your latitude from this page .
+<p> This astrolabe kit was designed and produced by Dominic Ford and Katie Birkwood, based on S. Eisner, 'Building Chaucer's astrolabe', Journal of the British Astronomical Association 86 (1975-1976), pp. 18-29, 125-132 and 219-227. The diagrams were produced using PyXPlot .
+

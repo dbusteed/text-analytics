@@ -1,0 +1,25 @@
+<0318606>
+<http://www.techradar.com/news/computing-components/peripherals/how-to-make-a-usb-mini-fridge-671278>
+<Rater 1: HI_HT *  * N * ID: A13JQIAK0MAF3B>
+<Rater 2: HI_HT *  * N * ID: A9IGTAK087DB9>
+<Rater 3: HI_HT *  * N * ID: AVZ76FUE8VET9>
+<Rater 4: HI_IS *  * N * ID: A2RFWIPVXZ5ON1>
+
+<h> Related stories
+<p> Physics, how we love you. You keep our feet on the ground, ontologically-ambiguous cats locked in boxes and photons in two places at the same time. It also enables the Peltier effect, what's that we hear you breathlessly ask?
+<p> If a current is passed between two different materials a heat differential is created; one side hot the other cold. The principle is used in all sorts of situations including cooling processors and mini-fridges, though apparently they're not that efficient, just small and light.
+<p> So why do we care? Well you can pick up a Peltier heat pump on eBay for under œ5, we're interested in the 30W ones, these run at 5 to 12 volts so can be powered from a USB port.
+<p> Also don't worry, the 'hot' side on these won't go over 40øC under these power conditions, so the passive cooling we're going to use is perfectly suitable. Slap this between two old heatsinks and hey presto instant hot and cold fronts!
+<p> We also picked up a couple of A3 sheets of 5mm foam board using this we can construct an insulated box, pack polystyrene around the base of the cooling heatsink and we've got an instant mini-fridge!
+<p> For better cooling you could connect any suitable (sub 12v, sub 2a) spare DC adaptor to it, but if you do this will increase the hot side to over 60øc. So double-checking the cooling and adding a small fan would be advisable.
+<p> 2. Wire up the Peltier heat pump and test to see if it's the right way around.
+<p> 3. Strip down the heatsinks, we don't need the fans or fixings. We'll use the larger one as the base and for more stability thermal tape is available from most overclockers.
+<p> 4. The plan is to create a box around the cooler; we're going for 120mm square big enough for bottle of beer. Take the A3 foam board and use a sharp Stanley knife to score and cut through.
+<p> 5. For a stronger construction we're going use dovetail joints, use an off-cut piece to practice. Mark a 5mm strip, cut two opposing 45ø slits into this, remove the strips either side to leave the joint.
+<p> 6. You'll want three perhaps four joints on each side. Use the off-cut piece as a template to mark and cut three sides. For the front use an off-cut from the door to connect the bottom area.
+<p> 7. Measure a 120mm square and a 110mm square area of foam board and glue these together, this is going to be the lid. Glue all the sides and the top in place. We used elastic bands and some books to press things together.
+<p> 8. Double check the measurements inside and cut a slab of polystyrene to fit. Cut a hole that fits the upper heat sink.
+<p> 9. Construct a front door, we added a window by cutting a smaller version that can fit inside the front. We kept things easy with card hinges and Velcro.
+<p> Sign up for TechRadar's free Weird Week in Tech newsletter Get the oddest tech stories of the week, plus the most popular news and reviews delivered straight to your inbox. Sign up at http://www.techradar.com/register
+<p> By submitting this form you agree to our Terms of Use and so are legally responsible for anything you submit. DO NOT submit anything which may violate the Terms of Use or another person\'s rights including copyrighted or offensive materials.
+

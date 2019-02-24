@@ -1,0 +1,14 @@
+<0076697>
+<http://rimstar.org/renewnrg/sp_diy_homemade_solar_cell.htm>
+<Rater 1: HI_HT *  * N * ID: A80VSGAD9H8VE>
+<Rater 2: HI_HT *  * N * ID: ANW7R2VV3V630>
+<Rater 3: HI_HT *  * N * ID: AWV62CB8YD9D>
+<Rater 4: HI_IS *  * N * ID: ANJGSRS82U64O>
+
+<p> You can make a solar cell to generate electricity from the sun using a sheet of copper. Note that this does not produce a useful amount of electricity, unlike silicon and other commercial solar cells, but is fun to make. You would need acres of these copper solar cells to power your home.
+<p> The simplest circuit to make is what is used in the above video and illustrated in the following diagram. Make sure that the wires that connect the two plates are above the level of the water. The electrical circuit is completed through the salt water itself. The salt makes the water and salt combination able to conduct electricity. Make sure you have an ammeter that can display in the 0 to 50 microamp range since the amount of current this type of cell produces is very small.
+<p> Circuit for solar cell in salty water.
+<p> The purpose of the salt water as shown above, is solely to act as a conductor of electrons from the outer surface of the cuprous oxide layer back to the copper plate that that cuprous oxide is covering. As the following diagram illustrates, if you can find a way of electrically connecting to the cuprous oxide layer without blocking it from sunlight, then you can do without the salt water and the other copper plate. The problem is that the cuprous oxide layer is not electrically conductive across its surface so there is no way for the electrons on the surface to make it to the connecting wire. That was the job of the salt water, the other plate and the connecting wires above.
+<p> One way of doing this is to press a metal mesh against the cuprous oxide (see diagram below.) Some sunlight will get through the holes in the mesh to the cuprous oxide and cause the electrons to move to the surface to the mesh. The mesh is conductive and will carry the electrons to the connecting wire. This will be less efficient though, since you are blocking some of the cuprous oxide with the mesh. Also, you will pick up only the electrons from the cuprous oxide that are near the mesh wires.
+<p> Another possible way is to use a glass that has a transparent, electrically conductive coating and press this conductive side against the cuprous oxide (see diagram below.) Since the glass and its coating are both transparent, the sunlight will not be blocked. The coating may still cause some loss in transmission of sunlight, but it will still be better than the mesh approach. An example of this glass is the tin dioxide coated glass used in modern flat LCD computer screens. I haven't tried this method myself but if you do, please let me know how it works out. If you take a picture or video then I will include it here.
+

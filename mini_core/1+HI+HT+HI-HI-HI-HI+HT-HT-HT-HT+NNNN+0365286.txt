@@ -1,0 +1,130 @@
+<0365286>
+<http://homepage.ntlworld.com/trevor.barker/farisles/guilds/armour/mail.htm>
+<Rater 1: HI_HT *  * N * ID: A19F9CLZ0XWBYR>
+<Rater 2: HI_HT *  * N * ID: A3L60SOWLYEDN2>
+<Rater 3: HI_IS *  * N * ID: A13JQIAK0MAF3B>
+<Rater 4: HI_IS *  * N * ID: A2QQKVIN9R45N6>
+
+<p> Mail is formed by the interlinking of metal rings. The resultant mesh of links gives a strong flexible armour which provides excellent protection against most cutting blows. It is also beautiful to look at! Note that mail is the correct medieval term, probably derived through the French maille and Italian maglia from the Latin macula meaning the mesh of a net. The modern term chain mail is a pleonasm.
+<p> The common type of European mail is illustrated to the right. It has a basic pattern where each ring is linked to four others. It is therefore known as four link or single mail. Other patterns are possible, such as six link and oriental styles like Futaye (four into one cross linked) or Hana (hexagonal).
+<p> In its basic form European mail was constructed of riveted links. A variation, used in Roman and pre-fifteenth century mail, had alternate rows of welded and riveted links. Another variation was Jazeran , being a stiff mail used for collars and the like, made of thick links. This guide is intended for the re-enactor who is interested in making good looking, well fitting mail. It will therefore only be concerned only with the production of four link butted mail (mail with the rings simply closed in a circle with the ends butted together).
+<p> A number of misconceptions exist about the manufacture of mail garments. Mail does not take years to make nor does it require fantastic technical skills or great physical strength. What is required is common sense, plenty of spare time and most of all patience.
+<p> Another misconception is that mail is heavy and cumbersome to wear. The weight of a mail shirt will depend on the thickness of the links, the length of its sleeves and its overall length: a knee length Norman one is probably going to be a lot heavier than a short fifteenth century one. The heaviest shirt I know of is in Edinburgh and weighs 14kg; most surviving shirts are lighter than this. This may sound heavy, but when worn the weight is well distributed and the mail is flexible, so it is quite comfortable if tailored correctly.
+<p> Medieval mail was normally constructed of iron wire, sometimes decorated with brass edging rings. Plain iron wire of useable size is not easily obtainable these days; however, galvanised iron wire is. This is in fact a beautiful material for making mail: it is inexpensive, easily obtainable, nice to work with, and only rusts on the ends where the links are cut.
+<p> The cheapest way to buy it is from builders merchants (as fencing wire) or large ironmongers in sizeable coils (5kg is a convenient weight). If you buy it from your local hardware shop in 0.5kg rolls it will cost a lot more. For particularly impoverished armourers coathanger wire can also be used. A coathanger will give about three feet of strong, non rusting wire of about 13 gauge thickness. Unfortunately not all coathangers are of the same colour or thickness and the scavenging of hundreds of them strikes me as being more trouble than it's worth.
+<p> Brass or enameled copper wire can be used for edging although these materials, being somewhat soft, tend to unbut rather easily.
+<p> Period mail links are generally of a 'D' or flattened cross section. Don't worry about this; it just means your mail will be slightly over weight. (Anyone getting close enough to spot this is more likely to tell you it isn't riveted!)
+<p> There is no set size, per se , for links. Medieval rings vary from suit to suit with even armours from the same period and district being made from different sized links. The mail maker, regardless of the period of the person being portrayed, is therefore free to choose whatever size of link he finds appealing. The appearance of the finished mail article will depend upon the thickness of the wire used and the diameter of the former upon which the links are wound.
+<p> The following table shows what sized links can be made from a given wire thickness. I have also included a conversion from millimetres to inches to help people who cannot think metric.
+<p> Wire Size
+<p> Ring Size
+<p> Gauge
+<p> Diameter of Wire
+<p> Minimum
+<p> Maximum
+<p> Recommended
+<p> (SWG)
+<p> (mm)
+<p> (mm)
+<p> (mm)
+<p> (mm)
+<p> (in)
+<p> 13
+<p> 2.3
+<p> 9
+<p> 18
+<p> 14
+<p> 9/16
+<p> 14
+<p> 2.0
+<p> 8
+<p> 16
+<p> 13
+<p> 1/2
+<p> 16
+<p> 1.6
+<p> 7
+<p> 13
+<p> 8 to 10
+<p> 5/16 to 3/8
+<p> 18
+<p> 1.2
+<p> 4
+<p> 10
+<p> 7
+<p> 1/4
+<p> 19
+<p> 1.0
+<p> 2
+<p> 8
+<p> 5
+<p> 3/16
+<p> Ring size is internal diameter of link and diameter of former.
+<p> Links of minimum size give a close inflexible mesh.
+<p> Links of maximum size give a very open mesh.
+<p> For any wire gauge a former of around six times wire diameter gives a good looking ring size.
+<p> The following should be considered when choosing a link size:-
+<p> Using a thinner wire will reduce the weight of the suit.
+<p> Thicker wire will allow larger link sizes to be used and increasing the link size decreases the number of links required.
+<p> Thick links require more effort to cut and close than thin links.
+<p> Thin wire unbutts more easily than thick wire.
+<p> Small links look prettier than large ones.
+<p> For a convenient size to start with I would recommend 16 gauge wire wound on either an 8mm or 10mm former.
+<p> Links are formed by winding a coil of wire which is then cut along its length to give the individual links.
+<p> Winding wire onto a stationary former is a tedious process so you will require some form of coil winder. A simple way of making one is to take a hand drill, clamp it into a vice and put the former straight into the chuck.
+<p> Another simple machine is a hand cranked mandrel. This is made from a piece of two by four wood about two feet long with a pair of wooden uprights mounted about one inch from the ends. The two upright blocks have holes drilled in them to take the former. Various sized formers can be accommodated by drilling a series of different sized holes in the end pieces.
+<p> Both winders are used in the same fashion. The end of the wire is inserted into the hole in the former and the handle turned slowly so that the first loop around the rod will be loose and protruding. This allows it to be cut when you have finished winding the coil (otherwise you won't be able to get it off the former). Wind the wire tightly in a coil to within an inch or so of the end of the former and stop. Cut the end of the wire and the starting loop and then slide the coil off the former.
+<p> When winding wire wear a pair of gloves to save your hands getting worn out. Use one hand to crank the mandrel and the other to feed the wire evenly onto the former.
+<p> After the coil has been wound, the individual links will need to be cut. If you are using a metal former you can cut them with a chisel, (having a slot down the former helps); otherwise you need to use a pair of cutters.
+<p> For thin wire (16 gauge or less) an excellent cutter can be made from a pair of jewellers' 5" snips. Take the snips and grind a small amount off the faces as shown. Before cutting open the coil up so that you have about one wire's thickness between each winding. Insert the cutter as far as the ground jaws will allow, hold the first half dozen windings between finger and thumb and close the cutter. In this manner you should be able to cut three to six rings at a time. Opening the coil before cutting saves having to open all the links individually before joining them together.
+<p> If you are using thick wire, such as coathangers, you will require a stronger pair of cutters such as a pair of parallel jaw action, side cutting, pliers. To use these simply insert the top edge of the coil into the cutting jaws and squeeze the cutter. Unfortunately, this method only cuts one link at a time. You are also going to have to open all the links.
+<p> Take an even number of rings (around ten) and close them. To do this simply hold one side of the ring with a pair of pliers and using a second pair force the ends shut. Next take an open link and thread four closed ones onto it; close the link. The result should look like stage 1 in the figure above. The location where the next set of rings should be added is shown in red. To do this add another open link through a pair of links on one side, then another pair of closed links and close the link. Continue this process until a chain is obtained, add a link at each end and it will look like the second stage in the figure.
+<p> Start expanding the chain by adding the red links shown in stages 2 and 3 of the figure. Continue this pattern of expansion until a reasonable sized oblong is obtained. This oblong can then be used as a starter piece to build into the item you require.
+<p> It is extremely important that mail hangs correctly. If mail is hung incorrectly the links spread apart defeating the purpose of the armour. The diagram to the right shows how mail consists of rows of links (the arrows show the rows and the way the links in a given row lie). For mail to hang correctly the rows must be horizontal .
+<p> All the surviving pieces of mail I know of are constructed in this way. If you see a coat of mail with rows that appear to hang vertically, it's probably made of knitted string! (This can otherwise look quite effective, but from what I can remember about the Robin Hood series on British TV, the actor playing Guisborne had to be cut out of his mail when it shrank after a muddy pond fight.)
+<p> Like any other garment mail has to be tailored to fit the body. There are two ways to do this. The first is to change the link size; larger links being used to expand a piece and smaller to contract it. This method is however of limited use, being practical only where small changes in size are required such as tapering the diameter of sleeves. The second method is to simply create or remove rows or columns. This is the commonly used method for tailoring.
+<p> The normal way to add a link to a piece of mail is to loop it through two rings in the previous row. To contract a piece, place a link through three rings instead. This effectively removes a column, decreasing by one the number of links per row.
+<p> To expand a piece add an extra link to the bottom of the mail. This extra ring goes between two others so that a link in the row before the bottom will have five others linked to it instead of the usual four. This increases by one the number of rings per row.
+<p> The above two methods are "column" adjustments. You will observe that an expansion is effectively the same as a contraction, but the other way round.
+<p> Always try to spread your contractions and expansions out; if you have too many too close together it will be very noticeable. This is because both changes produce an idle ring , that is a link that is connected to only three others and if too many changes are made in a small area these links will stand proud.
+<p> To form this type of contraction leave a gap of one link in the row between the blue rings in the figure above. On the next line add a link (shown in red) between these rings. This narrows the sleeve by two rows per contraction.
+<p> From the point at which you wish to make the expansion, add a partial row of links (coloured red in the figure below), then add a second row on top of this, as shown. Next, add a complete row of links. This will mean joining two rings on different rows (blue links A and B in the figure) with a "crossing link" (purple link C). This process leaves a single idle ring (coloured green). Another complete row of links is then added. (This will involve joining the links labelled C and D in the figure.) You can now continue to add rows as normal. The result will look crooked at first, but this will sort itself out once you've added enough rows.
+<p> Note that the "hole" row contraction can also be used in reverse to add rows, and the "knot" row expansion can be used for contractions. In the hauberk described below, the "knot" method is avoided in the sleeves, probably because the idle rings would tend to catch and be uncomfortable. The "hole" method is used instead: the small gaps this construction leaves would be unlikely to cause problems, as they are on the underside of the sleeves.
+<p> Regardless of the method you use, you can only add or subtract rows in pairs, for reasons that should be obvious!
+<p> The medieval armourer probably did not work from written patterns but rather from experience and a mental concept of how the finished article should fit. I recommend that you work in the same manner. First plan how and where you are going to shape the piece, then build it row by row, adding the required expansions and contractions in a logical fashion as the work progresses. Always remember to allow space for padding to be worn under your mail.
+<p> Please note that the pieces discussed in this guide are examples of existing armours. They are not the one true way to do things. Suggestions for further reading are given later.
+<p> This is a covering for the head and neck normally worn under a helmet. The following design is based upon a 14th Century example from the Royal Scottish Museum. The original was made from alternating rows of solid and riveted iron links, flat in section with an average thickness of 1mm and an exterior diameter around 11mm.
+<p> The coif is constructed in five stages (figure 1). To start build a rectangle of mail (A) that will fit around the back of your head from one side of the face to the other.
+<p> Extend this upwards and around (B, figure 2) so that it is the right size to cover the forehead. Allow two single expansions (F) for the temples if you wish.
+<p> Join the two sides (G) of the forehead together to produce the shape shown in figure 3. Continue to build upwards (C) but now start contracting to cover the skull.
+<p> The original coif has seven "lines" of contractions, that is contractions set one above the other, with each "line" having between 8 to 10 contractions in it (figure 4). Each line is generally built up with one contraction in every other row. You will obviously have to alter this number of contractions to suit the size of link you are using and the shape of your head. The skull is topped by a single ring (shown red) which will have to be slightly larger than the other links in the coif to enable it to fit.
+<p> Having built the top of the coif now start working downards (D) to form the chin and neck covering. Leave a slit one column wide in this section otherwise the coif will not fit over your head.
+<p> The slit is at the back and is closed by a leather thong when the coif is worn; it is needed because this design of coif is tight fitting around the face. Continue working down and around and join the two sides together around the chin. As the face tapers downwards there will be more links in the row at the top of the face opening than at the bottom. Figure 5 shows the shaping of the original; adjust to fit. Finally expand the coif downwards and out (E) to cover the shoulders. Spread the expansions so that they will not be too obvious. You will require around one expansion per row to give a good looking "flair".
+<p> The following design is taken from a short sleeved mail shirt number A2 in the Wallace collection. It has riveted iron links of half round section (the flat side facing outwards when worn), which are 0.99mm thick and have an external diameter of 10.3mm. The shirt is bordered at the neck by one row and at the wrist by two rows of brass links. The sleeves reach to the elbow and are 30.4cm long from armpit to end while the total length of the shirt is 71.1cm and its weight 8.84kg.
+<p> To construct a similar shirt work as follows: to start, make the part that fits around the neck. This is a rectangle of mail with a square hole in it large enough for the head to fit through (figure 1, below). Enlarge this piece until it covers the top of the arms and the front and back of the trunk to just under the armpits (figure 2).
+<p> As you are building this piece you will have to add a set of expansions over each shoulder. These run from the collar bone at the front to the top of the shoulder blades at the back (figure 3). They are there to form a bag enabling the shoulder to move without straining the links. The original suit has nine expansions in each set with one idle link in every other row. Next join the start of the sleeves around the arms and the front and back of the hauberk around the chest. The sleeves should be very wide at this point to allow plenty of room for movement. You will now have a hole at each armpit where the mail running around the body meets the bottom of the sleeves. Here you will notice that the rows are running at right angles to one another and should be joined as shown below.
+<p> Now start extending the sleeves. As you build towards the elbow you will wish to decrease the diameter of the sleeve for which you will require a number of "hole type" row contractions. The method of forming these has been described above.
+<p> Now return to the main trunk and start building downwards. As you build you will have to make further adjustments to fit the contours of the body (see figure). The complete list is as follows:
+<p> A
+<p> Two lines of expansions over the shoulders.
+<p> B
+<p> Row contractions to taper the sleeves.
+<p> C
+<p> Two lines of contractions under the shoulder blades to compensate for the expansions over the shoulders. Original suit has nine contractions per set with one contraction every four rows.
+<p> D
+<p> Contractions for waist. Wallace suit has two sets of four contractions; one at the front and the other at the rear.
+<p> E
+<p> Expansions for the hips. Original suit has four lines of these, two at the sides and one at the front and back. Each line has one expansion per four rows.
+<p> F
+<p> Two knot type row expansions per side to make the back of the suit four rows longer than the front.
+<p> This guide (like most material published on mail since the '50s) is based on the work of Martin Burgess, who spent a lot of time counting the links in mail garments row by row, marking idle rings and other evidence of tailoring and hence determining the logic behind their construction. The basics of mail contruction and the description of the Wallace shirt are to be found in The Mail Makers Technique and Further Research into the Construction of Mail Garments by E M Burgess in Antiquaries Journal XXXIII (1953) pages 48-55 and 193-202.
+<p> The shirt can be seen at the Wallace Collection at Manchester Place (just off Oxford Street) which is now the major location for armour in London as the Royal Armouries have moved the majority of their collection to Leeds. Go visit the Wallace (for one thing it's free)! They have published a catalogue in three parts which you can purchase from their book store and their curator, David Edge, has co-written a rather excellent book on armour, Arms and Armour of the Medieval Knight , by David Edge and John Miles Paddock, Bison Books (1988). The Wallace occasionally runs study days on arms and armour, and can arrange guided tours for small parties.
+<p> The coif is described in A 14th Century Helm in the Royal Scottish Museum Edinburgh by E M Burgess and H Russel Robinson, in Journal of the Arms and Armour Society VII No. 3 (September 1956). It is part of a collection, largely in storage, at Edinburgh.
+<p> The pieces described in this guide are just examples. For instances of alternative construction look at the coif in the Wallace Collection or read one of the other articles on mail in the Antiquaries Journal , such as A Habergeon of Westwale by William Reid and E Martin Burgess.
+<p> For a general description of the evolution of mail, read Claud Blaire's European Armour circa 1066 to 1700 published by Batsford.
+<p> Original research into mail is quite scarce. Sir Samuel Meyric published a famous work in Archaeologia vol. XIX ascribing various types of construction based on manuscript illustrations and effigies. Less well known is The Hauberk of Mail and its Conventional Representations by J. G. Waller in Archaeologia vol. LIX which starts off "...have led to many errors of interpretation, and especially in the articles by Sir Samuel Meyrick...". Basically, if you believe every illustration and carving to be an accurate representation, then you can prove just about anything you want about mail (including the rows running diagonally). If you consider them as just artists' interpretations then all the fancy forms of mail familiar to role playing gamers go out the window.
+<p> In the re-enactment world I have seen 6-in-1 mail which is a possible contender for 'double mail' as in "un hauberk chavez de double maille" from the Chronicle of Flanders : it has the 'lined row' appearance of a lot of 13/14th Century manuscript illustrations! I have also come across 'banded mail' that is mail with leather thong threaded through each row. Apparently this improves the mail's resistance to crushing blows. The only existing example of this type of construction of which I am aware is on the collar of a hauberk from Northern India.
+<p> Simon Metcalfe, of the Victoria and Albert Museum, is currently doing some interesting research into riveted mail. He should be publishing in this year's (1997) Royal Armouries year book.
+<p> Permission is given to print, copy or otherwise distribute this guide provided the following conditions are met: (i) this must not be done for profit, (ii) the guide must not be modified in any way, and (iii) this copyright notice must not be removed or altered.
+<p> About the Author Paul Blackwell lives in Berkshire, England. His interests include medieval armour, cooking and dancing. Paul de Gorey is a 14th Century soldier of fortune who has fought his way across much of France and the Holy Land. He was born in Gorey on the Island of Jersey. He is currently residing in the neighbouring Kingdom of Drachenwald .
+
