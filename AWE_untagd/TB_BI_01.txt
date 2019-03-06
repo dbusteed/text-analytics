@@ -1,0 +1,24 @@
+<Macro-register: AW>
+<Register: TB>
+<Topic/Discipline: BO>
+<Author(s): Harlow, W.M.; Harrar, E.S.; Hardin, J.W.; White, F.M.>
+<Source: T2K-SWAL>
+<Pages: 60->
+<Wd Ct: 524>
+<End Header>
+
+Before attempting to understand descriptions, comparison tables, or identification keys here or in manuals, or to  communicate with others about tree identification, one first has to become familiar with the morphology of vegetative  and reproductive parts and descriptive terminology for these parts-the necessary jargon of dendrology. The important terms are explained and illustrated here. For more complete illustrated glossaries, see Jones and Luchsinger < (1986)>,  Radford <(1986)>, Radford et al. <(1974)>, Smith <(1977)>, Walters and Keil <(1988)>, Woodland <(1991)>, or Zomiefer <(1994)>.  
+ 
+Sizes of Mature Trees. Sizes are very variable and influenced by local conditions of site or by geographical location.  For example, some species become shrubby or prostrate at the northern 
+limits of their range or at higher altitudes. Foresters commonly measure tree diameter at 4h ft above the ground (dbh, or diameter breast high). Diameter at this height is usually above the flaring base of the tree and is a measure of trunk size. On very large trees where butt swell  
+and flaring may extend several feet or more, dbh is measured 18 in. above the butt swell < (Avery and Burkhart, 1983)>.  
+ 
+VEGETATIVE MORPHOLOGY.  
+For tree identification, vegetative parts, including leaves, twigs, and bark, are very important mainly because they are more often present and accessible than reproductive parts.  
+ 
+Habit.  
+ 
+Trees growing in the open tend to develop characteristic shapes which may be typical of individual species or groups of  species (genera); this is well illustrated by the American elm, white oak, Lombardy poplar, or eastern white pine. In general, open-grown specimens have large crowns, which may reach nearly to the ground, and the clear trunk is short, With considerable taper. Under forest competition, the form is very different: the bole is long, more cylindrical, often  clear of branches for one-half or more of its length, and the crown small. Certain species, especially those which are extremely tolerant, resist crown restriction, but it may be said that 
+most trees develop typical shapes only in the open; such individuals, of course, are usually less desirable for lumber because of the short clear length and many side  branches which would appear as knots in the finished boards. Because of variation in various habitats, habit (growth form) is of limited use in identification. Yet, with experience, one can learn the shapes of the crown and pattern of branching of many species. Four primary habits are observable: excurrent, with a central dominant trunk and symmetrical, conical, or spire-like crown of many conifers and some hardwoods like yellow-poplar; deliquescent or decurrent, with repeatedly forked stems giving rise to a spreading form such as in oaks, maples, and most hard- wood trees; palmlike, with an un-branched trunk and leaves only in a top rosette, in palms and most cycads; yucca-type, either with a basal rosette of long stiff leaves and a central tall flowering stalk, or an irregularly branched thick trunk as in the treelike yuccas and cacti.  Within the deliquescent habit, there are a number of distinctive architectural forms depending on the relative dominance of the primary trunk, or secondary vertical (orthotropic) branches versus horizontal (plagiotropic) branches (i.e., whether height growth or crown spread is favored). 
+
+

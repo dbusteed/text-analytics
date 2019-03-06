@@ -1,0 +1,19 @@
+<Macro-register: AW>
+<Register: PS>
+<Topic/Discipline: History>
+<Author(s): Dahl>
+<Source:  On Democracy>
+<Pages: >
+<Wd Ct: 586>
+<End Header>
+
+The twenty-five centuries during which democracy has been discussed, debated, supported, attacked, ignored, established, practiced, destroyed, and then sometimes reestablished have not, it seems, produced agreement on some of the most fundamental questions about democracy. 
+    Ironically, the very fact that democracy has such a lengthy history has actually contributed to confusion and disagreement, for "democracy" has meant different things to different people at different times and places. Indeed, during long periods in human history democracy disappeared in practice, remaining barely alive as an idea or a memory among a precious few. Until only two centuries ago--let's say ten generations--history was very short on actual examples of democracies. Democracy was more a subject for philosophers to theorize about than an actual political system for people to adopt and practice. And even in the rare cases where a "democracy" or a "republic" actually existed, most adults were not entitled to participate in political life. 
+    Although in its most general sense democracy is ancient, the form of democracy I shall be mainly discussing in this book is a product of the twentieth century. Today we have come to assume that democracy must guarantee virtually every adult citizen the fight to vote. Yet until about four generations ago--around 1918, or the end of the First World War--in every independent democracy or republic that had ever existed up to then, a good half of all adults had always been excluded from the full rights of citizenship. These were, of course, women. 
+    Here, then, is an arresting thought: if we accept universal adult suffrage as a requirement of democracy, there would be some persons in practically every democratic country who would be older than their democratic system of government. Democracy in our modern sense may not be exactly youthful, but it is hardly ancient. 
+    You might object at once: Wasn't the United States a democracy from the American Revolution onward--a "democracy in a republic" as Abraham Lincoln called it? Didn't the illustrious French writer Alexis de Tocqueville, after visiting the United States in the 1830s, call his famous work Democracy in America? And didn't the Athenians call their system a democracy in the fifth century B.C.E.? What was the Roman republic, if not some kind of democracy? If "democracy" has meant different things at different times, how can we possibly agree on what it means today? 
+    Once started, you might persist: Why is democracy desirable anyway? And just how democratic is "democracy" in countries that we call democracies today: the United States, Britain, France, Norway, Australia, and many others? Further, is it possible to explain why these countries are "democratic" and many others are not? The questions could go on and on. 
+    The answer to the question in the title of this chapter, then, is pretty dear. If you are interested in searching for answers to some of the most basic questions about democracy, a guide can help. 
+    Of course, during this short tour you won't find answers to all the questions you might like to ask. To keep our journey relatively brief and manageable, we shall have to bypass innumerable paths that you might feel should be explored. They probably should be, and I hope that by the end of our tour you will undertake to explore them on your own. To help you do so, at the end of the book I'll provide a brief list of relevant works for further reading on your part. 
+    Our journey begins at the beginning: the origins of democracy. 
+

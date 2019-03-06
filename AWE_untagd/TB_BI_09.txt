@@ -1,0 +1,17 @@
+<Register: TB>
+<Topic/Discipline: BI>
+<Author(s): Gaston, Spicer>
+<Source: ebrary>
+<Pages: 10>
+<Wd Ct: 540>
+<End Header>
+
+1.4.1 Number and difference 
+
+For many purposes the concept of biodiversity is useful in its own right, as it can provide a valuable shorthand expression for what is a very complex phenomenon. However, for more general applicability, one needs to be able to measure biodiversity  to quantify it in some way. Only then can one address such fundamental questions as how biodiversity has changed through time, where it occurs, and how it can be maintained. 
+
+From the definition alone, it is clear that no single measure of biodiversity will be adequate. Indeed, given its great complexity, it would be foolish to believe that the variety of life in an area, however small or large that area might be, could be captured in a single number. Measures of diversity in general, and not solely of biodiversity, are commonly found in basic ecological texts. Essentially, many of these measures have two components: (i) the number of entities; and (ii) the degree of difference (dissimilarity) between those entities. For example, species richness (the number of species) places emphasis on the number of elements. But, weighting each of these species by, say, the numbers of individuals, would be one way of incorporating a metric of the differences between them into a measure (Fig. 1.3). In the case of biodiversity the entities are one of its elements. 
+
+In measuring biodiversity, the breadth of ways in which differences can be expressed is potentially infinite. Think, for example, of the ways in which one could discriminate between just two species. These might include facets of their biochemistry, biogeography, evolutionary history, genetics, morphology or physiology, or perhaps the ecological role they play in a particular community (shredder, decomposer, predator, etc.) (cf. Table 1.2). As a result of the variety of elements of biodiversity, and of differences between them, there is no single all-embracing measure of biodiversity  nor will there ever be one! This means that it is impossible to state categorically what is the biodiversity of an area or of a group of organisms. Instead, only measures of certain components can be obtained, and even then such measures are only appropriate for restricted purposes. 
+
+Whilst one may feel uncomfortable with this notion, it is important to realize that it also applies, though perhaps not so obviously, in making many other concepts operational. For example, the topic of complex systems is attracting wide interest across a spectrum of fields of research (including physics), but there is no single measure of complexity (or simplicity for that matter). Instead there are many measures, none necessarily any more correct than the others, and which quantify rather different components of complexity. To take an example closer to home, the concept of body size is utilized widely in biology. For example, one can recognize that relationships exist between body size and latitude (the biggest butterflies are found in the tropics) or between body size and abundance (elephants are rarer than many species of mice). And yet there is no such thing as the body size of an organism. Rather, size can be (and is) expressed in a variety of ways, none of which has any obvious logical precedence. Consider two individuals similar in body mass, but differing in linear dimensions. Which is the larger?

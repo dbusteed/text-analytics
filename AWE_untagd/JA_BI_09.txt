@@ -1,0 +1,60 @@
+<Macro-register: AW>
+<Register: JA>
+<Topic/Discipline: Biology>
+<Author(s): Tachi>
+<Source: Journal of Natural History>
+<Pages: >
+<Wd Ct: 575>
+<End Header>
+
+Introduction
+The larvae of tachinid flies are endoparasitoids of insects and other arthropods.
+Host data for tachinid parasitoids have been compiled for much of the world,
+primarily by Arnaud (1978: North America), Crosskey (1973: Australian Region,
+1976: Oriental Region), Guimarães (1977: South America), Herting (1960: Western
+Palearctic Region), Tschorsnig and Herting (1994: Middle Europe) and Shima (2006:
+Japan). These data show that tachinids exploit a broad diversity of insect hosts and
+that some groups use a taxonomically restrictive range of hosts (e.g. most members of
+the subfamily Phasiinae parasitize only Heteroptera). From published records, species
+of the genus Exorista Meigen are known to parasitize hosts belonging to the orders
+Lepidoptera, Hymenoptera (sawflies), Mantodea and Orthoptera.
+Exorista is one of the largest genera in the tribe Exoristini (subfamily Exoristinae),
+with approximately 150 species worldwide. Members of this genus are classified
+into eight subgenera (Herting and Dely-Draskovits 1993). Tachi and Shima (2008)
+inferred the phylogenetic relationships of these subgenera from morphological characters.
+In the study, five subgenera, Adenia Robineau-Desvoidy, Podotachina Brauer
+and Bergenstamm, Ptilotachina Brauer and Bergenstamm, Exoristella Mesnil and Exorista, formed a distinct clade, whereas Spixomyia Crosskey was non-monophyletic
+and Thrycolyga Rondani was of uncertain systematic position.
+Three new species of subgenus Spixomyia from Malaysia and Indonesia are
+described below and redescriptions of E. doddi (Curran) and E. ladelli (Baranov) are
+given. The diagnostic characters of the male postabdomens of these species are illustrated.
+A preliminary key to the 16 species of Spixomyia known from East Asia and the
+Oriental Region is also provided. Morphological data from these species are combined
+with data from Tachi and Shima (2008) and analysed phylogenetically. The resultant
+tree is used to infer the evolutionary pattern of host use in the genus Exorista.
+Materials and methods
+Type and voucher materials are from the following collections: Biosystematics
+Laboratory, Kyushu University (BLKU); Deutsches Entomologisches Institut,
+Eberswalde, Germany (DEI); Institute for Tropical Biology and Conservation,
+Universiti Malaysia Sabah, Malaysia (ITBC); Institute of Zoology, Academia Sinica,
+Beijing, China (IZAS); Museum Zoologicum Bogoriense, Indonesia (MZB); and
+Natural History Museum, London, UK (NHM).
+The width of the vertex was measured between the inner margins of the compound
+eyes in comparison with the width of the head in dorsal view. The eye height and
+the width of the gena were measured in lateral view. The width of the parafacial at
+mid height was measured in the horizontal position. The pedicel and first flagellomere
+were measured in lateral view, and the width of the first flagellomere was measured at
+the widest point. Terminology used to describe the adult structures follows McAlpine
+(1981), except for that of the male postabdomen, which follows Sinclair (2000). The phylogenetic analysis was based on the morphological characters used by
+Tachi and Shima (2008). Thirty morphological characters (Appendix 1) were equally
+weighted and treated as unordered. Unknown character states were coded as “?”.
+Five species examined in this paper were added to the terminal taxa of the previous
+data matrix (Table 1). The nexus file analysed in this study is available from
+Supplementary material. Winthemia venusta (Meigen) (tribe Winthemiini) was used
+for rooting the generated trees, because molecular data suggest that the Winthemiini
+is the probable sister group to the remaining groups within the subfamily Exoristinae
+(Tachi and Shima 2010). Maximum parsimony analysis was performed using PAUP
+4.0b10 (Swofford 2002). A heuristic search with random stepwise addition was conducted,
+using a random addition sequence of taxa, tree bisection reconnection branch
+swapping and 100 random replications. 
+

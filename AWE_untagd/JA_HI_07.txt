@@ -1,0 +1,55 @@
+<Macro-register: AW>
+<Register: JA>
+<Topic/Discipline: History>
+<Author(s): Rosenberg>
+<Source: American Historical Review>
+<Pages: >
+<Wd Ct: 563>
+<End Header>
+
+When the statistical experts at the League of Nations asked for random groups
+of subjects living in areas with rampant tuberculosis who could be monitored over
+a period of years, Algeria was the only place in the French Empire where it was
+practical to undertake such work. The Pasteur Institute provided vaccines and laboratory
+services, as local branches did elsewhere. Leading Pasteur scientists worked
+with the medical faculty in Algiers: they helped train doctors and collaborated in
+public health campaigns. Those ties enabled Calmette to enlist the colonial government’s
+help where others, offering vastly greater resources, had failed. The director
+of public health services in Algeria, the indefatigable Lucien Raynaud, sought
+out the support of the Rockefeller Foundation in 1923 for his chronically underfunded
+office. The director of the Rockefeller Foundation’s International Health
+Board in New York, Frederick Russell, showed immediate interest and dispatched
+his deputy, Selskar Gunn, to Algeria the next fall. Gunn spent three weeks in Algeria
+and returned an enthusiastic advocate.80 Raynaud clearly made a good impression.
+Richard Pearce, who accompanied Gunn, noted in his diary: “Raynaud in public
+health is a corker—splendid administrator and excellent grasp of problems, but he
+finds Government slow to furnish funds for anything not already on paper.”81 This
+auspicious start soon collapsed, when the new Socialist governor-general of Algeria,
+Maurice Violette, proved wary of outside influences and dissuaded Raynaud from
+working with the Americans.82 He could not, however, turn down Calmette’s advances.
+With the help of the French government in Algeria, Calmette took a haphazard
+vaccine program like the ones in Indochina, in Senegal, and on the French
+mainland and, by 1935, turned it into a random trial with a control group that continued
+into the 1950s.
+UNLIKE THE CADASTRAL SURVEYS and censuses carried out by the British Raj after the
+1857 mutiny or the state-sponsored urban reform projects in Morocco following
+World War I, the Algiers BCG trial was run by a para-public research institute. If
+it took advantage of inequalities wrought by the French presence in Algeria, this was no “high modernist” attempt to mark boundaries or remake the world.83 It was a
+defensive effort to respond to scientific critics and would-be regulators.
+The Pasteur Institute in Algiers had created a lab to produce BCG before controversy
+erupted in Europe, around the same time Calmette gave his work-in-progress
+lecture at the Academy of Medicine (1924). For the first few years, the local
+branch of the Pasteur Institute gave samples to doctors and veterinarians who requested
+them, and began recording their own efforts at shelters and dispensaries in
+several cities. In the wake of the public controversies of 1927–1928 and the Lu¨beck
+catastrophe, Yves Biraud, director of epidemiology at the League of Nations, joined
+the team in Algiers. Biraud had worked with Calmette before, reviewing and helping
+to present the initial statistical evidence that Calmette published in 1927 to buttress
+his laboratory work. Now the microbiologist called in Biraud, the statistician, in the
+initial stages to help design the study.84
+Under Biraud’s watch, the Algiers team limited their purview. Instead of working
+with dispensaries wherever they could find them, they concentrated on the Kasbah,
+with a population density of more than 2,000 people per hectare.85 The authors
+asserted that focusing on a single poor neighborhood reduced the possibility of selection
+bias. All of the families there endured the same grinding poverty. 
+

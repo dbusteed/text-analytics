@@ -1,0 +1,19 @@
+<Register: TB>
+<Topic/Discipline: BI>
+<Author(s): Dickison>
+<Source: ebrary>
+<Pages: 464>
+<Wd Ct: 543>
+<End Header>
+
+MECHANICAL PROPERTIES OF WOOD 
+
+The mechanical properties of wood are measurable expressions that result from applied forces. Strength is the characteristic of wood that enables it to sustain different primary stresses without changing shape or breaking. Strength is a complex wood characteristic that is determined by several variables, some of which are related to the rate at which the tree grew. Exposing wood to various salts (such as those in sea water) can significantly increase certain strength properties. 
+
+Because different categories of force can act upon wood, woods exhibit different types of strength characteristics. Forces acting upon wood may result in changes to wood tissue without destroying the cohesion of cells; this resiliency is measured as indicated by a wood's elasticity, flexibility, and toughness. However, external forces can produce changes that are accompanied by the destruction of cell cohesion. When this occurs, a fracture is the likely result. When stresses in wood reach sufficiently high levels, deformation or strain occurs. Two types of deformation are significant: (1) load or external stress, such as those encountered by a beam during bending or by a column under axial load, and (2) internal stress, such as that caused by the effects of moisture and temperature gradients. Stresses may develop while the tree is growing or after the lumber has been cut. Deformation can further be divided into changes that are instantaneous or delayed and those that are recoverable or irrecoverable. To fully understand the properties of wood and its behavior under the influence of applied forces, we .must investigate its mechanical behavior across the• entire scale of units down to the cell wall and the molecular level. 
+
+Resistance to applied forces is 'a function of the total amount and proportion of cell wall material (cellulose, lignin) in a wood sample and the amount of extractives in the cell lumen. Both weight and strength can vary in different parts of the same tree trunk from center to periphery, and also at different ages of growth. The ability of wood to resist stress also is closely related to the duration of the stress and the presence of strength-reducing defects such as knots, checks, and splits. Reaction wood also differs significantly from normal wood in its deformation characteristics under both short and long term stresses. A principal objective of wood deformation studies is to predict the mechanical characteristics of different timbers from their structural and molecular properties, and therefore to be able to predict both the normal and the catastrophic failures of structures composed of wood. It is possible to make certain predictions about wood properties from careful anatomical examination.
+
+Stiffness and Strength 
+
+The degree to which a piece of wood will resist bending and other distortions of form, or being bent by a weight or load, is a measure of its stiffness. If the force is removed and the board straightens, it is said to show elasticity. The stiffness of wood is usually characterized as the "modulus (measure) of elasticity" and is related to the breadth, depth, and length of a piece of wood in addition to its cellular structure. Stiffness decreases geometrically as length increases so that doubling the length of a board reduces its stiffness eightfold. Doubling the width, on the other hand, doubles the stiffness. 

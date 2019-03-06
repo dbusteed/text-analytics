@@ -1,0 +1,58 @@
+<Macro-register: AW>
+<Register: JA>
+<Topic/Discipline: History>
+<Author(s): Downs>
+<Source: American Historical Review>
+<Pages: >
+<Wd Ct: 587>
+<End Header>
+
+WHILE HISTORIANS TYPICALLY INTERPRET the disputed 1876 U.S. presidential election
+in terms of its impact upon postwar Reconstruction or its allegedly fraudulent outcome,
+many contemporaries instead saw the crisis as proof of the nation’s fundamental
+fragility. They worried that the line between violence and politics—obscured
+by the Civil War—might evaporate completely in the heat of a contested presidency.
+With the disintegration of democratic institutions and habits, the U.S. might fall into
+a spiral of civil wars. One anxious army general feared that the country might soon
+collapse like “Mexico and the Central American countries” unless party leaders
+tamped down the conflict. This turn to Mexican analogies to both describe anxieties
+about civil war and chart a path to stabilization was not an anomaly but part of a
+widespread, mostly forgotten discourse in the 1870s United States. The shorthand
+terms “Mexicanization” and “Mexicanized,” born during overlapping 1860s wars,
+spread rapidly after the disputed 1876 election, appearing inmany hundreds of newspaper
+articles, in private correspondence, and on the floor of Congress. Soon-to-be
+president Rutherford B. Hayes grimly disavowed the possibility of Mexicanization,
+a Harper’s Weekly cartoon mocked the “Scarecrow” of “Mexicanism,” and The Nation
+made a solemn observation: “we hear every day strong expressions of a desire, and
+also of a determination, that this government shall not be ‘Mexicanized.’ ” Legal
+scholar John Codman Hurd, in his 1881 political handbook, defined a “Mexicanization
+of institutions” in which “all party contests have the character of civil war”:
+“The same thing would occur in this country,” he wrote, “if a party, on the theory
+of a ‘war of ideas,’ should attempt to retain the control of the general Government
+against the popular vote.”1 On first glance, this discourse makes little sense. Not just U.S. narratives but
+much of modern history rests upon presumptions of a United States that was stable,
+analogous to Europe, and predatory toward Latin America. A discourse that used
+open-ended analogies to Mexico to explore the nation’s fragility fits none of these
+frameworks. Furthermore, the U.S. did not, of course, sink into a cycle of civil wars
+in the 1870s. Examining the Mexicanization discourse need not, however, invite attempts
+at counter-history; instead, analyzing the analogy makes aspects of the postwar
+U.S. newly visible. By reading the period through the lens of Mexicanization,
+historians can denaturalize the United States’ process of stabilization and consider
+new ways of thinking about state fragility, stability, and the practice of transnational
+history. While U.S. historians have written voluminously about the postwar period,
+they have rarely focused on the country’s path toward stabilization. The failure to
+ask why the end of the Civil War meant the end of all civil wars in the United States
+stems in part from the much-lamented, dissipating tendency of U.S. historians to
+work within exceptionalist frameworks, in part from the undeniable significance of
+emancipation, Reconstruction, and sectional reconciliation in shaping the view of
+the postwar era.
+But a tendency to discount stabilization extends beyond historians of the United
+States. Many scholars emphasize crisis and conflict even in periods of relative stability,
+driven by the narrative power of rupture, the association of stability with ahistorical
+stasis, and the negative example of triumphant national histories. While the
+binary of stability and instability can indeed produce flat, decontextualized analysis,
+stabilization—the dynamic, manmade process by which states emerge from crises—
+“is as challenging a historical problem as revolution,” argued Charles S. Maier.2
+Nowhere are these opportunities more evident than in the famed debate about stability
+after the English Civil War. 
+

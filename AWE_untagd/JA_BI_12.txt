@@ -1,0 +1,58 @@
+<Macro-register: AW>
+<Register: JA>
+<Topic/Discipline: Biology>
+<Author(s): Cebeci, Ozdikmen and Turgut>
+<Source: Journal of Natural History>
+<Pages: >
+<Wd Ct: 581>
+<End Header>
+
+Remarks
+If Sama (2002) was correct, this species must be extremely rare. This species is
+polyphagous in deciduous trees (especially Quercus, also in Carpinus, Aesculus, Fagus,
+Castanea, Ulmus, Malus, Betula). Larvae feed subcortically in dead branches and
+stems (Svacha and Danilevsky 1987; Bense 1995; Sama 2002). All records, including
+the present record, from Turkey show the species probably is distributed across the
+whole of northern Turkey.
+Phymatodes Mulsant, 1839
+The genus is represented in Turkey by four species belonging to three subgenera: the
+nominotypical subgenus, Melasmetus Reitter, 1913 and Phymatodellus Reitter, 1913.
+P. (Melasmetus) femoralis (Menetries, 1832) has been recorded in Turkey only from
+Istanbul province in the north-west, as P. femoralis demelti Heyrovski, 1961. So the
+species is represented only by this subspecies in Turkey now. The nominotypical subspecies,
+which was described from Caucasus, is distributed only in Caucasus and Iran.
+P. (s. str.) testaceus (Linnaeus, 1758) has been reported by various authors from different
+localities in Turkey as cited in Özdikmen 2007, 2008. It is distributed rather widely
+in Turkey. P. (Phymatodellus) magnanii Sama and Rapuzzi, 1999 is known only from
+the type localities of Antalya and ?Içel provinces. So it is distributed only in southern
+and south-western Turkey. P. (Phymatodellus) rufipes (Fabricius, 1777) has been
+reported in Turkey by a few authors, from various localities in both the north and
+south. It is represented by two subspecies in Turkey: P. rufipes rufipes in northern
+Turkey and P. rufipes syriacum (Pic, 1891) in southern Turkey.
+Zoogeographically, P. (M.) femoralis has SW-Asiatic (Anatolo-Caucasian +Irano-
+Caucasian + Irano-Anatolian), P. (s. str.) testaceus has Holaractic, P. (Phymatodellus)
+magnanii has Anatolian and P. (Phymatodellus) rufipes has European chorotype. Poecilium Fairmaire, 1864
+This genus is represented in Turkey by four species: P. alni (Linnaeus, 1767), P.
+fasciatum (Villers, 1789), P. lividum (Rossi, 1794) and P. pusillum (Fabricius, 1787).
+P. alni has been reported by various authors from different localities in Turkey as
+cited in Özdikmen 2007. It is probably distributed rather widely in Turkey, and is
+represented there by two subspecies. The nominotypical subspecies is known from
+Spain to European Russia and Kazakhstan (including European Turkey). P. alni
+pici (Aurivillius, 1912) occurs only in south European Russia, Caucasus (Georgia,
+Armenia and Azerbaijan) and northern Anatolian Turkey. P. alni pici was not mentioned
+by Sama and Löbl (2010) for Turkey. P. fasciatum (Villers, 1789) has not been
+recorded from Turkey from any exact locality, although Sama (2002) and Sama and
+Löbl (2010) mentioned that the species occurs in southern Turkey. P. lividum (Rossi,
+1794) has been reported by a few authors from ?Istanbul, Sakarya and ?Içel provinces
+as cited in Özdikmen 2008, so it is probably distributed rather widely in the western
+half of Turkey. P. pusillum (Fabricius, 1787) has been reported by a few authors from
+?Istanbul and Konya provinces, so it is probably also distributed rather widely in the
+western half of Turkey. It is represented by the nominotypical subspecies in European
+Turkey and P. pusillum rufipenne (Starck, 1889) in Anatolian Turkey. However, Sama
+and Löbl (2010) did not mention the species for Turkey.
+Zoogeographically, P. alni has W-Palaearctic, P. fasciatum has S-European,
+P. lividum has Mediterranean and P. pusillum has European chorotype. Lioderina Ganglbauer, 1886
+This monotypic genus is also represented in Turkey. L. linearis (Hampe, 1871) has
+until now been reported with an exact locality in Turkey only by Adlbauer (1988)
+from Ni?gde province. So it is probably distributed in the western half of Turkey.
+Zoogeographically, L. linearis has SE-European chorotype.

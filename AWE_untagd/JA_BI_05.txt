@@ -1,0 +1,25 @@
+<Macro-register: AW>
+<Register: JA>
+<Topic/Discipline: Biology>
+<Author(s): Jesper Danielsson , Oleg Reva and Johan Meijer>
+<Source: Microbial Ecology>
+<Pages: >
+<Wd Ct: 526>
+<End Header>
+
+Materials and Methods
+Bacillus Spore Solution
+Bacillus strains: UCMB-5715T, UCMB-5033, UCMB-5036, and UCMB-5113, were all grown in Luria-Bertani (LB) media at 28°C with agitation for three days to allow for production of spores. The bacterial cultures were then heat treated at 75°C for 10 min to select for Bacillus spores and to kill possible contaminants. The spore concentration was determined by viable count analysis of an aliquot on LB plates and the stock spore solution was kept refrigerated until use. 
+
+Seed Treatment
+Oilseed rape (B. napus, cv. Westar) seeds were surface sterilized for 20 min in 20% sodium hypochlorite followed by a brief rinse with 50% methanol. The seeds were mixed with each Bacillus spore solutions with a concentration of 107 spores ml-1. LB or water served as control but were not different from each other. The seeds were then left on agitation for two h until planting in soil. Standard soil (K-jord Weibulls) was sterilized in an autoclave for 30 min, and after allowing the soil to cool, the process was repeated. 
+
+Effects of Bacillus Inoculation on Plant Development
+Sterile soil was put into 200 11?×?11?×?5 cm pots. One seed from separate treatments was put into each pot with a forceps. The pots were then arranged into five trays for every treatment, eight pots on each tray, and grown in a greenhouse using a 16/8 h photoperiod with minimum temperature settings at 22/18°C. All pots were given a similar amount of water to exclude differences between treatments depending on water status. The plants were observed continuously to identify any phenotypic differences between treatments. The characteristics that were measured included germination efficiency, number of true leaves developed at week two, three, and four, how many plants that were flowering at week three and four, and how many plants that survived seed development. Plants were harvested and the seeds were pooled for each treatment and were weighted. The germination rate of the harvested seeds was tested by planting 40 seeds from each treatment into sterile soil. 
+
+Plant Growth for Pathogen Studies
+One seed was put into each pot (8?×?8?×?5 cm pots with sterile soil) with forceps. The pots were then arranged into different trays depending on treatment. The plants were grown in a growth chamber under 18/6 h photoperiod at 22/18°C using fluorescent light of approximately 200 µmol m-2 s-1. All pots received similar amounts of water to exclude differences between treatments depending on water availability. 
+
+Preparation of Fungal Spores
+The fungal strains, A. brassicae (980:3), V. longisporum (Vd), B. cinerea (30158), and L. maculans (1245) were grown on potato dextrose agar (PDA) plates (Sigma Chemical Co., St Louis, MI) in a growth chamber (16/8 h photoperiod at 21/16°C) for a month or until spores had been produced. The plates were harvested by addition of sterile water to the plates followed by scraping the agar surface with a pipette tip to release the spores. This procedure was repeated once, and the spores were pooled and filtered through miracloth. The concentration of spores was measured with a Bürkner chamber, and the final concentration was adjusted to 107 spores ml-1. The spore solution was stored at 4°C until use.
+

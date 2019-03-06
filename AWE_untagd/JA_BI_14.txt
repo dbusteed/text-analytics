@@ -1,0 +1,19 @@
+<Macro-register: AW>
+<Register: JA>
+<Topic/Discipline: Biology>
+<Author(s): Kalscheur, Rojas, Peterson, Kelly, and Gray>
+<Source: Microbial Ecology>
+<Pages: >
+<Wd Ct: 577>
+<End Header>
+
+Methods
+Algal Exudates and Stream Water Organic Carbon
+Triplicate axenic algal batch cultures were established for five diatoms [Achnanthidium minutissimum (Kütz.) Czarnecki (AM), Achnanthidium lanceolatum Bréb. ex Kütz. (AL), Amphora pediculus (Kütz.) Grun. (AP), Gomphonema parvulum (Kütz.) Kütz. (GP), Nitzschia amphibian Grun. (NA)] and two green algae [Scenedesmus armatus (R. Chodat) R. Chodat (SA) and Stigeoclonium tenue (C. Agardh) Kütz. (ST)] from algal inocula obtained from The Culture Collection of Algae at the University of Texas at Austin. These algal species were selected based upon previous studies and on our field and artificial stream observations of their potential influence on denitrification [27]. Cultures were grown in 250 ml Erlenmeyer flasks filled with 150 ml of Chu’s Medium No. 10 and capped with a sponge and stainless steel cap. Growth was monitored by cell counts, and when stationary phase growth was observed, the extracellular organics were separated from the cells by filtering (pre-rinsed 0.45 mm Tuffryn® membrane filters).
+The effects of organic carbon from the axenic algal cultures were also compared to the dissolved organic carbon isolated from two stream waters with contrasting anthropogenic influences. Water samples were collected on August 4, 2009 from two streams in DuPage County, IL, one within a Restored Prairie (RP) site that did not receive significant anthropogenic inputs and one located downstream of a wastewater treatment plant effluent release (DER). These sites are described in detail in [28, 35]. Nearly 100 % of the stream flow at the DER site on this date can be attributed to the Wheaton Sanitary District Plant’s effluent discharge as calculated from field measurements and plant operating data. Stream waters were collected in acid-washed amber glass jugs, filtered (pre-rinsed 0.45 µm Tuffryn® membrane filters) and stored at 4 °C.
+The dissolved organic carbon concentration in the filtered cultures and stream waters was measured by high temperature catalytic oxidation (APHA Standard Method 5310 B; Dohrmann Apollo 9000). Each organic carbon sample was then split, with a portion reserved for organics analysis via Py-GC/MS and a portion used as the carbon source in the bacterial incubations.
+Bacterial Inoculum
+A mixed bacterial consortia was collected from periphyton attached to rocks in three streams with varying anthropogenic influences, including the RP and DER sites mentioned above and a site on the E. Branch DuPage River that had upstream input of wastewater treatment plant effluent. Periphyton was removed from rocks by scraping with a stiff-bristle toothbrush into stream water. The collected periphyton from all three sites was homogenized and filtered through a 5 µm Teflon filter (Micron Separations Inc.) with the filtrate containing the bacterial consortia preserved at -85 °C in a 15 % (v/v) glycerol solution. Initial experiments indicated insufficient bacterial mass for the measurement of denitrification. Therefore, prior to the start of the incubations with different carbon substrates, the bacteria were pre-fed M9 Minimal Media [39] with glucose (G) as the carbon source until exponential growth was observed. The bacteria were then washed ten times in M9 Minimal Media without a carbon source.
+Incubations
+Subsamples of the bacterial inoculum (IN) were incubated for 14 days with equal amounts (1 mg) of the different carbon substrates from seven algae and two stream waters. A G incubation was also included as a control. Each incubation was done in duplicate. Carbon substrates included G, carbon isolated from one of the monoalgal cultures (AL, AM, AP, GP, NA, SA, or ST) or carbon isolated from one of the two field sites (DER or RP). 
+

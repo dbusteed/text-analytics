@@ -1,0 +1,23 @@
+<Macro-register: AW>
+<Register: JA>
+<Topic/Discipline: Biology>
+<Author(s): Wang and McNiven>
+<Source: Journal of Cell Biology>
+<Pages: >
+<Wd Ct: 570>
+<End Header>
+
+Materials and methods
+Antibodies and reagents
+MT1-MMP antibody (MAB3328) was purchased from Millipore. The antibodies against FAK, paxillin, and p130Cas were from BD. Anti-Src antibody (sc-18) and anti-GST (sc-138) were purchased from Santa Cruz Biotechnology, Inc. The phospho-Src family antibody pY416 was from Cell Signaling Technology, the monoclonal vinculin antibody was from Sigma-Aldrich, anti-Flag antibody from Cell Signaling Technology, and anti-GFP antibody from Roche. Goat anti–rabbit or goat anti–mouse secondary antibodies conjugated to either Alexa 488 or 594 were from Invitrogen. BB-94 was purchased from Tocris Bioscience. All the other chemicals and reagents, unless otherwise stated, were from Sigma-Aldrich.
+Cell culture
+Pancreatic cancer cell lines BxPC3, Panc 04.03 and PANC-1 cells were purchased from American Type Culture Collection (Manassas, VA). HT1080 cells were a gift from Dr. Zhenkun Lou (Mayo Clinic, Rochester, MN). BxPC-3 and Panc04.03 cells were maintained in RPMI plus 10% fetal bovine serum, and PANC-1 and HT1080 cells were maintained in DME plus 10% fetal bovine serum (Invitrogen), and all cell lines had 100 U/ml penicillin and 100 µg/ml streptomycin in 5% CO2 at 37°C. Cells were cultured in T-75 flasks (Thermo Fisher Scientific).
+Plasmid, siRNA, and transfection
+MT1-MMP-GFP and MT1-mCherry constructs were gifts from Drs. Roberto Buccione (Consorzio Mario Negri Sud, Chieti, Italy) and Philippe Chavrier (Institut Curie, Paris, France). FAK was amplified from a rat brain cDNA library and inserted into pEGFP-C1 or SFB vector (pIRES2-EGFP with S peptide, Flag tag, and streptavidin-binding peptide) as described previously (Wang et al., 2011). p130Cas constructs were subcloned from pEBG-p130cas (Addgene). Constructs were transfected with Lipofectamine 2000 (Invitrogen) according to the manufacturer’s instructions. siRNAs targeting MT1-MMP (D-004145-02), FAK (M-003146-02), and p130Cas (M-020465-01) were purchased from Thermo Fisher Scientific and transfected with Lipofectamine RNAiMAX (Invitrogen) following the standard protocol. Knockdown and reexpression experiments were performed as follows: two rounds of siRNA transfection in a 24-h interval, and 24 h after the second transfection, cells were rescued with indicated constructs.
+Immunoprecipitation and Western blotting
+Cells were lysed with NETN buffer (0.5% NP-40, 150 mM NaCl, 50 mM Tris, and 1 mM EDTA) at 4°C. Cell debris was removed by centrifugation, and the supernatant was incubated with 5 µg of the appropriate antibody and protein A beads at 4°C for 4 h. For the S protein IP, cell lysate was incubated with S protein Agarose (EMD) at 4°C for 2 h. The pellet was washed with NETN buffer three times, eluted in Laemmli sample buffer, and analyzed by Western blot as described previously (Wang et al., 2011).
+Fluorescence microscopy
+Cells were grown on 22-mm coverslips for transfections and immunocytochemistry. Cells were fixed in formaldehyde and processed as described previously (Wang et al., 2011). Images were taken with an AcioObserver microscope (Carl Zeiss) and Orca II camera (Hamamatsu Photonics), analyzed with iVision software (BioVision Technologies) and processed with Adobe Photoshop (Wang et al., 2011).
+Gelatin coating and degradation assay
+Acid-washed coverslips were first coated with 50 mg/ml poly-l-lysine for 20 min at room temperature, and then fixed with 0.5% glutaraldehyde for 15 min. Gelatin matrix was prepared by mixing 0.2% gelatin and Oregon Green gelatin (Invitrogen) at an 8:1 ratio. After coating for 10 min, coverslips were washed with PBS and quenched with 5 mg/ml sodium borohydride for 15 min followed by extensive wash. For degradation assay, cell suspensions were plated on top of these coated coverslips for designated amounts of time, and subjected to IF analysis as described above. 
+

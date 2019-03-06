@@ -1,0 +1,51 @@
+<Macro-register: AW>
+<Register: JA>
+<Topic/Discipline: Biology>
+<Author(s): Ortuno and Gilgado>
+<Source: Journal of Natural History>
+<Pages: >
+<Wd Ct: 544>
+<End Header>
+
+The hydrochory dispersal hypothesis
+The species of the genus Typhlocharis inhabit very humid endogean environments and
+are often found on river banks and at stream headwaters. It is known that these loworder
+streams have an irregular flow pattern throughout the year because they are
+strongly influenced by local precipitation (Junk et al. 1989). Sometimes (Figure 6), flow can increase and drag portions of ground and population effectives (t1) of
+Typhlocharis. These would arrive at another place, where they would establish a new
+population (t2). They could also achieve the lower reaches of a new stream (t2
+_), and
+by simple “brownoid motion” (bm) (erratic movement due to the autonomy of movement
+of living beings, whose theoretical curve is consistent with that of a “Brownian
+motion”, the latter produced by the collision of molecules in a fluid medium; Vendryès
+1942; Rapoport 1975) could disperse to the headwater (t3). If the headwater reaches a
+watershed, those Typhlocharis could arrive at a new slope (t4) and so colonize a new
+drainage basin where further spreading (t5) could occur. The new population would
+have two features that would allow differentiation: (i) isolation (many miles from the
+original) and (ii) they would have been constituted by few individuals (founder effect,
+Mayr (1963), which may be even more extreme). This would promote rapid allopatric
+speciation in response to a random dispersion model and indigenation (see Zunino
+and Zullini 2003: 21).
+If the radiation of Typhlocharis species started in the Oligocene–Miocene period,
+its dispersal by hydrochory would explain the notable distribution of the genus from
+north of the Iberian Peninsula to Tunisia. There is considerable evidence to support
+this hypothesis. First, the spaces they inhabit may be flooded for long periods of
+time, conditions to which they adapt well. This peculiarity was underlined by Ortuño
+(2000) in relation to Typhlocharis bazi Ortuño, 2000 and its amphibious lifestyle.
+Experimentation with some specimens showed that they could survive completely submerged
+in water for a period of up to 30 days under controlled conditions. This finding
+is surprising, as Andersen (1968) reported shorter survival time for adults of 11 species
+of riparian beetles in immersion conditions. No species survived beyond 4 days, except
+some species of fossorial coleoptera such as Clivina fossor L. 1758 and Bledius longulus
+Erichson 1839, which lived for 7–12 days buried in silt. Similarly, some Cicindelidae
+larvae living in flood margins of rivers can survive in submersion for long periods of
+time, such as 3 weeks or even more (Wilson 1974). In both cases, the most plausible
+explanation is that they survived thanks to an air bubble. It has been suggested that
+organisms that colonize the floodplains have developed adaptations that allow them
+to survive periods of flood (Junk et al. 1989). On the other hand, it is known that
+there is dispersal by hydrochory in beetles that are specialists of exposed riverine sediments,
+that can swim, survive underwater for long periods of time (Andersen 1968)
+and survive being swept away by eventual flow increases (Lude et al. 1999; Bates et al.
+2006). This also might explain the distribution of some other hygrophile Trechinae
+strongly associated with watercourses (Ortuño and Toribio 2006) as well as that of
+other edaphic zoological groups such as Lumbricidae and Isopoda (Kühnhelt 1957).

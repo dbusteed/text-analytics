@@ -1,0 +1,17 @@
+<Register: TB>
+<Topic/Discipline: BI>
+<Author(s): Watson, Kirkcaldie, Paxinos>
+<Source: ebrary>
+<Pages: 161>
+<Wd Ct: 534>
+<End Header>
+
+Cell culture 
+
+Another way of studying nervous system cells is to remove them from the living animal (the in vivo setting, meaning ‘in life’) and keep them alive and growing in an artificial setting (in vitro, meaning ‘in glass’). To do this the cells must be kept in a culture medium, a solution of ions and nutrients designed to resemble the extracellular fluid environment in which the cells normally live. As long as the medium allows for gas exchange across its surface, or by bubbling gas mixes through it, cells can stay alive for weeks and even grow and differentiate. 
+
+Monocultures use isolated preparations of a single cell type, separated by a choice of tissue collected and the medium used to keep cells alive. This allows large groups of similar cells to respond to experimental conditions in large numbers. The weakness of this technique is that the cells are deprived of their normal interactions with other cells, and are therefore in a situation which is very different from their normal environment in vivo. Co-cultures use multiple cell types grown on the same surface or in close proximity to each other in order to better reproduce the interactions of cells. When the mix of cell types is the same as those found in the original tissue it is referred to as an organotypic culture. Slice culture refers to the technique of taking slices about 1 mm thick from chilled but still-living tissue, and maintaining them in a culture medium. In this way the relationships between cell types, and many of the interconnections between them found in vivo, are preserved intact, and by careful selection of the slice plane it may be possible to investigate quite complex connected systems, such as thalamo-cortical interactions. Removing any nervous tissue from its normal context in the organism will distort its function to a greater or lesser extent. Because of this, the usefulness of data derived from culture preparations depends both on the care taken to compensate for the change of environment, and on the choice of culture technique in order to minimize the effects on the system under study. 
+
+Hodology: Using Tracers to Trace Connections
+
+Most techniques for mapping the connectivity of the nervous system (called hodology) often rely on the transport mechanisms used by neurons to move proteins and organelles along their axons. Tracers can reveal the connections of neurons. They can be used to track the growth of axons, and can show regrowth after injury. Tracers may be delivered in solid form (a dye crystal or bead), by pressure injection, or by iontophoresis (in which a polar compound is infused into the tissue by passing an electric current through a pipette electrode containing the tracer), or via infectious agents (such as modified rabies virus or adenovirus). Tracers may be anterograde, that is traveling from cell body to axon terminals (e.g. cholera toxin B, dextranbiotin), or retrograde, that is, taken from axon terminals back to cell body (e.g. WGA-HRP, wheat germ agglutinin-horseradish peroxidase, fluorogold, fast blue). A few tracers are bi-directional (e.g. DiI and other dextran compounds). Most tracers are used in living tissue, but some (such as DiI) can be used to trace axons in postmortem tissue.

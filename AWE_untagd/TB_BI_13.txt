@@ -1,0 +1,28 @@
+<Register: TB>
+<Topic/Discipline: BI>
+<Author(s): Frankham, Baillou, D'Briscoe>
+<Source: ebrary>
+<Pages: 56>
+<Wd Ct: 556>
+<End Header>
+
+Genetic drift 
+
+It may seem that chance effects would have only minor impacts on the genetic composition of populations. However, random sampling of gametes within small populations has three consequences of major significance in evolution and conservation: 
+
+- loss of genetic diversity and fixation of alleles within populations, with consequent reduction in evolutionary potential diversification among replicate populations from the same original source (e.g. fragmented populations) genetic drift overpowering natural selection. 
+- Genetic drift has major impacts on the evolution of small populations 
+
+These features are exemplified in the flour beetle populations in Fig. 4.2. First, individual populations show genetic drift. For example, in the N = 10 population marked with an asterisk, the frequency of the allele begins at 0.5, drops for three generations, and then rises and falls until generation 20 when its value is approximately 0.65. Note that the fluctuations in frequencies for populations of size N 10 are much greater than for populations with N 100, clearly illustrating that genetic drift is greater in smaller populations. 
+
+Second, some populations lose genetic diversity and reach fixation (homozygosity). Seven of the 12 N = 10 populations became homozygous over 20 generations. Six of the seven populations became fixed for the wild-type allele and one for the black allele. None of the N = 100 populations became fixed over the 20 generations. 
+
+Third, there is random diversification among replicate populations, particularly in the N = 10 populations. These populations all began with frequencies of 0.5, yet end up with frequencies ranging from 0 to 1. Again, the diversification among replicate populations is much less for the N 100 populations.
+
+Finally, it is clear from the overall pattern that natural selection favoured the wild-type allele (+) over the mutant black (b). Nonetheless, genetic drift has overpowered this selection and resulted in fixation of b in one N 10 population. 
+
+Natural, fragmented populations will experience these effects at all their genetic loci, with smaller fragments experiencing greater genetic drift than larger fragments. 
+
+The impacton allele frequencies of reducing population size to a single pair of parents in experimental populations of fruit flies is shown in Fig. 4.3. Note the loss of alleles, particularly of rare alleles, and that allele frequencies have changed from those in the parent population. Replicate bottlenecked populations varied in the alleles they lost and in the frequencies of the alleles they retained. On average, heterozygosity dropped from 0.61 in the base population to 0.44 in the bottlenecked populations, and the number of alleles from 12 to 3.75. Note that the cumulative effect of maintaining populations at a size of 100 for 57 generations has resulted in a similar loss of genetic diversity, an issue we address below.
+
+A bottleneck of N = 25 only reduces heterozygosity by 2%, while a bottleneck of 100 reduces it by only 0.5%. Loss of genetic diversity arises predominantly from sustained reductions in population size, rather than single generation bottlenecks. In the Mauritius kestrel, heterozygosity declined 57% from 0.23 to 0.10 as a result of a single pair bottleneck (Box 4.1). While this was greater than expected, additional genetic diversity would have been lost during the six generations the population spent at sizes of less than 50. Many threatened wildlife populations show evidence of loss of genetic diversity due to population size bottlenecks of various durations (Table 2.7).

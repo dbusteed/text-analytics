@@ -1,0 +1,25 @@
+<Macro-register: AW>
+<Register: PS>
+<Topic/Discipline: Biology>
+<Author(s): Jolly>
+<Source: Lucy's Legacy Sex and Intelligence in Human Evolution >
+<Pages: >
+<Wd Ct: 533>
+<End Header>
+
+Darwin's Decision 
+Charles Darwin hesitated for twenty years before publishing his theory of evolution through natural selection in 1859. He was not idle, nor indifferent, nor unconscious. His early notebooks spelled out the whole theory in 1838. He occupied eight of the intervening years with prodigious labor on the anatomy of barnacles. Barnacles!—with the theory that would change humanity's view of itself already written, with instructions to publish if he should die. He hid his blasphemous idea in part because of the anguish it would cause to believers, including his own wife, if he could successfully explain the evolution of living forms without recourse to divine purpose. He also hid through fear of revenge on his social position and scientific respect. 
+    Then in 1858 Alfred Russel Wallace wrote a short letter from Indonesia outlining the principle of natural selection in a few pages. It finally catapulted Darwin into publishing a 500-page "preliminary sketch" of evidence for his theory. 
+    On the Origin of Species by Means of Natural Selection, or The Preservation of Favoured Races in the Struggle for Life was far from the first book to propose the evolution of one form from another. Charles Darwin's grandfather, Erasmus Darwin, had done so, as had the French naturalist Lamarck and the Scot Robert Chambers. Evolution was in the air, along with the innovations and extinctions it implied. Tennyson's poem was published nine years before the Origin of Species. What Darwin did was give evolution a mechanism, a means of arriving at the diversity of living and fossil creatures without the intervention of conscious purpose. The philosopher Daniel Dennett calls this the difference between skyhooks and cranes. Evolution was no threat if a benevolent deity leaned over from on high with a skyhook to haul life upward for his own divine ends. When Darwin proposed instead a kind of crane, a physical means of building life's complexity from the ground below, it was horrifying. 
+    Darwin was a proper Victorian gentleman. He aspired to the respect of the illustrious scientists who ran the Geological Society of London, men who damned Lamarck for his "gross and filthy" views on evolution. Biology in Darwin's time was almost exclusively natural history—gentleman's beetle collecting, the hobby that sent Darwin cycling round the countryside when he was supposed to be studying for the ministry at Cambridge University. Gentlemen belonged to the established Church of England. Their God personally designed every single species of beetle. As a theology student, Darwin read and reread Paley's Natural Theology, or Evidences of the Existence and Attributes of the Deity, Collected from the Appearances of Nature. Paley said that if, by chance, he kicked a stone on his path, he might assume it had lain there forever. If, however, he found a watch, he would know at once that someone had made it, and that its parts were put together for a purpose. Plants and animals, in turn, are far more complex and more beautiful than any watch. Therefore they must have arisen by divine design, not mere chance. Paley's God, the God of the scientific establishment, shared a major strand of Darwin's own character—delight in every fact and facet of living nature. 
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+<Macro-register: AW>
+<Register: TB>
+<Topic/Discipline: History>
+<Author(s): Holden, Villars>
+<Source: myilibrary>
+<Pages: 101>
+<Wd Ct: 525>
+<End Header>
+
+A merger of liberalism and democracy, of the kind that has characterized most of western Europe, the United States and Canada, would give Latin Americans a chance to achieve levels of democratic rule comparable to those prevailing in those countries. Of course, democratic government in North America and western Europe has never been free of corruption, abuses of power, lawless violence and crimes against human rights. Their democracies also need consolidation, but for the most part they safeguard basic human and civil rights far more effectively and systematically than those of Latin America. Stronger guarantees of basic freedoms would also help Latin America reduce its world-record levels of economic inequality, while exerting more control over its exceptionally volatile economies a theme we return to in Part III. 
+
+We can think of these basic principles of liberal political rule as partial indicators of governance, or the quality of political power. Only since the late 1980s has governance been recognized as a problem at least equal in importance to that of economic development, and very likely a precondition of both democratic rule and economic development itself. The rising value placed on the concept of governance can be seen in the efforts of the World Bank to find ways to do for governance what social scientists began doing a long time ago for economic development: namely, identify a bundle of indicators that would allow one to measure and thus compare different countries progress in achieving good governance. The Bank’s researchers defined governance broadly as the traditions and institutions of rule, of which three were considered fundamental: 
+
+-the process of choosing, monitoring and replacing a government; 
+-the capacity of any given government to design and carry out policies; 
+-the respect that citizens have for the institutions of rule. 
+
+Two specific measures of each of these dimensions of governance were devised. For process, they were (1) Voice and Accountability and (2) Political Stability and Absence of Violence. For capacity they were (1) Government Effectiveness and (2) Regulatory Quality. For respect they were (1) Rule of Law and (2) Control of Corruption. Since 1996, the Bank has collected data from survey respondents, non-governmental organizations, public sector groups and business enterprises that capture their perceptions of the six indicators. In 2009, on the average, the Latin American countries as a whole were seen as only half, or less than half, as well governed as the thirty developed countries of the Organization for Economic Cooperation and Development (OECD). But, as we have stressed repeatedly in this book, almost any Latin American average veils the region’s remarkable diversity. For example, Figure 5.2 compares perceptions of a single indicator of governance, the rule of law, across all the Latin American countries. Chile stands out as the only country viewed as nearly equivalent to the OECD average in rule of law. While the other countries reveal an impressive range in worldwide rankings, from the seventieth percentile to the third, it is worth noting that after Chile, the standings descend very rapidly, with thirteen of the seventeen countries (76%) drawing a percentile ranking of less than 50%, meaning that more than half the world’s countries outranked them. 
+
+

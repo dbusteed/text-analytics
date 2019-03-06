@@ -1,0 +1,27 @@
+<Macro-register: AW>
+<Register: PS>
+<Topic/Discipline: History>
+<Author(s): Amar>
+<Source:  The Bill of Rights Creation and Reconstruction>
+<Pages: >
+<Wd Ct: 533>
+<End Header>
+
+First Things First 
+The 1789 Bill of Rights was, unsurprisingly, a creature of its time. Yet because these eighteenth-century words play such an active role in twentieth-century legal discourse, we may at times forget that more than two centuries separate us from the world that birthed the Bill. Before we fix our gaze on this eighteenth-century document, let us briefly consider how nineteenth- and twentieth-century events and ideas have organized our legal thinking, predisposing us to see certain features of the Bill of Rights and to overlook others. And before we rush to examine the words that are first in our modern Bill of Rights, let us briefly consider the words that were first in the original Bill of Rights. 
+Modern Blinders 
+The Ideology of Nationalism We inhabit a world whose constitutional terrain is dominated by landmark Supreme Court cases that invalidated state laws and administrative practices in the name of individual constitutional rights. Living in the shadow of Brown v. Board of Education and the second Reconstruction of the 1960s, many lawyers embrace a tradition that views state governments as the quintessential threat to individual and minority rights, and federal officials--especially federal courts--as the special guardians of those rights. 
+This nationalist tradition has deep roots. Over the course of two centuries, the Supreme Court has struck down state and local action with far more regularity than it has invalidated acts of coordinate national branches. Early in this century, Justice Holmes declared, "I do not think the United States would come to an end if we lost our power to declare an Act of Congress void. I do think the Union would be imperiled if we could not make that declaration as to the laws of the several States." Professor Thayer's famous 1893 essay on judicial review also embraced an expansive role for federal courts in reviewing state legislation, even as Thayer preached judicial deference to congressional acts of doubtful constitutionality. Holmes and Thayer had reached maturity during the Civil War era, and they understood from firsthand experience that the constitutional amendments adopted following the war--particularly the Fourteenth Amendment--evinced a similar suspicion of state governments. 
+In fact, the nationalist tradition is far older than Reconstruction; its deepest roots lie in Philadelphia, not Appomattox. One of the Federalists' most important goals was to forge a strong set of federally enforceable rights against abusive state governments, a goal dramatized by the catalogue of rights in Article I, section 10--the Federalist forebear of the Fourteenth Amendment. Indeed, the very effort to create a strong central government drew much of its life from the Federalists' dissatisfaction with small-scale politics and their belief that an "enlargement" of the government's geographic "sphere" would improve the caliber of public decision-making. The classic statement of this view is Madison's Federalist No. 10. 
+Alongside this nationalist tradition, however, lay a states'-rights tradition--also championed by Madison--that extolled the ability of local governments to protect citizens against abuses by central authorities. Classic statements of this view include Madison's Federalist No. 46, his Virginia Resolutions of 1798, and his Report of 1800. Heavy traces of these ideas appear even in the work of the strong centralizer Alexander Hamilton. 
+
+
+
+
+
+
+
+
+
+
+

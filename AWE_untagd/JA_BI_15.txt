@@ -1,0 +1,20 @@
+<Macro-register: AW>
+<Register: JA>
+<Topic/Discipline: Biology>
+<Author(s): Rosel, Allgaier, and Grossart>
+<Source: Microbial Ecology>
+<Pages: >
+<Wd Ct: 587>
+<End Header>
+
+Results
+Environmental Variables
+Epilimnic water temperature in Lake Tiefwaren oscillated regularly and periodically between ca. 2 °C and 25 °C in each year without any conspicuous inter-annual trend throughout the observation period (mean 13.31?±?6.67 °C, min. 1.8 °C, max. 24.6 °C; data not shown). In addition, pH, oxygen concentration, conductivity, Chl a and NO3 concentration showed pronounced seasonal variations but no overall trend over the long-time period of several years. Particularly, pH and dissolved oxygen strongly increased in summer due to photosynthetic activities (pH 8.0–9.0 (annual mean 8.41?±?0.23), O2 9–12 mg L-1 (annual mean 10.49?±?1.67) and Chl a 1–10 µg L-1 (annual mean 4.1?±?1.7)). Due to the previous lake restoration, phosphorus concentrations (total phosphorus (TP) and soluble reactive phosphorus (SRP)) were low and constant ranging from 0.01–0.04 mg TP L-1 and 0.002–0.02 mg SRP L-1 throughout the whole study period (Fig. S1A).
+Phytoplankton Development
+Although annual averages of Chl a concentrations did not change much over the study period, Chl a maxima decreased over the years, whereby the high maxima (>10 µg L-1 Chl a) recorded in summer 2003, 2004 and 2005 did not reoccur in the later years. From 2006 on, Chl a peaks were reduced considerably (=5 µg L-1, data not shown) accompanied by a decrease in phytoplankton biomass. Phytoplankton community composition greatly varied over the years and did not show any uniform pattern. Considering the long period between 2003 and 2009 of our study, each year was characterised by different dominant algal groups with an exiguous seasonal succession of the phytoplankton community. However, a consistent decline of Dinophyceae and Bacillariophyceae was observed, whereas blooms of specific autotrophs, e.g. Cyanobacteria and Chlorophyceae, alternated in several years (bloom events with biomass >1.0 mg L-1). Lake restoration started in summer 2001 and reduced P concentrations in the lake water almost immediately, and phytoplankton biomass decreased thereafter. Nevertheless, this severe disturbance did not influence our analyses several years later.
+In parallel to Chl a, maxima in primary production (PP) dropped from 2003 to 2006 (maximum of 100 µg C?L-1 day-1), but stabilised in the following years on a higher level (150–200 µg C?L-1 day-1) (Fig. S1B). Winter values were always low (<10 µg C?L-1 day-1), indicating a reduced algal productivity at low light conditions. Chl a and PP showed similar patterns and the same seasonal as well as long-term trend.
+Bacterial Production
+Similar to temperature and phytoplankton, bacterial protein production (BPP), measured as [14C]-leucine uptake by epilimnic bacteria in triplicates (standard deviation <15 % between replicates), showed a pronounced seasonal dynamic: BPP was always highest during summer, reaching values up to 110 µg L-1 day-1 (Fig. S1C). In parallel to PP (Fig. S1B), BPP was low in 2004 and 2005 but not in 2006. During summer stratification, the major part of BPP was linked to PA bacteria, whereas FL bacteria accounted for only 36.5 %?±?9.1 of total BPP. During the study period, total and particle-associated BPP were positively correlated to water temperature (correlation coefficient 0.615, p?<?0.01, n?=?68). Cell specific BPP increased in summer by a factor of 3–5, indicating high bacterial activities.
+Bacterial Abundance and Community Composition
+Total bacterial numbers, counted for the years 2005–2009, showed a similar seasonal trend as BPP and reached maximum values of 2.5?×?106 cells mL-1 during the summer (mean of all counts was 1.22?±?0.45?×?106 cells mL-1, n?=?51, Fig. S2A). Abundance of total bacteria (including PA and FL fractions) was significantly higher in summer compared to the rest of the year (two-sample t-test, p? <?0.05, df?=?49). 
+

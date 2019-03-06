@@ -1,0 +1,54 @@
+<Macro-register: AW>
+<Register: JA>
+<Topic/Discipline: History>
+<Author(s): Grafton>
+<Source: American Historical Review>
+<Pages: >
+<Wd Ct: 591>
+<End Header>
+
+Material evidence confirms that Pastorius began to master all the techniques of
+compilation as a student. He owned a linked set of textbooks, now in the Library
+Company of Philadelphia. They include chronological tables for world history from
+the Creation to the present drawn up by a Braunschweig theologian, Christoph
+Schrader; introductions to the tradition of historiography from antiquity to modernity,
+and to the genealogy of rulers from ancient Rome to the present; and a short
+textbook on geography by a Gymnasium professor, Heinrich Schaevius. Pastorius
+signed and dated the last of these in 1674.102 The books themselves, annotated
+sparsely but systematically, show how he read his way into mastery of a world of
+scholarly methods and materials. Schrader’s chronological tables, which presented
+world history in the skeletal form normal at the time, were dated, in the traditional
+way, from the Creation forward: Pastorius followed the custom that had become
+widespread in the seventeenth century and added a B.C. date, reckoned backward
+from the Incarnation, for the start of world history. Where Schaevius, whose brief
+handbook of geography Pastorius read, mentioned Pliny’s Natural History as a model
+compilation on cosmography, Pastorius added a marginal reference to the Renaissance
+classic in the field, the Cosmography of Sebastian Mu¨nster.103 And where
+Schaevius discussed systems for describing the world’s land masses, Pastorius noted,
+in very up-to-date terms indeed, that “the whole land mass of the world can also be
+divided into three parts, or great islands, around which the ocean flows: the first contains Europe, Asia, and Africa, the second America, and the third the Magellanic
+lands that are also called Austral [southern] and unknown.”104 Most revealing of all,
+though, is the list of writers on the early church, starting with the apostles and including
+pagans as well as Christians, that Pastorius copied into one of these books
+from the dissident church historian Gottfried Arnold’s work on the life of the early
+church.105 Every book invited the reader to engage in bibliographical compilation;
+every ancient authority invited the reader to make comparisons with modern counterparts.
+Pastorius not only applied the techniques of the polyhistors, he shared their
+tastes. Like Kircher, the Jesuit Michael Pexenfelder, whose odd little encyclopedia
+of the arts and sciences Pastorius owned, took an interest in ciphers and other forms
+of writing designed to conceal one’s meaning from curious readers.106 He described
+steganography as “a clandestine form of writing, which uses secret signs that a few
+have agreed on.” These could be letters, standing in for one another, or numbers,
+or “new characters.”107 Here Pastorius wrote “see the next page, near the bottom.”108
+He covered the next opening, which deals with the use of metal characters in printing,
+with ingenious prints of many different kinds of leaf. In the bottom margin he wrote
+that characters could be “natural, the progeny of the gardens and the fields, some
+of which appear in the margin, or artificial. Of the first category, absinth stands for
+A, beta for B, the crocus for C, ferns for F, and so on. Botanists understand them
+very well.”109 Here we see that Pastorius’s fascination with language, in all its texture,
+richness, and variation, was rooted in the culture of the old Holy Roman Empire—a
+world in which cryptography offered the possibility of sending secretmessages, something
+every chancery and resident ambassador regularly did, and inspired the production
+of a rich body of poetry by a kind of combinatorics—rather like modern
+language poetry. Pastorius’s mystical vision of language had its roots in a very particular
+milieu and moment.

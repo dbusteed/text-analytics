@@ -1,0 +1,27 @@
+<Register: TB>
+<Topic/Discipline: BI>
+<Author(s): King>
+<Source: ebrary>
+<Pages: 246>
+<Wd Ct: 567>
+<End Header>
+
+Introduction 
+
+For nearly all of its four and a half billion years of existence, the Earth’s environment has followed a path and pace of change affected much less by human activities than by other, much larger, natural forces. Humans began having an impact a few thousand years ago through such activities as the slash and burn gardens in the tropics and the burning of grasslands by hunter/gatherer societies prior to forest clearing for agriculture in temperate regions. In the past few hundred years, however, burgeoning human populations and their activities in all parts of the globe have greatly increased the scale of impact. 
+
+The goal of this chapter is to examine the period prior to the advent of widespread human effects on the Earth’s environment, especially factors important to plants and the roles they play in the biosphere. 
+
+For the first half billion years or so after it began forming, the Earth was shaped and reshaped by physical and chemical forces alone. Around 3.8 billion years before the present (BP), the outer crust, which formed as the Earth cooled sufficiently to form a solid, unbroken surface layer, cracked into a number of massive plates floating on a deeper mantle of molten rock. Ever since, these tectonic plates on which the continents are carried have continued to move from place to place at the Earth’s surface and, at their edges, to sink beneath one another into the hot mantle below, a process called subduction. In the fierce heat of the mantle these rocky materials are transformed to liquids and gases, which are then recycled back to the surface and atmosphere, under pressure, through the outpourings of volcanoes and uplift of mountain ranges. Earth is unique in the solar system in having tectonic plates, causing a continuous cycling and recycling of its vast stores of chemical elements, including those essential for life. 
+
+The oceans developed on the primitive Earth about 4 billion years BP, a milieu in which, a few hundred million years later, the first life likely appeared. There followed a several billion-year period of virtual stasis during which the living world was made up exclusively of microorganisms, first prokaryotes, then, also eukaryotes, unicellular and multicellular. About 400 million years BP, multicellular green plants evolved, the advent of which altered, drastically and uniquely within our solar system, the path our planet’s environment took. Cycling of the Earth’s physical resources through the atmosphere, on land and in the ocean, included, henceforth, increasing influences of plant life. 
+
+Cycling matter 
+
+Geochemical cycling 
+
+In the earliest period of Earth’s development, sediments settling to the floor of the ocean were subducted into the molten mantle along with the rocky material of the tectonic plates (see above), returned to the surface through volcanoes and mountain uplift, dispersed at the surface by wind and water, returned to the ocean as dissolved and suspended matter in rivers or directly from the air to end up, again, as sediments on the ocean floor. This ancestral geochemical cycling continues today, a slow dance, the tempo of which is measured in millions or hundreds of millions of years. 
+
+Biogeochemical cycling 
+
+The appearance of life on Earth, possibly as far back as 3.8 billion years ago, led to a livelier tempo, biogeochemical cycling, a phenomenon quite possibly unique in our solar system. The concept of biogeochemical cycles was developed over 100 years ago by a young professor at Moscow University.

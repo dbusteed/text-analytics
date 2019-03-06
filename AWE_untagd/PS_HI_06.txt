@@ -1,0 +1,27 @@
+<Macro-register: AW>
+<Register: PS>
+<Topic/Discipline: History>
+<Author(s): Black>
+<Source:  IBM and the Holocaust The Strategic Alliance Between Nazi Germany and America's Most Powerful Corporation>
+<Pages: >
+<Wd Ct: 586>
+<End Header>
+
+When Hitler came to power, a central Nazi goal was to identify and destroy Germany's 600,000 Jews. To Nazis, Jews were not just those who practiced Judaism, but those of Jewish blood, regardless of their assimilation, intermarriage, religious activity, or even conversion to Christianity. Only after Jews were identified could they be targeted for asset confiscation, ghettoization, deportation, and ultimately extermination. To search generations of communal, church, and governmental records all across Germany—and later throughout Europe—was a cross-indexing task so monumental, it called for a computer. But in 1933, no computer existed. 
+When the Reich needed to mount a systematic campaign of Jewish economic disenfranchisement and later began the massive movement of European Jews out of their homes and into ghettos, once again, the task was so prodigious it called for a computer. But in 1933, no computer existed. 
+When the Final Solution sought to efficiently transport Jews out of European ghettos along railroad lines and into death camps, with timing so precise the victims were able to walk right out of the boxcar and into a waiting gas chamber, the coordination was so complex a task, this too called for a computer. But in 1933, no computer existed. 
+However, another invention did exist: the IBM punch card and card sorting system—a precursor to the computer. IBM, primarily through its German subsidiary, made Hitler's program of Jewish destruction a technologic mission the company pursued with chilling success. IBM Germany, using its own staff and equipment, designed, executed, and supplied the indispensable technologic assistance Hitler's Third Reich needed to accomplish what had never been done before—the automation of human destruction. More than 2,000 such multi-machine sets were dispatched throughout Germany, and thousands more throughout German-dominated Europe. Card sorting operations were established in every major concentration camp. People were moved from place to place, systematically worked to death, and their remains cataloged with icy automation. 
+IBM Germany, known in those days as Deutsche Hollerith Maschinen Gesellschaft, or Dehomag, did not simply sell the Reich machines and then walk away. IBM's subsidiary, with the knowledge of its New York headquarters, enthusiastically custom-designed the complex devices and specialized applications as an official corporate undertaking. Dehomag's top management was comprised of openly rabid Nazis who were arrested after the war for their Party affiliation. IBM NY always understood—from the outset in 1933—that it was courting and doing business with the upper echelon of the Nazi Party. The company leveraged its Nazi Party connections to continuously enhance its business relationship with Hitler's Reich, in Germany and throughout Nazi-dominated Europe. 
+Dehomag and other IBM subsidiaries custom-designed the applications. Its technicians sent mock-ups of punch cards back and forth to Reich offices until the data columns were acceptable, much as any software designer would today. Punch cards could only be designed, printed, and purchased from one source: IBM. The machines were not sold, they were leased, and regularly maintained and upgraded by only one source: IBM. IBM subsidiaries trained the Nazi officers and their surrogates throughout Europe, set up branch offices and local dealerships throughout Nazi Europe staffed by a revolving door of IBM employees, and scoured paper mills to produce as many as 1.5 billion punch cards a year in Germany alone. Moreover, the fragile machines were serviced on site about once per month, even when that site was in or near a concentration camp. IBM Germany's headquarters in Berlin maintained duplicates of many code books, much as any IBM service bureau today would maintain data backups for computers. 
+
+
+
+
+
+
+
+
+
+
+
+

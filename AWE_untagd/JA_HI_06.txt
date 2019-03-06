@@ -1,0 +1,26 @@
+<Macro-register: AW>
+<Register: JA>
+<Topic/Discipline: History>
+<Author(s): Aaron Worth>
+<Source: Journal of Colonialism and Colonial History>
+<Pages: >
+<Wd Ct: 557>
+<End Header>
+
+As Slavoj Zizek frequently contends, telecommunications systems-from the telephonic network in Anton Litvak's Sorry, Wrong Number to the virtual reality construct in The Matrix-may be readily understood as paradigmatic metaphors for the "intersubjective network" which a Lacanian associates with the symbolic order. Some such reading, I would contend, greatly illuminates the (at times) disproportionate importance with which the telegraphic network is invested in what we might call the collectively constructed mutiny ur-narrative; particularly within attempts to grapple imaginatively with, to express in imaginary or symbolic form, the unthinkable assertion to colonial subjectivity and its analogue-the assault on Englishness itself. 
+
+In short, I would suggest that the telegraph in India functions as a superbly apt trope for British colonial subjectivity-for, that is, the intersubjectivity which is its condition of possibility-imagined as a prosthesis, technologically enhanced and mapped over colonial space. (Texts like Paul Scott's Raj Quartet strikingly convey the sense of the English social order as a rigidly "unnatural" transplant in India.) The sense of a transported or artificial English social network both modeled and precariously maintained by its technological analogues is conveyed with an almost heuristic clarity in Kipling's story "At the End of the Passage," with its depiction of four Anglo-Indians who gather weekly, ostensibly for recreation but more fundamentally, it is clear, for the purpose of mutually affirming a sense of their English identity. Professionally, these Britons are paradigms of colonial service, "imperial men" representative to an almost Chaucerian degree-their little society comprises an engineer, a civil servant, a colonial surveyor, and a "doctor of the line," a neat microcosm. While bound by little in the way of affective ties-"they were not conscious of any special regard for each other"-nonetheless "they desired ardently to meet, as men without water desire to drink" (LH 139). As Benita Parry notes, the men's weekly communions are symbolic of a desperate, even obsessive Anglo-Indian circling of the sociocultural wagons within an "environment which disturbed and discomposed because it seemed to threaten their identity and values" (209). Kipling, significantly, portrays this quasi-ritualistic (re)instantiation of British colonial identity, this transplanted microcosm, as utterly dependent upon the networks of "the Great Indian Empire." The wire, frequently invoked within the story, binds together the four men within an alien, literally fatal climate: "When one of them failed to appear, he [Hummil, the engineer and host of the gatherings] would send a telegram to his last address, in order that he might know whether the defaulter were dead or alive. There are very many places in the East where it is not good or kind to let your acquaintances drop out of sight even for one short week" (139). The maintenance of British identity in the colonies, then, seems impossible, perhaps unthinkable, without the prosthetic intersubjectivity upon which it is erected. 
+
+This machinic symbolic order, to take the reading further, can be said to represent the "Other" of Empire itself, understood as a seemingly autonomous, transpersonal entity whose address is necessary for the constitution of the Anglo-Indian subject. The sense of the telegraphic network as the privileged site for contact or communion with this imperial Other is strikingly captured by Steel: "An hour or two later, the strangest telegram that ever came as sole warning to an Empire that its very foundation was attacked, left Meerut for Agre; sent by the postmaster's niece" (189-90). 
+
+
+
+
+
+
+
+
+
+
+
+

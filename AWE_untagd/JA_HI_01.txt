@@ -1,0 +1,26 @@
+<Macro-register: AW>
+<Register: JA>
+<Topic/Discipline: History>
+<Author(s): MICHAEL J. SAUTER>
+<Source: American Historical Review>
+<Pages: >
+<Wd Ct: 560>
+<End Header>
+
+No two things in this world have the same measure of time  Formulating it boldly, there are in the universe at one time an infinite number of times.
+
+Johann Gottfried Herder, Metacritique of the Critique of Pure Reason (1799)1
+Herder's critique of Kant's temporal aesthetic mirrors the state of the literature on the history of human experience with clocks and time. Whereas Kant postulated one philosophical manifold that made possible the apprehension of time, Herder emphasized the multiplicity and cultural embeddedness of temporal experience. A similar divergence has occurred in the work on time regimes. The field has long been concerned with the rise of time discipline, which historians characterize as a process in which Westerners shifted from being aware of clocks to being dominated by them. This approach proceeds from two key assumptions: that time discipline is a simple behavior, and that it owes its existence to a single cause. Put another way, much of the scholarship presupposes that modern time discipline has worked in the same manner everywhere and, more specifically, that it has always emerged from capitalist forms of production. Over the past fifteen years, however, scholars have undermined this interpretation, noting not only the variety of time disciplines in both Europe and North America, but also the many origins of this behavior. As a result, the accepted view of the history of time discipline has begun to dissolve.
+
+In order to understand the significance of recent critiques, we need first to consider the substance of the traditional narrative, which runs as follows: From the Middle Ages until today, awareness of time has increased steadily in the Western world. This process began in medieval cities and included both conceptual and technological changes. At the conceptual level, merchants shattered the theological idea that all time belonged to God by carving it into smaller, secular times within which one could make money, while Europe's monastic communities taught everyone the virtue of organizing one's days according to a schedule. (Our "noon" was once nones, the call to prayer announced at roughly 9 a.m. by a monastery's bells.) At the technological level, the introduction of mechanical public clocks to European cities during the fourteenth and fifteenth centuries made clock time a daily experience for increasing numbers of people, a trend that was augmented by emerging market forces that in turn may have connected time to production. Finally, during the late eighteenth and early nineteenth centuries, profit-maximizing industrialists both united and intensified the existing trends through the elaboration of the factory system, which forced workers to internalize what had been a diffuse if growing awareness of time. In this way, time awareness became our modern compulsion.
+
+The cornerstone of this narrative remains E. P. Thompson's classic article "Time, Work-Discipline, and Industrial Capitalism." First published in Past & Present in 1967, and reprinted many times since, this essay distilled Thompson's view that capitalism created modern time discipline by changing the nature of work. Thompson argued that whereas labor was task-oriented before 1700, with workers putting in only the hours needed to complete a given task, by 1800 the factory system had disciplined workers to arrive at a certain time and to work continuously for a specific duration. For Thompson, a critic of capitalism, this new work discipline was alien to workers' culture, and thus was as worthy of scorn as other capitalist innovations. 
+
+
+
+
+
+
+
+
+

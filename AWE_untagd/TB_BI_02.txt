@@ -1,0 +1,27 @@
+<Macro-register: AW>
+<Register: TB>
+<Topic/Discipline: BO>
+<Author(s): Alexopoulous, C.J.; Mims, C.W.; Blackwell, M.>
+<Source: T2K-SWAL>
+<Pages: 508->
+<Wd Ct: 538>
+<End Header>
+
+17. Phylum Basidiomycota. Order Agaricales. The Mushrooms.
+
+Introduction, Occurrence, and Importance.
+The large order Agaricales includes basidiomycetous fungi whose fruiting bodies we
+commonly call mushrooms, the most conspicuous parts of which are the pileus (cap) and stipe (stalk). Although the term toadstool has been used to refer to nonedible or poisonous mushrooms, the term has little meaning and will not be used in our discussion. Mushrooms are fleshy, sometimes tough, umbrella-like sporophores that bear holobasidia of the chiastobasidial type (see p. 498) on the surfaces of gills or lamellae that hang down from the cap (Fig. 17-1A) or in the so-called boletes, lining the sides of deep or shallow tubes, formed on the undersurface of the cap (Fig. 17-1B). Agaricales have been known to humans ever since we first became aware of our environment and are among the relatively few fungi that have common names in addition to scientific binominalsl-the death cup, Amanita phalloides; the shaggy mane, Coprinus comatus;
+the jack-o'-lantern, Omphalotus olearius; and the honey mushroom, Armillaria mellea, to name a
+few. You also will remember that the word mykes, from wwhich mycology is derived, actually meant mushroom to the ancient Greeks, and thus etymologically, mycology is the study of mushrooms. The fungi belonging to Agaricales probably have been studied to a greater extent than have members of any of the other orders of Basidiomycota, and a voluminous amount of
+technical literature has accumulated. Because many people hunt mushrooms either for food
+or simply as a hobby, mycologists also have written many popular and semi-popular books
+and articles dealing with the identification of edible and poisonous species. In this regard,
+perhaps the epitome of mushroom manuals was reached in 1949 when Dr. A. H. Smith published his Mushrooms in Their Natural Habitats. Now a highly prized collector's item, this book was accompanied by 231 color stereophotographs of various species. Currently, any number of good, well-illustrated manuals are available for those interested in collecting and identifying mushrooms, or agarics as they sometimes are called. At a more technical level, the fourth edition of Singer's (1986) The Agaricales in Modern Taxonomy is the authoritative treatise for the 
+identification of these fungi.
+
+As a group, agarics occur in a wide variety of habitats <(see Rayner et al., 1985)> ranging from the arctic to the tropics. While some species are known only from restricted areas, others exist in areas that are widely separated geographically. Even so, most species do seem to show a preference for a certain type of habitat. Some are, for instance, found primarily in upland wooded areas; others exist in swamps and bogs. Still others prefer open areas such as gardens, lawns, or pastures. Many species, particularly the mycorrhizal forms, will be associated with certain types of vegetation. Within a certain habitat, mushrooms also may show a preference for a particular substrate. Basidiocarps of some typically are produced on the soil and generally are referred to as terrestrial forms. Others are formed on dead leaves (fohcolous), on wood (lignicolous), or dung (coprophilous). These species are usually saprobic in these substrates. A few grow on sidiocarps of other mushrooms and are termed fungicolous. The various habitats and substrates reflect the
+fact that Agaricales contains parasitic, saprobic, and mycorrhizal forms.
+
+
+

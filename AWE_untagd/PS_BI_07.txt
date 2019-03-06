@@ -1,0 +1,20 @@
+<Macro-register: AW>
+<Register: PS>
+<Topic/Discipline: Biology>
+<Author(s): Clark>
+<Source:  A Means to an End: The Biological Basis of Aging and Death>
+<Pages: >
+<Wd Ct: 566>
+<End Header>
+
+We are all aware of aging in humans from our earliest years, through normal, daily contacts with family members, neighbors, and others who have reached an advanced age. Perhaps because aging seems such an intuitively obvious phenomenon, it was quite late in becoming an object of formal study. Magical cures and restorative waters aside, the first serious scientific studies of aging did not get under way until the early part of the present century. The initial pace of research in the entire field of aging was slow; respectable scientists and physicians were doubtless deterred by the unsavory history of quack remedies and practices aimed at increasing human lifespan that had characterized the previous several centuries, as well as the first part of the twentieth century. 
+    Perhaps we felt we didn't need a bunch of highly trained professionals telling us about getting old. We recognize it when the first signs appear in our own bodies—usually earlier than we might have expected from observing others. Elderly people look and behave differently than people in the early and peak years of their lives (Table 1.1). They become wizened and gray, and slower to respond both physically and mentally to things around them. They appear smaller and, in fact, are: Both skeletal and muscle mass decrease, often significantly, after age fifty or so. Even the brain gets smaller, shrinking by up to 10 percent in women, and slightly more in men. All of the major organs and physiological systems undergo a gradual decline with increasing age. None of these changes is in itself a cause of aging; they are all the result of the aging process. 
+    Some age-dependent changes are psychologically distressing but have little clinical impact; degeneration of the skin is a good example. Skin changes are one of the most externally visible and irrefutable signs of aging. Skin becomes thinner with age, largely because of loss of subcutaneous fat. It loses elasticity and tone because of changes in collagen, the major protein of all connective tissue, and becomes wrinkled because of both collagen changes and an increased production of a protein called elastin. Uneven distribution of the pigment melanin can result in so-called "age spots," and the skin becomes increasingly dry as sweat and oil glands gradually lose function. All of these changes associated with the normal aging process are greatly accelerated by exposure to sunlight; compare the texture of the skin on the buttocks of an elderly person with skin on the face or arms, for example. But aside from occasional skin cancers, which (with the exception of deadly malignant melanoma) are relatively harmless and easily treated, aged skin is biologically nearly as effective as young skin, and causes no threat to health or well-being. 
+    But of course "clinical impact" does not always adequately describe the tremendous psychological impact many of the changes associated with aging can bring. Mental confusion and slowness to respond to simple questions do not at all imply an unawareness of, or indeed a painful embarrassment about, one's diminished mental capacities. Increasing weakness and a tendency to fall can be not only physically dangerous, but can drive many older individuals to become increasingly immobile through fear of embarrassing themselves. Perhaps most humiliating of all the assaults of old age is urinary incontinence. This condition, affecting some fifteen million Americans, is a major factor in the self-imposed social isolation of many elderly people. 
+
+
+
+
+
+
+

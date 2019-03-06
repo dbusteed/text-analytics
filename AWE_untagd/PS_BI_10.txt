@@ -1,0 +1,17 @@
+<Macro-register: AW>
+<Register: PS>
+<Topic/Discipline: Biology>
+<Author(s): Eisenberg>
+<Source:  The Ecology of Eden>
+<Pages: >
+<Wd Ct: 585>
+<End Header>
+
+THE FIRST WAVE 
+What most of us call the food chain--the hierarchy of who eats whom--is better called the trophic pyramid, since it is broad at the base and tiny at the top. As you step up a level (the rule of thumb says) the biomass, or total amount of living matter, shrinks by a factor of ten. The reason is simple: in any conversion of energy, some gets wasted. Of course, "waste" is a subjective term. From the point of view of those at the top of the pyramid, those on the next level down waste a great deal of energy running away. 
+    When, in the transition from apehood, our ancestors moved up a step on the trophic pyramid--or, rather, a half-step, from herbivory to partial carnivory--their numbers should by rights have shrunk. They were able to sidestep this law of diminishing returns by moving from the trophic pyramid of the rain forest to that of the savanna. Here the vast platform provided by grass, and above that by quadrupeds, gave them plenty of room to spread out. They were aided by fire, which limited the spread of thorny acacia trees, removed dry grass, and caused fresh grass to spring up and draw game. 
+    Let us look at this first marriage of grass and man from grass's point of view. In effect, grass enlisted the aid of humans in its turf fight with trees for control of the African savanna. Its strategy (not a conscious strategy, of course, but a pattern favored by natural selection) was to make its leaves and stems plentiful and palatable to four-legged beasts. Humans, being fond of those beasts, would then set fires that would keep trees scarce, grass fresh and abundant. By dividing their energy between edible leaves and stems above ground and fireproof roots and runners below, grasses could thrive amid fires set by lightning and fires set by men. 
+    The alliance of humans, perennial grasses, and grazing animals brought about the first great wave of human-led expansion. Glaciers, too, lent a hand: in effect, the Pleistocene Ice Age extended the African savanna over much of the dry surface of the globe. The temperate zone, where not intemperately iced over, took the shape of tundra or steppe. Trees fled from the prevailing cold, and grasses took their place. Humans joined tigers, lions, bears, and other carnivores in a movable feast such as the Earth had never seen. 
+    Every hundred thousand years or so, an interglacial period would crash this picnic and cramp the trophic pyramid of the grasslands. The planet would warm up and the glaciers would recede, tugging the steppe after them. Forests--far less hospitable to big game--would edge northward. Human numbers would plummet, then recover twenty or thirty thousand years later as the glaciers and grasses came back. 
+    Tested perhaps twenty times over the course of two million years, humans finally found a way out. Whether that had to do with the direness of this particular challenge--to which, after all, such awful beasts as the cave bear and woolly mammoth succumbed--or with the fact that it came when a certain threshold of technical skill had been crossed, we do not know. 
+    At first, their response to this interglacial period was a more violent version of their usual response: to discourage trees and encourage perennial grasses. Indeed, the clearing of the forests of Europe was begun by Mesolithic peoples as a response to the postglacial expansion of forests. 

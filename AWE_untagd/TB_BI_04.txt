@@ -1,0 +1,19 @@
+<Register: TB>
+<Topic/Discipline: BI>
+<Author(s): Wilson, Salyers, Whitt, Winkler>
+<Source: ebrary>
+<Pages: 131>
+<Wd Ct: 572>
+<End Header>
+
+Animal Models of Infection Human Volunteers 
+
+We start with the best possible model for studying human disease: humans. Human volunteers can be, and have been, used in many infectious disease studies. Ethical considerations make this approach problematic unless the disease is not life threatening, is easily treatable, or can be prevented with a vaccine. Human volunteers have played an important role in testing of vaccines against cholera, chancroid (genital ulcers), and gonorrhea, all diseases for which there is no suitable animal model. Also, antibiotic intervention trials, such as those to assess the efficacy of antibiotic treatments for ulcers or atherosclerosis, are also ethically defensible, because the treatment presumably does no harm to the participants and may even benefit them. 
+
+Some human trials, on the other hand, have raised ethical issues. A recent example is provided by the large trials in Thailand and Africa in the 1990s of a short course of zidovudine (AZT) therapy to prevent mother-to-infant transmission of human immunodeficiency virus (HIV). Developing countries cannot afford to use the long-term AZT regimen used in developed countries to prevent maternal transmission of HIV, a regimen that starts early in pregnancy and continues for months after childbirth. Physicians had begun to suspect that a much shorter course of AZT would protect newborns nearly as well and a lot more cheaply. 
+
+The controversy arose because the control group received a placebo, whereas the trial group received the short-term course of AZT. Although this seems at first glance to be a rational design, it would not be approved in any developed country. The ethically acceptable test design in developed countries would be to compare women treated with the long course of AZT, a treatment known to be effective, with those treated with the shorter course. Scientists in the United States and Europe questioned the ethics of the short-course trial on the basis that the trial applied an ethical standard to people in developing countries different from the one applied to people in developed countries. 
+
+Why were scientists in developed countries, especially the United States, so concerned over the ethical issues raised by this test? One reason is a human trial called the Tuskegee syphilis experiment, which was conducted in the United States under the auspices of the precursor of today’s National Institutes of Health. In this trial, men with syphilis were not treated but instead were merely observed as the disease took its course (Box 8– 1). This ‘‘experiment’’ was initiated in the 1930s but continued until the first accounts of it appeared in the news in 1972. Two other unethical experiments took place in the 1960s. One was the Jewish Chronic Disease Hospital study, in which chronically ill patients were injected with live cancer cells to see if the cancer cells would be rejected. In the second study, mentally handicapped children newly admitted to the Willowbrook State School in New York were injected with viable hepatitis virus to study the course of infection. 
+
+These are only a few examples of historical events that eventually led to the current ethical guidelines and federal regulations concerning human research subjects, which are based on the Belmont Report of 1979. This report, written by a National Commission for the Department of Health and Human Services, identified three ethical principles that must be maintained in the conduct of research involving humans: respect for persons (informed consent), beneficence (maximize benefit and minimize harm), and justice (fair treatment and risk distribution). 

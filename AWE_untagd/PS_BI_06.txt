@@ -1,0 +1,28 @@
+<Macro-register: AW>
+<Register: PS>
+<Topic/Discipline: Biology>
+<Author(s): Loewenstein>
+<Source:  The Touchstone of Life Molecular Information, Cell Communication, and the Foundations of Life>
+<Pages: >
+<Wd Ct: 594>
+<End Header>
+
+Entropy, in its deep sense brought to light by Ludwig Boltzmann, is a measure of the dispersal of energy--in a sense, a measure of disorder, just as information is a measure of order. Any thing that is so thoroughly defined that it can be put together only in one or a few ways is perceived by our minds as orderly. Any thing that can be reproduced in thousands or millions of different but entirely equivalent ways is perceived as disorderly. The degree of disorder of a given system can be gauged by the number of equivalent ways it can be constructed, and the entropy of the system is proportional to the logarithm of this number. When the number is 1, the entropy is zero (log 1 = 0). This doesn't happen very often; it is the case of a perfect crystal at absolute zero temperature. At that temperature there is then only one way of assembling the lattice structure with molecules that are all indistinguishable from one another. As the crystal is warmed, its entropy rises above zero. Its molecules vibrate in various ways about their equilibrium positions, and there are then several ways of assembling what is perceived as one and the same structure. In liquids, where we can have atoms of very many different kinds in mixture and in huge amounts, the number of equivalent ways for assembly gets to be astronomical. Enormous changes of entropy, therefore, are necessary to organize the large protein and nucleic acid molecules that are characteristic of living beings. The probabilities for spontaneous assembly of such molecules are extremely low; probability numbers of the order of 10-50 are not uncommon. Thus, it is practical to express entropy quantities (like information in equation 1) logarithmically. 
+    Boltzmann's entropy concept has the same mathematical roots as the information concept: the computing of the probabilities of sorting objects into bins--a set of N into subsets of sizes ni. By computing how many ways there are to assemble a particular arrangement of matter and energy in a physical system, he arrived at the expression of entropy (S), the statistical mechanical expression of the thermodynamic concept 
+S = -k  ? pi  ln pi .
+             i
+where k is Boltzmann's constant (3.2983 x 10-24 calories/ºC). 
+    Shannon's and Boltzmann's equations are formally similar. S and I have opposite signs, but otherwise differ only by their scaling factors; they convert to one another by the simple formula S -(k ln 2) I. Thus, an entropy unit equals -k ln 2 bit. 
+    The Information-Entropy Trade-Off 
+Information thus becomes a concept equivalent to entropy, and any system can be described in terms of one or the other. An increase of entropy implies a decrease of information, and vice versa. In this sense, we may regard the two entities as related by a simple conservation law: the sum of (macroscopic) information change and entropy change in a given system is zero. This is the law which every system in the universe, including the most cunning biological Maxwell demons, must obey. So, when a system's state is fully determinate, as in our two eight-state examples in Figure 1.2, the entropy or uncertainty associated with the description is evidently zero. At the other extreme, the completely naive situation where each of the eight states is equally probable (when all cards are face down), the information is zero and the thermodynamic entropy is equivalent to 3 bits. In general, for a system with 2n possible states, the maximum attainable information and its equivalent maximum attainable thermodynamic entropy equal n bits. 
+
+
+
+
+
+
+
+
+
+
+

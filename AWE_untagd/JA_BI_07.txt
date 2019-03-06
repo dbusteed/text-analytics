@@ -1,0 +1,57 @@
+<Macro-register: AW>
+<Register: JA>
+<Topic/Discipline: Biology>
+<Author(s): Moraes, Duarte, Miller>
+<Source: Journal of Natural History>
+<Pages: >
+<Wd Ct: 587>
+<End Header>
+
+Thoracic segments ferruginous dorsally, yellowish ventrally. Legs brown, tibiae
+without spines, tibial spurs 0:2:4, asymmetrical and well-developed; tarsi with spines
+randomly distributed on posterior surface, first tarsomere with length equal to the
+sum of the others, arolium cordate. Fore wing triangular with outer margin straight.
+Dorsal surface ferruginous brown; oblique, postmedian band from costal margin to
+inner margin, two dorsal white spots on band: one between R3 and R4, the other
+between R4 and R5, the latter not visible in males; whitish spot across the distal end
+discal cell and between M1 and M2, more evident in females. Ventral surface beige,
+brighter triangular area extends from vertex to anal angle, pattern of spots similar to
+the dorsal surface, with additional spots between M3 and CuA1, CuA2 and CuP, CuP
+and 2A. Colour pattern of dorsal hind wings variable, usually orange at costal and
+external margin and discal region white or yellowish. Ventral hind wing similar but
+paler, especially along the outer margin.
+Wing venation: fore wing with 14 longitudinal veins. Radius with five branches;
+subcosta separate from R1 at base, terminating beyond half of the length of the costal
+margin; discal cell half the length of the costal margin, partially closed, triangular,
+reduced at end cell; chorda ellipsoidal, extended slightly beyond end discal cell; R1
+and R2 arising from one-third and two-thirds the length of discal cell respectively,
+both ending at costal margin; R3 and R4 stalked, separated beyond the distal half of
+the costal margin; R3 + R4 and R5 separate at the distal end of chorda; R3 ending near
+apex, R4 and R5 ending at outer margin. Origin of M2 and M3 proximal at base; M1,
+M2 andM3 equidistant at distal portion; origin of CuA1 at three-fourths of the length
+of the discal cell, and CuA2 at half the length of the discal cell; CuP arising at the base
+of discal cell; accessory cell, usually present posterior to discal cell, closed by cross vein
+m3-cua1. Origin of 2A and 3A at the wing base, connected by cross vein 2a-3a; 3A not
+reaching the outer margin. Hind wing with nine longitudinal veins. Discal cell open.
+Vein Sc + R1 ending before apex; Rs and M1 stalked slightly less than one-fourth the
+length of the costal margin; M2, M3, CuA1 and CuA2 arising near the accessory cell
+formed by the cross vein m3-cua1; 1A + 2A and 3A not forked at base and ending at
+outer margin.
+Abdominal segments yellow or whitish with tergites A1–A3 brown; ventral surface
+of all segments yellowish, with a prominent scale tuft at the end of abdomen.
+Male genitalia: tegumen rectangular in dorsal view. Uncus with three lobes, lateral
+lobes wider than medial one. Gnathos excavate posteriorly, dorsal and ventral arms
+sclerotized, fused anteriorly. Distal end of valva aquiline, inner surface with tooth-like
+projection; upper margin convex beyond the costa, lower margin excavate; costa sclerotized.
+Vinculum rectangular. Subscaphium moderately sclerotized. Sacculus weakly
+developed, consisting of a fold on the inner surface of the valva, oriented anteriorly.
+Saccus developed, anterior projections rounded and apically curved. Juxta apparently
+absent. Penis recurved and contorted; spines located in a sclerotized plate at the distal
+region; vesica lacking cornuti. Coecum developed, longer than the maximum diameter
+of the ejaculatory bulb foramen, usually ornamented with ridges.
+Female genitalia: eighth tergum with anterior margin concave, central band
+weakly sclerotized, extending beyond the middle portion but never reaching the
+posterior margin; posterior half subtriangular or sometimes slightly rounded, with lateral
+margin sinuous. Lamella antevaginalis weakly sclerotized. Lamella postvaginalis
+absent. 
+

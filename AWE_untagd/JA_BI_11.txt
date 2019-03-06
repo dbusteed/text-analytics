@@ -1,0 +1,56 @@
+<Macro-register: AW>
+<Register: JA>
+<Topic/Discipline: Biology>
+<Author(s): Alves-Silva and Del-Claro>
+<Source: Journal of Natural History>
+<Pages: >
+<Wd Ct: 584>
+<End Header>
+
+Methods
+The behavioural observations (all occurrence sampling, see Altmann 1974) were carried
+out in a tropical savanna area (cerrado, sensu stricto, see Goodland 1971) of Clube
+de Caça e Pesca Itororó de Uberlândia (CCPIU), Minas Gerais State, Brazil (15?57’S,
+48?12’W; 863 m), in August, 2008. We tagged shrubs (n = 20) of S. lycocarpum
+Journal of Natural History 395
+of similar phenological state and size (one to two metres in height) infested with
+E. brasiliensis, and as soon as an aggregation of membracids was found by active
+search, we registered: the number of individuals and their stage of development; the
+presence of thrips (larvae or adults, and their numbers) and if they were attached to a
+membracid’s body; the body part used by the thrips; and the presence of ants tending
+the membracids.
+Fieldwork observations were made in the mornings from 08:00 to 11:00
+(n = 10 days). Each day, two S. lycocarpum individuals were chosen by sort, and we
+spent 90 minutes of observations on themembracid aggregation present on each plant,
+either on the leaves or on the branches, totalling 30 hours of field observation. Each
+plant observed was used only once.
+Seven individuals of E. brasiliensis (three adults and four nymphs) infested with
+thrips were collected from S. lycocarpum plants other than the ones used in the observations,
+and placed individually in small plastic tubes (5 cm in diameter and 6 cm in
+height) and taken to the laboratory in order to observe the thrips’ behaviour under the
+stereomicroscope. The membracids were kept in the tubes for three days and observations
+were made for 15 minutes every two hours, from 08:00 to 18:00. In each period of
+observation, we registered the presence or absence of A. dictyotus on the membracids’
+bodies. Another eight membracids (four adults and four nymphs) that were not associated
+with thrips were also taken to the laboratory, in order to offer them for thrips
+which eventually had left their hosts by means of the death of the latter.
+In March 2010, we conducted complementary observations on the same plants
+used in 2008.We investigated the interactions of thrips, tending ants and membracids,
+as earlier observations showed that not only the membracids, but also ants could dislocate
+or inhibit the presence of thrips in the colonies of membracids. We registered
+whenever there were E. brasiliensis parasitized and what species of ants were present
+at the aggregation. Moreover, more thrips were collected in the field and taken to the
+laboratory in order to observe their feeding behaviour on the membracids. The observations
+involved one adult and eight larvae of the thrips, which were put into a Petri
+dish on a leaf of S. lycocarpum infested with E. brasiliensis (12 nymphs and two adults).
+The Petri dish was put under a stereomicroscope and filmed with a Motic Moticam
+2000® (Sony Electronic Inc., California, USA) digital camera for five hours.
+We performed descriptive statistical analysis (mean and standard deviation (SD))
+regarding the number of thrips and membracids sampled as well as their stage of
+development. To compare the difference in the numbers of adults and immatures of
+E. brasiliensis we made a Mann-Whitney U test, given that data did not present normal
+distribution. For thrips we made a non-parametric goodness of fit chi-square test,
+grouping the data for all 20 plants, both because of the small number of individuals
+found and also because in many plants the presence of thrips was zero as recommended
+in Wimp and Whitham 2001. 
+

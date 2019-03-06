@@ -1,0 +1,27 @@
+<Macro-register: AW>
+<Register: PS>
+<Topic/Discipline: Biology>
+<Author(s): Goudsmit>
+<Source: Viral Sex The Nature of AIDS>
+<Pages: >
+<Wd Ct: 565>
+<End Header>
+
+If all known HIV types have gained the virulence to cause AIDS and death, is this virulence now increasing or decreasing? Does the HIV of the Western epidemic cause AIDS faster now than in the early 1980s? Preliminary evidence is discouraging at first glance. A collaborative study of homosexual groups in San Francisco, New York, and Amsterdam showed that men infected during the first five years of the epidemic remained healthy longer than those infected during the second five years. This suggests that HIV virulence had increased in these gay communities. 
+The good news is that virulence seems to have dropped slightly since then (Figure 1.2). Of course, even the fastest acting AIDS usually takes four to six years to develop, so most Amsterdam men in our first five-year group were infected soon after HIV entered the community in 1980. The second five-year group was infected in the mideighties, at the peak of sexual activity and HIV infection among Amsterdam homosexuals. Since that high point of 1984-1985, when HIV incidence (i.e., new infections) was 8 percent, the incidence among these men has steadily declined. It had dropped below 1 percent in 1993. Over this same period, HIV circulation has decreased along with high-risk sex. Because of educational programs and other factors, many gay men in Amsterdam have reduced the number of their sex partners and their episodes of unprotected anogenital contact. 
+Both types of reduction lower the risk, but particularly the latter. Whether sex is homosexual or heterosexual, the probability of acquiring HIV-1 is related less to promiscuity than to the type of contact and the sex of the partner. Especially among men who have sex with men, the number of partners is far less important than the kind of sex they practice. 
+The most dangerous sex is anogenital: anal penetration by the penis. The more often an uninfected man is anally penetrated by a man infected with HIV-1, the greater his chance of acquiring HIV and AIDS, whether his partners are few or many. Limited studies of heterosexual couples in Africa suggest a parallel, at least with regard to some HIV-1 strains. That is, the more frequently an uninfected woman is anally penetrated by a seropositive man, the greater her risk, whether the situation is monogamous or polygamous. 
+The safest sex is that between two women, even if they engage in anal stimulation. In fact, two women engaged in such contact (i.e., nonpenile but involving some kind of penetration) are at less risk than two men engaged in the same type of contact, possibly because force is less often a factor. The more forceful the anal penetration, the more likely it is to cause lesions, which invite infection. 
+We are very encouraged to see that safer sex may have reduced not only new HIV infections but HIV virulence in Amsterdam. Preliminary data from our Amsterdam cohort studies show that men newly infected when circulation had dropped (from 1989 to 1993) are progressing more slowly to AIDS than men infected when HIV circulation was highest (from 1984 to 1988). 
+Much evidence suggests that HIV virulence, or damage, is directly related to its rate of circulation. This is because the virus load needed for efficient HIV transmission depends on virus reproduction within host cells that are crucial to host well-being. As already noted, the faster and more often HIV changes hosts, the more deadly it becomes. 
+
+
+
+
+
+
+
+
+
+
+

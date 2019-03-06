@@ -1,0 +1,18 @@
+<Macro-register: AW>
+<Register: JA>
+<Topic/Discipline: Biology>
+<Author(s): Zylbersztejn, et al>
+<Source: Journal of Cell Biology>
+<Pages: >
+<Wd Ct: 555>
+<End Header>
+
+Results and discussion
+Sema3A-mediated repulsion but not Sema3C-mediated attraction requires Syb2
+To determine the function of Syb2 in axon guidance, we analyzed the guidance responses of cortical explants treated with botulinum neurotoxin D (BoNT/D; Schiavo et al., 2000) and cortical explants from Syb2 knockout mice (Schoch et al., 2001). The explants were embedded in plasma matrix facing an aggregate of cells stably secreting Sema3C, Sema3A, or mock. After 24 h of culture, we analyzed both the ratio of proximal over distal axonal length as well as the turning angles of the axons in the area perpendicular to the gradient (Fig. 1 A; Bagnard et al., 1998).
+Syb2 is not necessary for Sema3C-mediated attraction, but is essential for Sema3A-mediated repulsion in cortical explants. (A) Scheme of areas quantified for each explant. P, proximal area; D, distal area; T, areas perpendicular to the gradient where ...
+In 3D culture systems, Syb2 is not required for axonal growth of both cortical and dorsal root ganglion (DRG) neurons, as shown by BoNT/D and genetic invalidation (Fig. S1). However, we found a striking requirement of Syb2 for Sema3A-induced repulsion, but not for Sema3C-induced attraction in E15 cortical explants (Fig. 1). In the control condition, Sema3C induced an increase of axonal length in the proximal area and an attractive turning of the axons toward the source as described previously (Bagnard et al., 1998). BoNT/D treatment fully cleaved Syb2 (Fig. S1) but did not affect Sema3C-induced attraction (Fig. 1, B–E). On the contrary, Sema3A decreased axonal length in the proximal area and repelled the axons away from the source in control explants, but did not have any effect in BoNT/D-treated explants (Fig. 1, B–E). To further demonstrate the need for a functional Syb2 in Sema3A repulsion but not Sema3C attraction, we performed guidance assays in Syb2+/+, Syb2+/-, and Syb2-/- explants. We found that the absence of Syb2 in -/- cortical explants abolished the repulsive effects of Sema3A, whereas it had no effect on Sema3C-mediated attraction (Fig. 1, F–I). These results demonstrate that Syb2 is required for the repulsion induced by Sema3A but not for growth or the attraction mediated by Sema3C in cortical axons ex vivo.
+We then asked whether Syb2 controls the repulsive response to Sema3A by affecting the acute chemotactic responses of axonal growth cones from isolated neurons in a well-defined concentration gradient. We first cultured dissociated embryonic day 15 (E15) cortical neurons grown in microchambers framed by two reservoirs to produce a linear gradient. We then generated a Sema3A or Sema3C gradient and observed axonal growth cone turning 3 h after the onset of the gradient by time-lapse video microscopy, and quantified the results as described previously (Yam et al., 2009). We found that cortical axons respond to Sema3C by turning toward the source whether or not Syb2 was acutely inactivated by BoNT/D (Fig. 2, A and B). However, Sema3A repulsive turning was abolished by treatment with BoNT/D (Fig. 2, A and B). These experiments further show that Syb2 is not necessary for Sema3C-induced attraction, but is essential for Sema3A-induced repulsion of isolated cortical axonal growth cones.
+
+Syb2 is required for Sema3A-mediated repulsion, but not Sema3C-mediated attraction, in dissociated neurons. (A) E15 dissociated cortical neurons were grown in Ibidi microchambers in medium with or without BoNT/D. At t = 0 h, 3 µg/ml of control, ...
+

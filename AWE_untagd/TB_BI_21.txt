@@ -1,0 +1,23 @@
+<Register: TB>
+<Topic/Discipline: BI>
+<Author(s): Jorgenson>
+<Source: ebrary>
+<Pages: 133>
+<Wd Ct: 535>
+<End Header>
+
+Spatial models 6.1 Introduction Forcing functions and parameters representing the properties of the organisms in ecosystems may often be spatially distributed. It implies that the state variables, which are considered as the result of ecological models also may be spatially distributed. Spatial distribution is characteristic for most ecosystems and it would therefore be important to be able to develop ecological models with spatial distribution. The question that will be discussed in this chapter is: how is it possible to develop spatial models? 
+
+Four methods to deal with the spatial distribution will be presented in this chapter: 
+
+1. The model of a constructed subsurface wetland presented in Figs 3.12– 3.14 is based on a model description based on five boxes. The forcing functions corresponding to the water quality of the inflow water, the temperature of the water and the parameters, are not spatially distributed, but the resulting water quality, that is, the BOD 5 , the ammonium-N, the nitrate N, the organic-N and the phosphorus concentrations (all state variables in mg/l) are all different in the five boxes, because what is the resulting water quality in box 1 is the inflowing water quality for box 2 and so on until the resulting treated water flowing out of box 5 gives the final result of the treatment by the subsurface wetland. The model is a one-dimensional (1D) model because it is just five sequential boxes. A 1D river model could be developed in a similar way. It is of course possible to divide an area or a volume into boxes and thereby build two-dimensional (2D) and three-dimensional (3D) models. The next section will present this approach. 
+
+2. It is also possible as it will be illustrated in the Section 6.3 to use distance as the independent variable instead of time. 
+
+3. Section 6.4 will show how it is possible to present spatial results by use of geographical information system (GIS). Most available GIS software makes it even possible to link GIS with model calculations. It is named surface modelling and it will shortly be mentioned in Section 6.6. 
+
+4. Section 6.5 will demonstrate how the modelling tool cellular automata or lattice can be used to build spatial models. The lattice approach can be used to represent the spatial distribution, but it can also be used to represent individuals of a population. In the first case, we want to emphasize the spatial distribution and therefore call the resulting model a spatial model, while we will call the resulting model an individual based model when the differences among the individuals of a population are emphasized. In the last section (Section 6.7) the lattice approach is used to illustrate an individual based model (IBM), although the same model could in principle also be considered as a spatial model, but in this case the individual differences are considered as the most important feature of the model. The model focuses on the role of conjugation in the evolution. 
+
+6.2 2D and 3D models 
+
+The classical method to account for the spatial distribution is to divide the ecosystem into boxes. It is, of course, possible to take into consideration that the forcing functions and the parameters (properties) are different in the different boxes. 

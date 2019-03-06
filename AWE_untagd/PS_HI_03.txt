@@ -1,0 +1,24 @@
+<Macro-register: AW>
+<Register: PS>
+<Topic/Discipline: History>
+<Author(s): Akenson>
+<Source:  Surpassing Wonder The Invention of the Bible and the Talmuds>
+<Pages: >
+<Wd Ct: 586>
+<End Header>
+
+The great inventor was nothing if not respectful. He was as much a curator of old traditions as he was an editor, and he was more an editor than he was an author. His shaping of old stories may seem to modern eyes, almost too gentle, too respectful, for he preserves archaism and forms of words that few, if any, of his own generation fully understood. And he keeps in one long narrative duplicate versions of the same story, and these frequently do not entirely agree. (Compare, for example, Moses' extensive instructions concerning public worship in Exodus, chapters 25-31 and chapters 35-40.) But that is what historians do, even today: when their sources do not agree, they do not destroy one version and march blithely on with a false consonance. If two versions of a report are equally apposite, but incompatible with each other, the reader is not denied that knowledge. The more an historical account includes primary material, the more such dissonances are preserved. 
+    So, he collected stories, documents, bits of poetry, hymns, mnemonic litanies of dos and don'ts, rules for priestly ritual, and architectural details of votive structures. The final version of the inventor's great work contains plenty of clues as to how he worked. For instance, in Kings he several times cuts short what otherwise would be a long and tiresome discussion of some second-line king, with the query, are not the acts of King So-and-So "written in the book of the chronicles of the kings of Israel?" (for example II Kings 1:18; 15:26; 15:31; 15:36) or written in the "book of the chronicles of the kings of Judah?" (for example II Kings 15:36; 16:19; 20:20; 21:17; 21:25). He also refers to a volume known as the "book of the acts of Solomon" (I Kings 11:41). Clearly, he is referring to historical scrolls that he has to hand, and, further, these are not rare items. They must have been widely known within the religious elite, or he could not have referred to them with the easy confidence that his colleagues would be acquainted with them. Also, the great inventor (or perhaps one of his predecessors, for he was the final curator, editor and author of a mass of material that had been piling up for centuries), refers to some books of scripture that the ancient Israelites possessed, but which are now lost, seemingly forever. Thus in Numbers (21:14) there is a tantalizing reference to the Book of the Wars of Yahweh. In this case, our editor-author gives no hint that he has actually seen the book, and it may be that his reference is secondhand, encapsulated in an earlier scroll that he is using for part of his collection of ancient Israel's central traditions. But if so, even this is revealing: he has not tinkered with the text he has received, even if it leaves him, like us, yearning to see the original Book of the Wars of Yahweh. In a more familiar way, indicating that he has seen the original, the editor-author cites in the Book of Joshua (10:13) the contents of the Book of Jashar, which deals with Joshua's making' the sun and moon stand still so that the children of Israel could finish their slaughter of the Amorites unimpeded by nightfall. 
+    Part of the cultural and religious inheritance of the Chosen People was preserved orally: hymns, epic poems, short verse compositions that border on doggerel, folk tales, law cases, and, perhaps longer epics, items that came close to being sagas. 
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,58 @@
+<Macro-register: AW>
+<Register: JA>
+<Topic/Discipline: History>
+<Author(s): Grandin>
+<Source: American Historical Review>
+<Pages: >
+<Wd Ct: 582>
+<End Header>
+
+Embedded in such questions is the principle that only a morally responsible nation
+could be sovereign. What was judged moral changed according to the circumstance:
+at times it meant the ability to exercise effective control of a population and
+territory; at other times it meant democratic or procedural legitimacy—with the best
+way to protect foreign private property serving as the variable determining which of
+these two standards Washington applied. But in either case, what counted was that
+the United States reserved the right, often invoking its own sense of exceptionalism,
+to be the judge.
+In marked contrast, Spanish-American republics were conceived into confederation,
+nations among nations, confirmed at the time of independence by a general
+acceptance of colonial administrative borders as the limits of the new republics. In
+a series of post-independence treaties, conferences, constitutions, and declarations,
+regional diplomats and jurists revitalized the doctrine of uti possidetis, or “as you
+possess,” which under Roman law had referred to the control of territory at the end
+of a conflict. They were not the first to apply the standard to the process of decolonization;
+the United States had done so earlier, during its revolution, in an effort
+to reach a settlement with Great Britain. Yet it was in South and Central America,
+where foreign ministries throughout the nineteenth century repeatedly invoked what
+they had taken to calling “uti possidetis of 1810” to insist that no part of the Americas
+lacked sovereignty, that the “principle developed into a rule.”48
+Despite these legal affirmations, much of the region was in fact outside of administrative
+control (including large swaths of the Amazon, the coastal islands, Patagonia,
+and northern Mexico), and border lines were vague and contested; valuable
+resources such as rubber and oil were found on one side or the other, leading to more
+than a century of episodic conflict and occasional full-scale wars, from the 1825
+confrontation between Brazil and Argentina over Montevideo to the Chaco War between Paraguay and Bolivia in the 1930s. Yet every diplomatic effort to resolve
+these disputes appealed to uti possidetis, which solidified the legitimacy of the principle
+and led to its acceptance despite conflicting interpretations.49 (Brazil tended
+to emphasize uti possidetis de facto, which stressed effective possession; Spanish
+America defended uti possidetis juris, which invested legitimate possession in Spanish
+royal decrees.) By the early 1900s, the doctrine had become the foundational principle
+of what Latin American jurists called American international law, based on the
+ideal of non-aggression, interdependence, and solidarity rather than on realpolitik
+rivalry.
+In the United States, an ideal of individual natural rights immediately harmonized
+with and reinforced a definition of sovereignty conditioned on the protection
+of those rights. In Latin America, the link between a “common good” notion of
+citizenship and a “common good” vision of territorial sovereignty was at first formalistic,
+more of an analogy than mutually constitutive: individuals, like nations,
+exist not in isolation but in harmony, bound together as equals by mutual needs and
+limitations. But over time there developed a more dependent relationship. Efforts
+to institutionalize social rights entailed state intervention in the economy, which
+often provoked domestic and foreign interests to retaliate. Coups executed or supported
+by the U.S. in Guatemala in 1954, Brazil in 1964, and Chile in 1973 are among
+the most well-known examples of such retaliation, though there are many other examples;
+between 1898 and 1994, according to historian John Coatsworth, Washington
+had “intervened successfully to change governments in Latin America a total
+of at least 41 times.” 
+
