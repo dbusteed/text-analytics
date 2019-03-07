@@ -51,17 +51,20 @@ for i, file_name in enumerate(files):
         counts[reg_code] = {'TOTAL_LEN': 0}
 
     # split the txt into tokens
-    tokens = nltk.word_tokenize(txt)
-
+    tokens = re.split(r'[%\d:"\]\[;\s+\.\?!,)(/-]', txt)
+    tokens = [tok for tok in tokens if len(tok) > 1] # gets rid of blanks and single letter 'nouns'
+    
     # add up the length of these tokens so that 
     counts[reg_code]['TOTAL_LEN'] += len(tokens)
 
+    # find the POS to each tag
     tags = nltk.pos_tag(tokens)
 
+    # loop thru each of the tagged words 
+    # (use an incramentor to select the i-th and i+1-th word)
     for i in range(0, len(tags)-1):
-        
-        # get rid of weird things?
-
+    
+        # if the current and following word was tagged as a common noun
         if tags[i][1] in COMMON_NOUNS and tags[i+1][1] in COMMON_NOUNS:
             
             # combine the two nouns so that it can be used
@@ -74,6 +77,7 @@ for i, file_name in enumerate(files):
             else:
                 counts[reg_code][combo] += 1
 
+# after all the files have been read thru, sort and calculate norm count
 for inner_dict in counts.values():
 
     total_len = inner_dict['TOTAL_LEN']
@@ -94,7 +98,7 @@ for reg_code, results in counts.items():
     # sort the freq list DESC
     counts[reg_code] = sorted(results.items(), key=lambda x:x[1], reverse=True)
 
-    
+    # create a new file (overwrite if existing)
     with open('noun_pair_freq_' + reg_code + '.csv', 'w') as f:
         
         # CSV header
@@ -104,8 +108,10 @@ for reg_code, results in counts.items():
         # loop thru the sorted tuples and write to file
         for combo_noun, freq in counts[reg_code]:
 
+            # split the nouns back into two seperate nouns
             nouns = combo_noun.split('_')
 
+            # write the following to the csv
             f.write(f'{nouns[0]},{nouns[1]},{freq}\n')
 
     print(f'Freq list created for the {reg_code} register -- ({len(counts[reg_code])} different noun pairs found)')
