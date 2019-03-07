@@ -15,17 +15,21 @@
 # pairs across the six registers. Also, report the precision and recall measurements in the sample 
 # of the corpus you chose.
 
+# import libraries
 import nltk
 import os
 import math
 import re
 
+# some constant values
 PATH_TO_CORPUS = '../AWE_untagd'
 NORMALIZE_COUNT = 1000
-NOUNS = ['NN', 'NNS']
+COMMON_NOUNS = ['NN', 'NNS']
 
+# get all the files
 files = os.listdir(PATH_TO_CORPUS)
 
+# empty dictionary for storing counts
 counts = {}
 
 # loop thru the files (i/enumerate are just for progress bar)
@@ -35,26 +39,36 @@ for i, file_name in enumerate(files):
     if i % (len(files) / 10) == 0 or i == len(files)-1:
         print('\rCompletion: {0}%'.format(math.ceil(( i / (len(files)/10) )*10)), end='')
 
+    # read the file into memory and get rid of the header
     txt = open(os.path.join(PATH_TO_CORPUS, file_name), 'r').read().lower()
     txt = txt.split('<end header>')[1]
 
+    # first 5 chars identify the register
     reg_code = file_name[:5]
 
+    # if first time seeing this register
     if reg_code not in counts:
-        counts[reg_code] = {'TOTAL_LEN': 0,}
+        counts[reg_code] = {'TOTAL_LEN': 0}
 
+    # split the txt into tokens
     tokens = nltk.word_tokenize(txt)
 
+    # add up the length of these tokens so that 
     counts[reg_code]['TOTAL_LEN'] += len(tokens)
 
     tags = nltk.pos_tag(tokens)
 
     for i in range(0, len(tags)-1):
         
-        if tags[i][1] in NOUNS and tags[i+1][1] in NOUNS:
+        # get rid of weird things?
+
+        if tags[i][1] in COMMON_NOUNS and tags[i+1][1] in COMMON_NOUNS:
             
+            # combine the two nouns so that it can be used
+            # as a key for the dictionary of counts
             combo = '_'.join([ tags[i][0], tags[i+1][0] ])
             
+            # increment the count for this noun pair
             if combo not in counts[reg_code]:
                 counts[reg_code][combo] = 1
             else:
@@ -74,11 +88,14 @@ for inner_dict in counts.values():
 
 print('\n')
 
+# loop thru the counts to sort and output to CSV
 for reg_code, results in counts.items():
 
+    # sort the freq list DESC
     counts[reg_code] = sorted(results.items(), key=lambda x:x[1], reverse=True)
 
-    with open('dbl_noun_freq_' + reg_code + '.csv', 'w') as f:
+    
+    with open('noun_pair_freq_' + reg_code + '.csv', 'w') as f:
         
         # CSV header
         f.write(f'{reg_code},\n\n')

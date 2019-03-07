@@ -1,6 +1,6 @@
 TB_HI,
 
-noun1,noun2,frequency
+noun1,noun2,normed_freq
 massacre,’,0.38
 world,war,0.31
 richard,nixon,0.19

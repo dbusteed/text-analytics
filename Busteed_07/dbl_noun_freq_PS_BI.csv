@@ -1,6 +1,6 @@
 PS_BI,
 
-noun1,noun2,frequency
+noun1,noun2,normed_freq
 homo,erectus,0.31
 cocoa,beans,0.25
 fossil,record,0.18

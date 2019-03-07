@@ -1,6 +1,6 @@
 TB_BI,
 
-noun1,noun2,frequency
+noun1,noun2,normed_freq
 et,al.,0.5
 s,environment,0.25
 cell,wall,0.25

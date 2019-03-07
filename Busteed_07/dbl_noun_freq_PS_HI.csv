@@ -1,6 +1,6 @@
 PS_HI,
 
-noun1,noun2,frequency
+noun1,noun2,normed_freq
 world,war,0.31
 status,quo,0.25
 state,governments,0.18

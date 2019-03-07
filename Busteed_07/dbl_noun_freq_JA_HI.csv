@@ -1,6 +1,6 @@
 JA_HI,
 
-noun1,noun2,frequency
+noun1,noun2,normed_freq
 world,history,0.86
 jin,yi,0.43
 time,discipline,0.31
