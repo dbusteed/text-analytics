@@ -10,16 +10,8 @@
 # then write 6 .csv files, one for each of the registers, with three columns: noun1, noun2,
 # normed_freq, arranged in descending order by frequency (with the most frequency pair first). 
 
-# With a small sample of the corpus (a file or two), check precision and recall of your program. 
-# In a .docx file, write a report in which you interpret and compare the frequency of noun + noun 
-# pairs across the six registers. Also, report the precision and recall measurements in the sample 
-# of the corpus you chose.
-
 # import libraries
-import nltk
-import os
-import math
-import re
+import nltk, os, math, re
 
 # some constant values
 PATH_TO_CORPUS = '../AWE_untagd'
@@ -40,8 +32,8 @@ for i, file_name in enumerate(files):
         print('\rCompletion: {0}%'.format(math.ceil(( i / (len(files)/10) )*10)), end='')
 
     # read the file into memory and get rid of the header
-    txt = open(os.path.join(PATH_TO_CORPUS, file_name), 'r').read().lower()
-    txt = txt.split('<end header>')[1]
+    txt = open(os.path.join(PATH_TO_CORPUS, file_name), 'r').read()
+    txt = txt.split('<End Header>')[1]
 
     # first 5 chars identify the register
     reg_code = file_name[:5]
@@ -50,34 +42,39 @@ for i, file_name in enumerate(files):
     if reg_code not in counts:
         counts[reg_code] = {'TOTAL_LEN': 0}
 
-    # split the txt into tokens
+    # split the txt into tokens and get rid of blanks and single letter 'nouns'
     tokens = re.split(r'[%\d:"\]\[;\s+\.\?!,)(/-]', txt)
-    tokens = [tok for tok in tokens if len(tok) > 1] # gets rid of blanks and single letter 'nouns'
+    tokens = [tok for tok in tokens if len(tok) > 1] 
     
     # add up the length of these tokens so that 
     counts[reg_code]['TOTAL_LEN'] += len(tokens)
 
-    # find the POS to each tag
+    # find the POS for each token
     tags = nltk.pos_tag(tokens)
 
+    # lower case the words so that we can compare them.
+    # this had to be done after the pos_tag(), so that it could
+    # correctly identify proper nouns
+    tags = [ (w.lower(), t) for (w, t) in tags ]
+
     # loop thru each of the tagged words 
-    # (use an incramentor to select the i-th and i+1-th word)
+    # (use a counter to select the i-th and i+1-th word)
     for i in range(0, len(tags)-1):
     
-        # if the current and following word was tagged as a common noun
+        # if the current and following word is tagged as a common noun
         if tags[i][1] in COMMON_NOUNS and tags[i+1][1] in COMMON_NOUNS:
             
             # combine the two nouns so that it can be used
             # as a key for the dictionary of counts
             combo = '_'.join([ tags[i][0], tags[i+1][0] ])
             
-            # increment the count for this noun pair
+            # incrament the count for this noun pair
             if combo not in counts[reg_code]:
                 counts[reg_code][combo] = 1
             else:
                 counts[reg_code][combo] += 1
 
-# after all the files have been read thru, sort and calculate norm count
+# after all the files have been read thru calculate norm count
 for inner_dict in counts.values():
 
     total_len = inner_dict['TOTAL_LEN']
@@ -114,6 +111,7 @@ for reg_code, results in counts.items():
             # write the following to the csv
             f.write(f'{nouns[0]},{nouns[1]},{freq}\n')
 
+    # notify the user of the new file
     print(f'Freq list created for the {reg_code} register -- ({len(counts[reg_code])} different noun pairs found)')
 
 # i just like an blank line for the console output
