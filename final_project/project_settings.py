@@ -1,0 +1,2 @@
+CORPUS_PATH = 'bible_versions'
+CHAPTERS_IN_BIBLE = 1189

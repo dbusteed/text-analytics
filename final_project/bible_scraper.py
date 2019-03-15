@@ -10,33 +10,16 @@
 
 # required modules
 from bs4 import BeautifulSoup, element
+from my_progressbar import start_pbar
+from project_settings import CORPUS_PATH, CHAPTERS_IN_BIBLE
 from requests import get
-import progressbar as pb
 import os
 
 #----------------------------------------------------#
 #                                                    #
-#   STEP 1 -- initial values, constants, functions   #
+#   STEP 1 -- initial values                         #
 #                                                    #
 #----------------------------------------------------#
-
-CORPUS_PATH = 'bible_versions'
-CHAPTERS_IN_BIBLE = 1189
-PBAR_DISPLAY = [pb.Percentage(), ' ', pb.Bar(marker='*', left='[', right=']'), ' ', pb.Timer()]
-
-# used to handle / format multiple uses of progress bar
-def start_pbar(max_val, msg='processing'):
-    
-    # use the existing vars on the outside 
-    # in running the progress bar
-    global i, pbar
-    
-    i = 0
-    print(f'\n{msg}\n')
-
-    # inti the pbar and start
-    pbar = pb.ProgressBar(widgets=PBAR_DISPLAY, max_value=max_val, iterator=i)
-    pbar.start()
 
 # version codes and url snippets
 booklist = {
@@ -47,10 +30,6 @@ booklist = {
     'NIV': 'New-International-Version-NIV-Bible',    
     'NKJV': 'New-King-James-Version-NKJV-Bible',    
 }
-
-# initial progress bar values
-i = 0
-pbar = 0
 
 # this dict will store the version code as the key
 # and an array of book names and the number of chapters in the book
@@ -65,7 +44,7 @@ version_chapters = {}
 #---------------------------------------------------------#
 
 # start a progress bar 
-start_pbar(len(booklist), 'finding number of chapters per book per version')
+pbar, i = start_pbar(len(booklist), 'finding number of chapters per book per version')
 
 for code, url_snippet in booklist.items():
     # ex. code --> 'KJV', url_snippet --> 'King-James-Version-KJV-Bible'
@@ -116,7 +95,7 @@ for version, books in version_chapters.items():
     # ex. version --> 'KJV', books --> [[Gen, 50], [Exo, 40]...]
 
     # do a progress bar for each version
-    start_pbar(CHAPTERS_IN_BIBLE, f'scraping text from {version} Bible')
+    pbar, i = start_pbar(CHAPTERS_IN_BIBLE, f'scraping text from {version} Bible')
     
     # create folder for this translation if not present
     if not os.path.exists(os.path.join(CORPUS_PATH, version)):

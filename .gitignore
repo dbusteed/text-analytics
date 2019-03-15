@@ -4,3 +4,7 @@ __pycache__/*
 .ipynb_checkpoints/*
 bible_versions/*
 bible_versions/
+*.csv
+api_config.py
+*.pdf
+*.json
