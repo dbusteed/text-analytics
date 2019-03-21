@@ -5,6 +5,8 @@ __pycache__/*
 bible_versions/*
 bible_versions/
 *.csv
+*.txt
 api_config.py
 *.pdf
 *.json
+ignore/*
