@@ -147,3 +147,7 @@ for version, books in version_chapters.items():
 
     # finish it off
     pbar.finish()
+
+
+# chapter by chapter, what words are replaced ?
+# chapter by chapter, 

@@ -10,3 +10,4 @@ api_config.py
 *.pdf
 *.json
 ignore/*
+*.docx
