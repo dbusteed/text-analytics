@@ -1,4 +1,0 @@
-sent-analysis:
-    get total sent score for a chapter
-    chart with matplot lib
-    map out total chapter count to start of books?

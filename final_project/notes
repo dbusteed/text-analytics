@@ -1,0 +1,25 @@
+sent-analysis:
+    get total sent score for a chapter
+    chart with matplot lib
+    map out total chapter count to start of books?
+
+# chapter by chapter, what words are replaced ?
+# chapter by chapter, 
+
+
+
+# NIV -- Song of Soloman is Song of Songs
+
+KJV as base
+0 99
+1 100
+2 85
+3 69
+
+AVG score
+
+fuzz wuzz with and without punc
+
+mean, sd of fuzz score, then do again and flag outliers to see how diff they are
+
+FIX SMART QUOTES!!

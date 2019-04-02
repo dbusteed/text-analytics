@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy
 
-df = pd.read_csv('chapter_sentiments.csv')
+df = pd.read_csv( os.path.join('other_data','chapter_sentiments.csv') )
 
 x = df.index
 

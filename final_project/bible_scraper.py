@@ -22,7 +22,7 @@ import os
 #----------------------------------------------------#
 
 # version codes and url snippets
-booklist = {
+booklist_urls = {
     'KJV': 'King-James-Version-KJV-Bible',
     'ESV': 'English-Standard-Version-ESV-Bible',    
     'NASB': 'New-American-Standard-Bible-NASB',    
@@ -44,9 +44,9 @@ version_chapters = {}
 #---------------------------------------------------------#
 
 # start a progress bar 
-pbar, i = start_pbar(len(booklist), 'finding number of chapters per book per version')
+pbar, i = start_pbar(len(booklist_urls), 'finding number of chapters per book per version')
 
-for code, url_snippet in booklist.items():
+for code, url_snippet in booklist_urls.items():
     # ex. code --> 'KJV', url_snippet --> 'King-James-Version-KJV-Bible'
     
     version_chapters[code] = []
@@ -147,7 +147,3 @@ for version, books in version_chapters.items():
 
     # finish it off
     pbar.finish()
-
-
-# chapter by chapter, what words are replaced ?
-# chapter by chapter, 

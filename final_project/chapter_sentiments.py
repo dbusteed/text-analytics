@@ -8,7 +8,7 @@ version_sent = {}
 
 for version in os.listdir(CORPUS_PATH):
 
-    pbar, i = start_pbar(CHAPTERS_IN_BIBLE, f'analyzing sentiment for each chapter in {version} Bible')
+    pbar, i = start_pbar(CHAPTERS_IN_BIBLE, f'Analyzing sentiment for each chapter in {version} Bible')
 
     version_sent[version] = []
 
@@ -41,4 +41,4 @@ for version in os.listdir(CORPUS_PATH):
     pbar.finish()
 
 print('\nSentiments written out to a CSV\n')
-pd.DataFrame.from_dict(version_sent).to_csv('chapter_sentiments.csv', index=False)
+pd.DataFrame.from_dict(version_sent).to_csv( os.path.join('other_data', 'chapter_sentiments.csv'), index=False)

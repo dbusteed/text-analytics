@@ -1,0 +1,19 @@
+LING 360
+Programming for Text Processing and Analysis
+Assignment 11
+
+{"review_id":"elaCi73yKK_F4X_JpD6T8g","user_id":"3X1-GIl0tym4ZIwef4NNhA","business_id":"F8lC8jHCykqPy0h2AJ9lnQ","stars":4.0,"useful":0,"funny":0,"cool":0,"text":"Really happy to have such a unique place like this in Phoenix. The Tea was tasty and the interior is very well laid out. Will definitely come back!","date":"2018-05-19 00:40:27"}
+
+
+Identify two linguistic features that you believe are correlated with the number of stars a business receives. Be creative and use linguistic features you haven’t yet looked at this semester. Your program should create a .csv file with three columns and 119,376 rows (one row for each review in the sample dataset): stars, N_feature1, N_feature2. On a given row in the .csv file, the stars column should give the number of stars the current review has, the N_feature1 column should give the number of times the first linguistic feature occurs in the current review, and the same should be the case for the N_feature2 column. When imported into a spreadsheet, the .csv file should look something like the following:
+stars 	N_feature1 	N_feature2
+3 	0 	1
+2 	2 	0
+5 	0 	0
+etc. 	etc. 	etc.
+
+Next, your program (or a different .py file, if you wish) should do the following: (1) read back into Python your .csv as a pandas DataFrame data structure and (2) run a Pearson correlation test and (3) create two scatterplots with a regression line, one for each of the linguistic features examined.
+
+Write a report in which you interpret the results. Which feature, if any, correlates with number of stars? In which direction (positive or negative correlation)? Why do you think this happens? Do the results confirm or disconfirm what you thought would be the case (your hypothesis)? Also, take a sample of the dataset (20 or so reviews) and measure precision and recall of the regular expressions you used to find the linguistic features. Report those measurements for each linguistic feature.
+
+Turn into the CMS a .zip file with your Python program in a .py file (or two .py files, if you choose to write two), the .csv file your program creates, and your report in a .docx file.
