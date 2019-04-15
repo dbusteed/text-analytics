@@ -1,9 +1,30 @@
-from project_settings import CORPUS_PATH, CHAPTERS_IN_BIBLE
-from project_settings import list_dir_by_time
-from my_progressbar import start_pbar
+# Davis Busteed -- LING 360 -- Final Project
+
+#--------------------------------------------------------------#
+#                                                              #
+#   OVERVIEW -- this script will read thru the Bible corpus    # 
+#               and checks for differences in book,chapter,    #
+#               and verse numbers, then prints out a report    #
+#                                                              #
+#--------------------------------------------------------------#
+
+# import modules
+from shared.project_settings import CORPUS_PATH, CHAPTERS_IN_BIBLE, MISC_PATH
+from shared.project_settings import list_dir_by_time
+from shared.my_progressbar import start_pbar
 import os
 
+OUT_FILE = 'diff_summary.txt'
+
+# counter dictionary (example structure shown below)
 counts = {}
+
+#----------------------------------------------------#
+#                                                    #
+#   STEP 1 -- grab number of chapters and verses     #
+#             for each bible version                 #
+#                                                    #
+#----------------------------------------------------#
 
 for version in os.listdir(CORPUS_PATH):
 
@@ -39,19 +60,28 @@ for version in os.listdir(CORPUS_PATH):
     pbar.finish()
 
 
-# Resutling map will look like this:
+# Resutling dictionary will look like this:
 # { 
-#     'KJV': {'Genesis': [[1, 32], [2, 26] ...'},
-#     'ESV': {'Genesis': [[1, 32], [2, 26] ...'},
+#     'KJV': {'Genesis': [[1, 50], [2, 26] ...'},
+#     'ESV': {'Genesis': [[1, 50], [2, 26] ...'},
 #     ...
 # }
+
+
+#------------------------------------------------------#
+#                                                      #
+#   STEP 2 -- check every version with every version   #
+#             and check that they have same number     #
+#             of book, chapters, and verses. write     #
+#             results out to a .txt file               #
+#                                                      #
+#------------------------------------------------------#
     
 ver = list(counts)
-
 out_string = ''
 
 # this loop will make the indexes to compare each version
-# to every other version once
+# to every other version once (ex: 0-1, 0-2, 1-2)
 for j in range(0, len(ver)):
     for k in range(j+1, len(ver)):
 
@@ -85,7 +115,7 @@ for j in range(0, len(ver)):
 
         out_string += f'# of different verse counts: {total_diffs}\n\n'
             
-print(f'\nSummary of verse counts written to \'diff_summary.txt\'\n')
-
-with open( os.path.join('other_data', 'diff_summary.txt'), 'w', encoding='utf8') as f:
+with open( os.path.join(MISC_PATH, OUT_FILE), 'w', encoding='utf8') as f:
     f.write(out_string)
+
+print(f'\nSummary of verse counts written to {os.path.join(MISC_PATH, OUT_FILE)}\n')

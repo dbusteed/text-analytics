@@ -11,3 +11,4 @@ api_config.py
 *.json
 ignore/*
 *.docx
+*.jpg
