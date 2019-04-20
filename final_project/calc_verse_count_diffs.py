@@ -42,25 +42,33 @@ for version in os.listdir(CORPUS_PATH):
     # get all the books for this version
     books = list_dir_by_time( os.path.join(CORPUS_PATH, version) )
 
+    # go thru the books
     for book_path in books:
 
+        # manage the dictionary
         book_name = os.path.split(book_path)[1]
         counts[version][ book_name ] = []
 
+        # get chapters
         chapters = list_dir_by_time( book_path )
 
+        # go thru the chatpers
         for c,chap in enumerate(chapters):
 
+            # chap_verse is just the chapter and the verses in that chapter
             chap_verse = [(c+1),0]
 
             txt = open(chap, 'r', encoding='utf8', errors='ignore').read()
 
+            # verses split on \n
             for verse in txt.split('\n'):
 
                 chap_verse[1] += 1
-            
+                
+            # put nums in
             counts[version][ book_name ].append(chap_verse)
 
+            # prog bar
             pbar.update(i)
             i += 1
 

@@ -18,8 +18,8 @@ from pandas import DataFrame
 from fuzzywuzzy import fuzz
 import os
 
+# initial vars
 OUT_FILE = 'fuzzy_scores.csv'
-
 version_diffs = {}
 ver = os.listdir(CORPUS_PATH)
 
@@ -47,25 +47,31 @@ for j in range(0, len(ver)):
         
         version_diffs[ver_combo] = []
 
+        # for each book
         for book_idx in range(0, len(books_j)):
             
+            # get all the chapters
             chaps_j = list_dir_by_time( books_j[book_idx] )
             chaps_k = list_dir_by_time( books_k[book_idx] )
 
+            # go thru the chapters
             for chap_idx in range(0, len(chaps_j)):
                 
-                # NEED TO FIX?
-                # txt_j = open(chaps_j[chap_idx], 'r', encoding='utf8', errors='ignore').read()
-                # txt_k = open(chaps_k[chap_idx], 'r', encoding='utf8', errors='ignore').read()
+                # read the chapters in
+                # (these encodings might need to be made more robust)
                 txt_j = open(chaps_j[chap_idx], 'r', encoding="ISO-8859-1",).read()
                 txt_k = open(chaps_k[chap_idx], 'r', encoding="ISO-8859-1",).read()
 
+                # compare the chapters, and save the score
                 version_diffs[ver_combo].append( fuzz.ratio(txt_j, txt_k) )
 
+                # update bar
                 pbar.update(i)
                 i += 1
 
+        # end bar
         pbar.finish()
 
+# save the output
 DataFrame.from_dict(version_diffs).to_csv(os.path.join(MISC_PATH, OUT_FILE), index=False)
 print('\nFuzzy scores written out to a CSV\n')

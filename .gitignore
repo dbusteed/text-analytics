@@ -14,4 +14,4 @@ ignore/*
 *.jpg
 
 !requirements.txt
-
+!final_report.pdf
