@@ -9,9 +9,9 @@
 #-------------------------------------------------------------#
 
 # required modules
-from bs4 import BeautifulSoup, element
-from shared.my_progressbar import start_pbar
 from shared.project_settings import CORPUS_PATH, CHAPTERS_IN_BIBLE
+from shared.my_progressbar import start_pbar
+from bs4 import BeautifulSoup, element
 from requests import get
 import os
 import re
@@ -24,11 +24,11 @@ import re
 
 # version codes and url snippets
 booklist_urls = {
-    # 'KJV': 'King-James-Version-KJV-Bible',
-    # 'ESV': 'English-Standard-Version-ESV-Bible',    
-    # 'NASB': 'New-American-Standard-Bible-NASB',    
-    # 'NLT': 'New-Living-Translation-NLT-Bible',    
-    # 'NIV': 'New-International-Version-NIV-Bible',    
+    'KJV': 'King-James-Version-KJV-Bible',
+    'ESV': 'English-Standard-Version-ESV-Bible',    
+    'NASB': 'New-American-Standard-Bible-NASB',    
+    'NLT': 'New-Living-Translation-NLT-Bible',    
+    'NIV': 'New-International-Version-NIV-Bible',    
     'NKJV': 'New-King-James-Version-NKJV-Bible',    
 }
 
@@ -135,20 +135,27 @@ for version, books in version_chapters.items():
 
                     text = main.findAll(class_='text')
 
+                    # sometimes the chapter has a title that we don't want
                     if text[1].find(class_='chapternum'):
                         text.pop(0)
                         
+                    # for poetry ones, each chapter will just be one long string
                     verse = ''
 
+                    # loop thru the stuff
                     for t in text:
+
+                        # remove tags 
                         [s.extract() for s in t(class_=['crossreference','versenum','chapternum','footnote'])]
 
+                        # depending on what we got, return the text
                         for tag in t:
                             if isinstance(tag, element.Tag):
                                 verse += tag.text + ' '
                             else:
                                 verse += tag + ' '
 
+                    # clean up the verse string by removing big gaps, adding consistent spaces
                     verse = re.sub(r'\.', '. ', verse)
                     verse = re.sub(r'\s{2,}', ' ', verse)
                     verse = re.sub(r'(\s)(\W)(\s)', r'\2\3', verse)
@@ -181,8 +188,6 @@ for version, books in version_chapters.items():
                                         for t in tag:
                                             if not isinstance(t, element.Tag):
                                                 verse += t
-
-                        # verse = re.sub(r'', '"', verse)
 
                         # write the verse to the file seprate by new lines
                         f.write( verse )

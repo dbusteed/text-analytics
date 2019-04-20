@@ -12,3 +12,6 @@ api_config.py
 ignore/*
 *.docx
 *.jpg
+
+!requirements.txt
+

@@ -1,5 +1,12 @@
 # Davis Busteed -- LING 360 -- Final Project
 
+#
+#   NOTE: this script isn't as useful as it once was. after
+#           rewriting the scraper to deal with poetry fomrated
+#           chapters, some chapters are just big long strings, 
+#           which can't really be understood by this script
+#
+
 #--------------------------------------------------------------#
 #                                                              #
 #   OVERVIEW -- this script will read thru the Bible corpus    # 
